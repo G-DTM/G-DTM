@@ -1,0 +1,5 @@
+Datablog: the scale of the 200,000 coronavirus deaths in the US
+The US loss of life from the coronavirus compared to other causes of death
+by  Mona Chalabi
+It can be hard to grasp the fact that 200,000 people have now died as a result of Covid-19 in the US. After all, is 200,000 really so high in a population of 327 million people? To help you understand the scale of loss, we could tell you that this is the equivalent of the entire population of Montgomery in Alabama. Or, we could compare Covid-19 with other causes of death as we have in the images below.
+Comparisons are made using the linear metric of height of the mountain. The comparisons are meant to be based in 2D physics, and do not factor in things like volume. 

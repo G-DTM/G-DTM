@@ -1,0 +1,25 @@
+Letting Covid-19 circulate in hope of herd immunity 'could make it more lethal'
+Study says efforts to prevent spread of disease, such as social distancing, reduce virulence
+A deeply entrenched idea, that newly emerged agents of disease inevitably evolve to become more benign over time, is scientifically unfounded, according to new research.
+They can, in fact, become more virulent depending on the conditions, and the easier it is for a virus to spread, the more likely it is to do so.
+The findings suggest that failing to control outbreaks of Covid-19 – or even deliberately encouraging the circulation of the Sars-CoV-2 virus that causes it, as some lockdown sceptics have proposed – could increase the the chance of more harmful forms of the virus emerging in the short term.
+Public health experts have been warning for months that trying to achieve herd immunity by letting the virus circulate more-or-less freely is dangerous because it could lead to unnecessary deaths and health services being overwhelmed. However, they have not generally taken into account the possibility that it could make the disease more lethal – at least until sufficient immunity has built up in the human population.
+Since the 1980s, evolutionary biologists have predicted an association between the virulence and transmissibility of a novel pathogen, based on theoretical models.
+Testing those models experimentally has proved difficult, though, because infectious disease – the interaction of a pathogen and its host – is a system with many moving parts.
+In nature, the host and pathogen populations show great genetic diversity, and both are constantly evolving in response to each other, meaning that creating a controlled experiment in which one parameter is tweaked to see how the system responds is almost impossible.
+In the new study, published in the journal Evolution Letters, a team led by the evolutionary ecologist Camille Bonneaud, of the University of Exeter, took advantage of a natural experiment. This was in the form of a serious eye disease that spread through house finches in the eastern US after a bacterium called Mycoplasma gallisepticum jumped the species barrier from poultry in 1994.
+The researchers took around 50 of the bacterial variants that had been isolated from finches over 20 years of the ensuing epidemic.
+They then studied the disease the variants caused in other finches that had never been exposed to M. gallisepticum – creating an accelerated simulation of the real-world epidemic.
+They found that the most virulent variants transmitted the fastest, but that those of intermediate virulence were the most successful in evolutionary terms – eventually coming to dominate the bacterial population.
+Pathogens have a single evolutionary goal – to produce more of themselves. "Virulence will evolve towards a level that optimises their ability to transmit," Dr Bonneaud said.
+If the pathogen meets resistance to transmission – in the form of a recovered and immune or vaccinated host, or social distancing – then highly virulent forms perform less well because they die out with their host, and natural selection favours less virulent forms.
+If there is no such resistance, the pathogen can kill its existing host at no evolutionary cost and remains highly virulent.
+A pathogen that is not very transmissible when it emerges, on the other hand, could potentially increase its virulence over time in order to be able to transmit better.
+Olivier Restif, an infectious disease modeller at the University of Cambridge who was not involved in the research, said it illustrated the bias with which we tend to think about infectious diseases.
+"We notice the ones that are highly virulent when they emerge, and that reduce their virulence over time, more than the ones that start mild and become more dangerous," he said. "Superbugs", which are resistant to antibiotics and other medications, are an example of the latter.
+Paul Ewald, an evolutionary biologist at the University of Louisville in Kentucky, said humanity had drawn a short straw with Sars-CoV-2 because it was both highly virulent and highly transmissible when it emerged.
+Over time it is likely to reduce its virulence – in fact, that may already be happening, as reflected in falling mortality rates.
+"I would expect it to evolve to a virulence that is very much like [seasonal] influenza," Prof Ewald said.
+And containment measures, properly implemented, should accelerate that process.
+However, future emerging pathogens could be both nastier and more transmissible than Sars-CoV-2 to start with, and take longer to adapt to their human host. "This is not the worst-case scenario," he said.
+This article was amended on 20 November 2020 to correct a reference to M. gallisepticum as a virus.

@@ -1,0 +1,31 @@
+Tech giants struggle to stem 'infodemic' of false coronavirus claims
+Critics say efforts are too little, too late as research reveals vast majority of false claims appear online
+Click over to Google, type in "coronavirus", and press enter.
+The results you see will bear little resemblance to any other search.
+There are no ads, no product recommendations, and no links to websites that have figured out how to win the search engine optimisation game. Government, NGO and mainstream media sources dominate.
+Algorithms and user-generated content are out; gatekeepers and fact checking are in.
+Silicon Valley has responded to the "infodemic" with aggressive intervention and an embrace of official sources and traditional media outlets.
+Across the social web – on Facebook, Twitter, YouTube, Reddit, Instagram and Pinterest – search results related to Covid-19 are similarly predetermined.
+Instagram delivers a pop-up urging US users to go to the website for the Centers for Disease Control and Prevention (CDC) – or UK users to the NHS – rather than look at the memes and pictures tagged with #coronavirus.
+On Facebook, a dedicated "Information Center" includes a mix of curated information and official medical advice. On Pinterest, the only infographics and memes to be found on topics such as "Covid-19" or "hydroxychloroquine" are those made by internationally recognised health organisations, such as the WHO.
+It is a stark contrast to how social media platforms have dealt with misinformation in the past.
+US-based platforms, shaped by Silicon Valley's libertarian ethos and protected by the first amendment, have long been reluctant to take a proactive editorial role or censor speech that could be considered political.
+They have had to be pushed, prodded, cajoled, protested, and shamed into addressing hate speech, anti-vaxx propaganda and the harassment of victims of mass shootings.
+On coronavirus, they have competed to be responsible and reliable sources of information. Yet still misinformation continues to adapt and spread, largely on social media.
+Research by Oxford's Reuters Institute looking at the spread of 225 false or misleading claims about coronavirus found 88% of the claims had appeared on social media platforms, compared with 9% on television or 8% in news outlets.
+Nearly 30% of US adults believe Covid-19 was developed in a lab, according to a survey by Pew Research Center.
+A conspiracy theory falsely linking 5G to the coronavirus pandemic has led to real-world consequences, including threats and harassment against telecom engineers and petrol bomb attacks on telephone poles.
+Carl Bergstrom, a University of Washington professor of biology who also studies and has written a book about misinformation, says the efforts of the social media companies are too little, too late.
+"They've built this whole ecosystem that is all about engagement, allows viral spread, and hasn't ever put any currency on accuracy," he said. "Now all of a sudden we have a serious global crisis, and they want to put some Band-Aids on it. It's better than not acting, but praising them for doing it is like praising Philip Morris for putting filters on cigarettes."
+Some of the more radical steps taken by tech companies include Twitter's new policy to remove misinformation that contradicts official public health advice, such as tweets encouraging people not to follow physical distancing guidelines, and WhatsApp's strict new limits on message forwarding.
+The platforms feel they can be much more aggressive on coronavirus misinformation than they have been on political misinformation, said Claire Wardle of the non-profit organisation First Draft.
+"There are no two sides with coronavirus, so they don't have people on the other side saying: 'We want this,' the way you do with anti-vaxxers or political misinformation," said Wardle. "They are freer to act."
+It is also relatively simple and straightforward for the platforms to select trusted sources of authoritative information – the WHO, NHS, CDC, etc – without appearing politically biased.
+Wardle faulted the tech companies for not being better prepared for the crisis, however. Facebook has long ignored the conspiracy communities that organise using Facebook groups, such as anti-vaxxers, followers of QAnon, and people who believe 5G is harmful. Coronavirus misinformation is rampant in those communities.
+"The sad thing is to see those kinds of conspiracies moving to neighbourhood groups, and family groups," said Wardle. "It's like sparks are flying off the bigger [conspiracy] groups and moving into other groups. Everyone is so frightened right now that it's a tinderbox and these sparks are coming off and catching fire."
+And while the scientific nature of the crisis may lessen some of the external political pressures over how to moderate speech, it also brings with it a slew of challenges. The coronavirus is brand new, and the scientific understanding of it changes daily.
+Bergstrom described this conundrum as an "uncertainty vacuum". "Any reasonable authority will not give you a straight answer" to certain questions about the pandemic, "not because they're trying to mislead you, but because they don't know yet," he said.
+Another complicating factor is that normally trustworthy sources are not providing reliable information.
+"We've seen the US government, particularly the White House, becoming a significant purveyor of misinformation around the virus," Bergstrom said.
+Facebook and Twitter have removed posts by prominent and powerful people over coronavirus misinformation, including the Brazilian president, Jair Bolsonaro, but the real test of their resolve will be whether they ever take action against misinformation by Trump.
+"We planned for years for this pandemic, but we never realised that we would be fighting a war on two fronts," said Bergstrom. "One against the pandemic, and one against all the disinformation and hate and fear that is being amped up and enflamed by political opportunists."

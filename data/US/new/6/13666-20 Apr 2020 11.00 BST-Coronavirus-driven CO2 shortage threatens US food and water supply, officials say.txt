@@ -1,0 +1,22 @@
+Coronavirus-driven CO2 shortage threatens US food and water supply, officials say
+Washington state emergency planning document points to difficulties obtaining carbon dioxide gas, essential for water treatment
+An emerging shortage of carbon dioxide gas (CO<sub>2</sub>) caused by the coronavirus pandemic may affect food supply chains and drinking water, a Washington state emergency planning document has revealed.
+The document, a Covid-19 situation report produced by the State Emergency Operations Center (SEOC), contains a warning from the state's office of drinking water (ODW) about difficulties in obtaining CO<sub>2</sub>, which is essential for the process of water treatment.
+The document says that the ODW is "still responding to [that day's] notification of a national shortage of CO<sub>2</sub>".
+It continues: "Several [water plants] had received initial notification from their vendors that their supply would be restricted to 33% of normal."
+It further warns: "So far utilities have been able to make the case that they are considered essential to critical infrastructure and have been returned to full supply. However, we want to ask if CISA [the US Cybersecurity and Infrastructure Security Agency] can assess this through their contacts, if this is sustainable given the national shortage."
+Asked to clarify the nature of this problem, ODW director Mike Means said in an email that his agency had first learned of potential problems when Seattle public utilities were "contacted by their vendor Airgas who supplied a copy of a Force Majeure notice", warning them that their CO<sub>2</sub> order would be reduced due to pandemic-related shortages.
+Force majeure is a contractual defense that allows parties to escape liability for contracts in the case of events – such as a pandemic – that could not be reasonably foreseen.
+In this case, Means wrote, "Airgas informed in their notice that they would only be able to do 80% of their normal service but subsequent discussions said to expect more like 33%".
+At this point, he added, "we reached out to understand if this was a WA specific problem or national. We quickly understood it to be a national issue."
+ODW had then contacted federal agencies such as CISA, the Federal Emergency Management Agency (Fema) and industry bodies such as the Association of State Drinking Water Authorities (ASDWA).
+The main reason for national shortages, according to the CEO of the Compressed Gas Association (CGA), Rich Gottwald, is a ramping down of ethanol production.
+"Back in the summertime, the [Trump] administration exempted some gasoline manufacturers from using ethanol. Then we had Russia and Saudi Arabia flooding the market with cheap gasoline. All of that led to an oversupply of ethanol," Gottwald said.
+"As ethanol manufacturers were ramping down because there wasn't a market for their product, along comes Covid-19, which meant people weren't driving anywhere", he added.
+This led to plant closures, including among the 50 specialized plants that collect CO<sub>2 </sub>for the food and beverage market.
+Gottwald's association, along with a number of associations representing food and beverage industries, which together use 77% of food-grade CO<sub>2</sub>, issued a joint warning to the federal government about the shortage.
+In an open letter to the vice-president, Mike Pence, the coalition warns: "Preliminary data show that production of CO<sub>2</sub> has decreased by approximately 20%, and experts predict that CO<sub>2</sub> production may be reduced by 50% by mid-April."
+It continues: "A shortage in CO<sub>2</sub> would impact the US availability of fresh food, preserved food and beverages, including beer production."
+In an email, a Fema spokesperson said: "There is nationwide reduction in CO<sub>2 </sub>production capacity based on a shutdown of some ethanol plants that produce CO<sub>2</sub> as a by-product, but impacts to water sectors would be local".
+"The ethanol plants are not closed because of Federal government orders related to COVID-19, but rather by market forces".
+CISA and ASDWA did not immediately respond to a request for comment.

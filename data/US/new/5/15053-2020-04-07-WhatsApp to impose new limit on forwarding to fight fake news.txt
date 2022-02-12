@@ -1,0 +1,14 @@
+WhatsApp to impose new limit on forwarding to fight fake news
+Restrictions on frequently forwarded messages intended to disrupt false Covid-19 claims
+WhatsApp is to impose a strict new limit on message forwarding as the Facebook-owned chat app seeks to slow the dissemination of fake news, the company has announced.
+If a user receives a frequently forwarded message – one which has been forwarded more than five times – under the new curbs, they will only be able to send it on to a single chat at a time. That is one fifth the previous limit of five chats, imposed in 2019.
+The change does not completely prevent widespread forwarding, since ultimately a message can be passed on however many times a user is happy to hit the forward button.
+But by inserting friction into the process, the company hopes to slow some of the most viral messages on its platform, such as the widely spread falsehood that coronavirus is related to 5G. That claim has led to the vandalisation of more than 20 phone masts in the past week.
+"We've seen a significant increase in the amount of forwarding which users have told us can feel overwhelming and can contribute to the spread of misinformation," said a WhatsApp spokesperson in a blogpost on Tuesday morning.
+"We believe it's important to slow the spread of these messages to keep WhatsApp a place for personal conversation."
+Because of the encryption WhatsApp uses, the company cannot see the contents of messages sent on its platform. That prevents it from employing the same moderation strategies as Facebook or Twitter, which can take down harmful content that is flagged.
+Instead, the company has long worked to introduce friction into messaging more generally, as well as provide users with information that could help them know whether a message is trustworthy.
+The latter is achieved by noting when a message has been forwarded or frequently forwarded – indicated with a double arrow icon – while the former has led to progressively stricter limits on mass mailings.
+Until 2018, for instance, users had been able to forward a message to 250 groups at once; that was reduced to 20 that year, five in 2019 and one now. WhatsApp says those measures reduced message forwarding by 25% globally.
+Widely forwarded messages can be particularly dangerous on WhatsApp, where they often come with the implicit approval of a friend or family member, and are rapidly disconnected from their initial context.
+But the company argues that not all forwarding is bad. "We know many users forward helpful information, as well as funny videos, memes and reflections or prayers they find meaningful. In recent weeks, people have also used WhatsApp to organise public moments of support for frontline health workers."

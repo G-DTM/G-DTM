@@ -1,0 +1,23 @@
+Twitter study shows Australians focused on panic buying as US users blamed China for Covid-19
+Australians tweeted more about panic buying and product limits than any other country, researchers found
+In the early months of the Covid-19 pandemic, Australian Twitter users focused on panic buying, while tweets with anti-China language and hashtags were predominantly from the US, according to a Monash University analysis of 2.5m tweets from six countries.
+New Zealand users of Twitter demonstrated the greatest support for coronavirus public health measures between 1 January and 30 April.
+The study, by Monash's IT faculty, examined millions of tweets from users in Australia, the US, New Zealand, the UK, Ireland and Canada. The tweets included the most-used hashtags in those countries. For example, in Australia, the top three were #covid19au, #coronavirusaus and #covidaustralia.
+From there, the researchers filtered out irrelevant or duplicate tweets and were left with a data set of 787,691 tweets across the six countries, which were analysed using machine learning technology to determine specific topics people were tweeting about in the early stages of the pandemic.
+"This hybrid methodology is a new way to integrate both computational and qualitative analysis to optimise the accuracy using all the contextual data which we would typically leave out," the machine learning researcher Caitlin Doogan said.
+According to the analysis, there was not only strong support for stay-at-home orders from Twitter users in Australia, Ireland, New Zealand and the UK, but people demanded it. Researchers found people in the US and the UK also pleaded with people to stay at home to save lives, while in Australia, the US, Ireland and UK, tweets expressed frustration at delays in implementing restrictions.
+New Zealand was the most in favour and its tweets overall were "calm and accepting" of the orders with the government's message to "be kind" consistently repeated.
+"Stay safe out there whanau! It's a scary time and the best thing we can [do is] follow the advice and be kind to each other! Much love!" one New Zealand tweet included in the study read.
+Australians tweeted more about panic buying and product limits than any other country, the researchers found.
+"A 'restriction' of 12 bottles of wine per person...? WTF?! That's not a restriction, that's a liver transplant!" one Australian user tweeted.
+On the use of fines to enforce restrictions, the researchers found media in Ireland and Australia had labelled the police enforcement draconian, but this was not reflected in Australian tweets save for questions over the issuing of "frivolous" fines, which were labelled overzealous and unnecessary.
+The US president, Donald Trump, early on blamed Beijing for the crisis, including labelling the virus the "China Virus" or the "Wuhan Virus". The Monash researchers found tweets containing anti-China language or racism in the data set were almost exclusively from the US.
+"I read the news about the coronavirus and it makes me so angry that past administrations, Obama et al, did nothing to stop us being so dependent on China and to protect our borders. I pray its massive Trump landslide in 2020," one tweet read.
+The hashtag #china ranked 15 in US tweets, while #wuhanvirus was ranked 34. #Trumpvirus and #maga ranked 17 and 20, respectively.
+Doogan said the anti-China tweets were nowhere near as common in other countries. In Australia, she said, sympathy was expressed for Chinese students at that time unable to return to Australia to study.
+Australians frequently referenced the decision to keep open non-essential services and expressed anger and frustration at the confusion between state and federal governments about whether schools should remain open.
+Australian tweets also raised privacy concerns about the Covidsafe app – which only launched towards the end of the period the tweets were collected – and users were distrustful of Amazon storing the data.
+The researchers concluded that social media could be used to effectively gauge how government messaging around Covid-19 was resonating, and what could be improved.
+Doogan told Guardian Australia that while Twitter was not representative of the entire Australian demographic, as the fourth-most used social network in the country, it was suited to gauging public attitudes.
+"What makes Twitter ideal for this type of analysis is that it is both accessible and it is the 'right' kind of social data to gain rapid insights into what people are thinking," she said.
+"Unlike Facebook, where conversations are less likely to be public, Twitter allows us to collect almost all tweets related to a particular phrase, hashtag or person."

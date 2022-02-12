@@ -1,0 +1,38 @@
+Worried about Zoom's privacy problems? A guide to your video-conferencing options
+From FaceTime to Houseparty, there is no shortage of platforms for work and play as you shelter in place
+With offices and schools around the world temporarily shut amid the coronavirus crisis, the video platform Zoom has seen overnight success. But growing concerns over security across the platform have many consumers wondering about tech alternatives.
+Privacy-minded consumers should consider video chat options carefully, said Arvind Narayanan, an associate computer science professor at Princeton University who has been outspoken about the security concerns surrounding Zoom.
+"There is a tradeoff between security and usability when picking a video-conferencing product," he said. "Companies and schools should consider supporting multiple software options, configuring them securely, and educating their users about the risks."
+Among the most important criteria for evaluating a video conferencing platform is end-to-end encryption of calls and data protection policies, said Charles Ragland, security engineer at Digital Shadows, a San Francisco-based security provider. Companies should be in compliance with privacy frameworks like Europe's General Data Protection Regulation or California's Consumer Privacy Act, he continued, and should also tell users what data is being collected and what third parties can access that data.
+Here are some of your video-conferencing options for staying connected while sheltering in place:
+The app is headquartered in San Jose, California, and was valued at $16bn when it went public in 2019. It quickly became the most popular option for meetings and other events moving online following shelter-in-place orders this year.
+Pros: It's seamless to use – attendees can join by a publicly shared link from anywhere, and joining does not require downloading any software. It's a great option if you are not discussing anything private or secure – a virtual happy hour with friends, for example. The company has promised to fix issues with privacy and security, recently making default options more secure by requiring passwords to join meetings.
+Cons: Zoom has had some glaring problems of privacy and security. "Zoom bombings", in which hackers enter chat rooms to drop racist language and violent threats, persist. The company had to fix a bug that would have allowed hackers to take over a Zoom user's Mac. It also had to change some of its policies after a Motherboard report found Zoom sends data from users of its iOS app to Facebook for advertising purposes.
+The company also claimed its calls were encrypted, and then backtracked when it was proven wrong by a report in the Intercept. Senator Michael Bennet of Colorado has requested responses from Zoom's CEO, Eric Yuan, on privacy concerns and the FTC is being called to investigate the company.
+Released in 2003, Skype is one of the longest-standing options for video chatting. It was bought by Microsoft in 2011 and is a free option for one-on-one or group video chats.
+Pros: Skype is free, easy to use and widely known.
+Cons: The maximum number of people who can join a Skype meeting is 50, making it a difficult option for larger organizations or big get-togethers.
+Schools in New York are transitioning from Zoom to Microsoft Teams, a work-from-home collaboration platform. The app has been gaining traction: Teams saw its daily active user count rise more than 37% during just one week last month, from 32 million to 44 million around the world.
+Pros: The video platform allows for 250 people in a meeting or up to 10,000 viewers through its presentation feature. Users can easily share files and chat during meetings as well as screen-share. It is free and integrates with Skype.
+Cons: The platform is built primarily for businesses, or "teams". People who want individual access can do so via Skype accounts, but it appears to require a download of Skype to join meetings – unlike Zoom, which lets users attend meetings through their web browsers.
+The built-in video call option for Apple products is an often overlooked option for group video chats, but a strong one for a number of reasons.
+Pros: Apple is known for its strong encryption practices, meaning the company cannot see what you share during a call. FaceTime is also free for Apple users and does not require the download of an app.
+Cons: FaceTime is only available for users who have Apple devices, has a maximum of 32 users per call, and does not allow people to join by link, making it hard to spread the word about your online event in advance.
+Signal is an encrypted messaging app widely considered to be the world's most secure – and it is increasingly going mainstream. It allows for large group chats, but not group video calls.
+Pros: It's encrypted and free to download.
+Cons: Signal does not allow for group video chats, but it is useful for one-on-one video chats that require strong security and encryption.
+The Cambridge, England-based video conferencing provider Starleaf was founded in 2008 and has grown in popularity as it pitches itself as a more secure video-conferencing alternative to Zoom. Call volume on StarLeaf has grown more than 1,000% compared to February 2020, the company said by email.
+Pros: Starleaf is based in the UK and subject to local data privacy laws there. It also allows the consumer to choose where their user data is stored. It is used by NHS trusts in the UK.
+Cons: Rather than the individual consumer, it targets organizations with 500+ employees – a good option for your company but maybe not for happy hour with your friends. Starleaf hosts up to 20 people per meeting and has a maximum of 46 minutes per meeting under its free option. Its paid plans offer up to 100 participants; another 1,000 people can watch but not participate.
+This video-conferencing platform was founded in 2003 by a student in France, and it has gained popularity as a more secure alternative to Zoom.
+Pros: Jitsi Meet is free; open-source, meaning outside parties can check its security; and encrypted.
+Cons: It allows a maximum of 75 participants in a chat (and a "better experience" with 35 or fewer).
+A series of now debunked reports claimed Houseparty had been breached – rumors the company is now claiming were part of a "paid commercial smear" by a rival.
+Pros: This is perhaps the most fun video-conferencing app, with a number of games within the app, including trivia and drawing challenges.
+Cons: It appears that when you start a "house party", anyone in your contacts can join, but it is possible to "lock" a room once the people you want to be there are in it. It also has questionable privacy policies and collects a "worrying amount" of information, according to one security researcher.
+For those of us who use Gmail, Google Hangouts is a seamless option for video chats. Up to 150 people can participate in a chat, but only 25 people can participate in a video call at once.
+Pros: It's free and accessible.
+Cons: Use it with the knowledge that Google will have even more of your data than it already does. A hangout can be joined via Gmail, the Hangouts app or a Chrome extension but it requires a Gmail account.
+The California-based video conference platform BlueJeans is a good option for work teams and meetings that require a little more security than a free Zoom session.
+Pros: Videos are encrypted by default. BlueJeans can be accessed via browser and does not require an account or the download of a new program.
+Cons: It is not free – BlueJeans costs $9.99 for a basic plan that allows meetings up to 50 people and $13.99 for its "pro" product, which allows up to 75 people per meeting, among other features.
