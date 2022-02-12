@@ -1,0 +1,28 @@
+Coronavirus and app downloads: what you need to know about protecting your privacy
+The millions of Australians working and playing from home in the Covid-19 pandemic should be wary of how much information they give out
+If you are one of the millions of Australians working from home and resorting to apps to maintain a social life online in the coronavirus pandemic, it is as important as ever to look at what and how much information you may be unwittingly sharing with them.
+First, check what permissions the app asks for when you are installing it or opening it, depending on what platform you're using. Any you don't think are relevant, don't allow. If the app won't let you use it without access to those functions, consider if it is worth it.
+"Often default settings on these kinds of services may not be set with your privacy or security in mind, so it's important to adjust your settings accordingly to ensure your account is secure as possible," the eSafety commissioner, Julie Inman-Grant, said.
+"We also encourage users to read up on the terms and conditions of these services so they understand what kind of data is being collected about them and how it is being used, as well as the mechanism for reporting any abuse.
+"This will help you limit the amount of personal information being shared with the service or any third parties."
+Your attitude to the data being collected by these apps should be no different from when we aren't in the middle of a pandemic. It is always good practice to be vigilant.
+Houseparty is a video conferencing app designed more for non-business purposes. The app has been around for about four years but was picked up last year by Epic Games, the company behind the popular video game Fortnite.
+Its popularity has skyrocketed. It's been estimated that it has been downloaded several million times in the past few weeks as more people are stuck at home and want to socialise.
+Cyber security researchers have suggested the app permissions it seeks are consistent with those from a video conferencing app. It accesses your microphone and camera if you give it permission, along with contacts and Facebook friends if you provide that.
+In its privacy policy, Houseparty outlines the usual sort of data, the information you provide, plus the analytics data that is automatically collected. Houseparty also says it could use de-identified demographic and location information.
+The other video conferencing platform that has a boost in popularity in the coronavirus pandemic is Zoom.
+Similar to Houseparty it's important to check permissions, but Zoom has had a few privacy concerns in the past.
+The meetings are public without passcodes, so people can "zoombomb" on them if meetings use the default settings. And last year the company had a flaw that allowed hackers to hijack people's webcams through the app.
+This week the company was also forced to fix its iOS app, which was sending data to Facebook even if you didn't connect via Facebook.
+A number of built-in features may also be a concern, including one that dobs on users not focused on the app for more than 30 seconds when a screen is being shared.
+This week the federal government launched a new information app on iOS and Android which essentially mimics the information available on the health department website on symptom checker, number of cases, press releases and phone numbers.
+The major bit of personal information it collects is that if you voluntarily register for self-isolation, it will ask for your location. Guardian Australia understands that information is only recorded at the time of registration or editing their information (not ongoing tracking) and is used by the government to figure out where those self-isolating are for analysis, research and safeguarding public health.
+On WhatsApp, the chat developed by the government with the help of Atlassian is an automated service that just provides information. It's not a method of sharing information with the government, like the coronavirus app can be. The only personal information the government collects is your phone number.
+If you are returning to Australia in the next couple of weeks and beyond, the federal government just made it easier for a wide range of state and federal agencies to get access to your movements.
+Through new migration regulations home affairs has expanded the uses that can be made of information on passengers' movement records.
+These records include citizenship, visa class, passport number, date of departure, flight number, intended place of disembarkation and ultimate destination.
+Under the rules, state police forces can access the information for law enforcement and prevention of crime, and missing persons investigations.
+The Office of National Intelligence will have access to the information for its own purposes and to help other agencies that are engaged in security vetting.
+The Australian Electoral Commission will gain access for the purposes of "the review and processing of electors who appear to have failed to vote at an election".
+The 2020 instrument also clarified that fair work ombudsman inspectors – who check for compliance with workplace laws – will gain access.
+State and federal privacy commissioners put out a statement this week that said privacy laws allowed various jurisdictions to share personal information at a time like this, but urged governments to conduct privacy impact assessments to ensure the handling of personal information is reasonable, necessary and proportionate.

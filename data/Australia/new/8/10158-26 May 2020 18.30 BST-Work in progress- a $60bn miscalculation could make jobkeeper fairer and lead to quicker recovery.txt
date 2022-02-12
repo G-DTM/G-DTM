@@ -1,0 +1,60 @@
+Work in progress: a $60bn miscalculation could make jobkeeper fairer and lead to quicker recovery
+In part two of our special investigation, we look at whether the Morrison government's centrepiece employment programs are doing their job
+Since Australia's jobkeeper scheme was announced there have been almost daily reports of its simultaneous unfairness and generosity.
+Casual workers and contract workers who had been employed for less than 12 months – an employment pattern common in the arts and entertainments sector – missed out.
+So too did thousands of workers in Australia on temporary visas and workers employed by firms owned by foreign governments, such as airline catering company, Dnata.
+Universities – which continued functioning for Australian students, but had lost up to 40% of their revenues from foreign students – missed out because they hadn't lost enough revenue to qualify and were not included in the less stringent thresholds for charities, even though they too are not-for-profits.
+And foreign students who had made it to Australia for their studies got nothing even though their part-time jobs largely evaporated.
+But Australian university students working casually in bars and doing a couple of shifts were getting the full $1500, provided they had been with their employers for more than 12 months.
+Then came the most astounding development, that demonstrated the dangers of designing major policy quickly.
+On Friday, Treasury announced there had been a massive reporting error, and the jobkeeper scheme was costing not $130bn, as originally forecast, but only $70bn, and was supporting 3.5m, not 6m, workers.
+An embarrassed treasurer, Josh Frydenberg, attempted to shift the blame. He explained some 1,000 businesses had made unintentional reporting errors in their enrolments for the jobkeeper program. A large number with just one employee apparently put 1,500 in the box asking for how many employees they expected to claim for. This was the dollar amount they intended to claim, not the number of employees.
+But that doesn't really explain how an error of this scale went unnoticed or why Treasury's original forecast of $130bn made on March 30 was so far out of the ballpark.
+"No money that shouldn't have been paid has been paid," the treasurer said. Instead, it was the estimates that were wrong and the errors were picked up when employers made their actual claims and provided names and tax file numbers of employees, he said.
+The hugely embarrassing mistake shows the danger of policy on the run. But it also provides an opportunity to fine tune the jobkeeper scheme, the centrepiece of the government's labour support program, and work towards an exit strategy for the expensive program.
+When the news broke on Friday, Frydenberg appeared to rule out extending jobkeeper to other groups. "This revision is not an invitation to spend more money. All of the money that the government is spending during the coronavirus period is borrowed money," he said.
+On Monday the treasurer confirmed no "wholesale changes" to the scheme were in the government's thinking, while leaving the door open to amendments in some sectors, such as tourism.
+But there are clearly some inequities that need to be addressed as well as a compelling economic need to plan what happens when jobkeeper abruptly finishes in September.
+First, a little about what jobkeeper is and isn't.
+Although it's billed as a wage replacement or wage supplement, it's actually paid to businesses that have seen a fall in their turnover of 30%, or 50% if their turnover is more than $1bn.
+Businesses receive $1,500 for each eligible employee, which they must pass on in full to the employee. But eligibility is related to business turnover, which makes the payment more like a business subsidy.
+There is no requirement to show that the employee would have lost their job without the payment. Under the scheme, employees can also be asked to take leave by their employers if they have more than two weeks accumulated.
+This is very different to the UK scheme, where businesses nominate furloughed workers who are not needed at the business in order to qualify for support for that worker which is 80% of their wage, up to a cap of £2,500 pounds.
+This percentage approach obviously avoids the problem of the uni student getting more than they did before.
+It also provides, unlike the Australian scheme, a way to wind back the support as business picks up. From August, UK employers can start bringing furloughed employees back part-time and start "sharing in the cost of the scheme".
+The Australian scheme however has some serious problems in the recovery phase.
+The 30 or 50% fall in turnover – the threshold for eligibility – was calculated at the start of the pandemic.
+A business had to demonstrate fall in GST turnover by comparing either a month or three months revenue to the same period in 2019 to show a 30 or 50% decline.
+For some that was easy. Restaurants and bars had immediately shut. Some retail chains also chose to close as malls became deserted.
+But as people emerge from isolation, and shops, pubs and restaurants reopen, there's no ability for the government to reassess whether these businesses still need jobkeeper. Most probably do but the payment increasingly becomes a subsidy to the business, not a wage replacement, as the businesses start earning again and can pay their workers.
+There is also anecdotal evidence that industries with lumpy cashflow, such as trades and construction, have been able to engineer a 30% fall in a month, by postponing invoicing clients, in order to qualify for jobkeeper.
+Some of these sectors, notably the housing sector, might start feeling real pain as the jobkeeper payment runs out.
+Work by Deloitte Access Economics shows that the recovery will be very uneven and that some jobs may disappear permanently, raising questions about what will happen after September.
+At a broad industry level, the key losers in terms of jobs in the short term (seeing greater than 50% declines) are expected to be accommodation, arts, recreation and other services – and they may take five or six years to recover all the job losses seen, Deloitte reported last week.
+"Sectors such as property and professional services, education and telecommunications are less impacted now, and may be back in a solid growth phase by early 2022," Deloitte notes.
+"However, a couple of sectors have a moderate decline now, but may take an extended period to return to early 2020 employment levels."
+Deloitte singles out the finance sector, which will feel the affect of accumulated bad loans from the Covid-19 crisis and lower demand for credit.
+Other jobs in farming and manufacturing might disappear altogether as employers adapt their processes, Deloitte said.
+At this stage, the plan beyond September is for jobseeker recipients to revert to Newstart payments at $489.70 per fortnight and for jobkeeper to be scrapped.
+Pradeep Philip, head of Deloitte Access Economics, said the numbers on jobseeker would continue to increase in next month's figures as people take time to claim.
+If jobKeeper ends, there will be another large group move onto unemployment benefits, and at the Newstart rate, which is half the jobseeker rate.
+"If growth doesn't pick up, if the jobkeeper wage subsidy doesn't continue, then they will then move onto unemployment benefits. When jobseeker payments fall [back to Newstart levels] it will affect growth further," he said.
+"In previous crises we have tried to give money to people who need it and who will spend it," he said. "This is the conundrum the government needs to sort out. It needs to find a transition pathway."
+In the meantime, there are plenty of changes that could be made to the existing jobkeeper payment to make it fairer.
+The small business ombudsman, Kate Carnell, says she is particularly concerned about small businesses that operate as partnerships, a common legal structure for family business and services.
+Under the jobkeeper rules, only one partner can get jobkeeper while the other partner or partners must apply for jobseeker, which is $300 a fortnight less.
+Yet if the enterprise was incorporated they would be able to apply for jobkeeper for all eligible employees, Carnell said. "This is dumb stuff and I hope the government will look at it."
+"But generally, jobkeeper has been a lifeline and the feedback we get from business is that they say: 'I don't know what I would have done without it'. More than 75% of business is trading," she said.
+The universities sector is also calling on the government to use the $60bn miscalculation to revisit their sector's exclusion from the scheme.
+The Universities Australia chief executive, Catriona Jackson, said the sector faces the loss of 21,000 jobs in the next six months if nothing is done.
+"We were disappointed that government has changed the regulations on a number of occasions to effectively exclude universities. We call on them to reconsider."
+So too does the United Workers' Union, which represents many of the casual and visa workers who been left out of the scheme. "The scheme needs to continue to invest in the economy beyond the arbitrary government deadline," the national secretary, Tim Kennedy said. "And it needs to be amended to include all workers, and not exclude the millions of casual workers, visa workers in low-paid sectors such as cleaning, early childhood education, hospitality, food processing and fresh food."
+He also wants to see it extended to arts and cultural workers and workers in higher education.
+"The treasurer has the power to expand the coverage of the scheme now and to restore the original promise of the federal government that jobkeeper would be a lifeline to every Australian worker," he said.
+A final issue for the government is the misfire of an early measure designed to keep apprentices employed.
+Only $146m of the $1.3bn budgeted to pay 50% of apprentice wages has been taken up so far. That's because most employers opted for the more generous jobkeeper scheme.
+The National Australian Apprenticeships Association says that while government measures have stopped wholesale shedding of apprentices, businesses have stopped hiring new ones, with commencements down 60%. "The real impact will be further down the track," the peak body's chief executive, Ben Bardon, said.
+The Australian Manufacturing Workers Union has warned that the hiring freeze now could affect Australia's economic recovery.
+"The government is talking a big game about a manufacturing-led recovery, but we are are not seeing the investment in skills that would make that possible," the union's national secretary, Paul Bastian, said.
+On Tuesday the prime minister, Scott Morrison, made apprenticeships and training a priority for national cabinet. He highlighted different fees paid in different jurisdictions for the same courses.
+Getting skills and training right in the recovery phase will be an important part of the response, but it also involves having a clear vision of where the jobs of the future will be and helping businesses recognise the importance of apprenticeships as they grapple with the recovery.

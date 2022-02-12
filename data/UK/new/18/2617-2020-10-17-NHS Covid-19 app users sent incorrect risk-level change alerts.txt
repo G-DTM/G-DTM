@@ -1,0 +1,29 @@
+NHS Covid-19 app users sent incorrect risk-level change alerts
+People in England and Wales reported notifications that did not match government guidance for their areas
+Users of the NHS coronavirus app for England and Wales have reported receiving confusing notifications that the risk level in their area has changed in ways that contradict official government guidance.
+The Department of Health and Social Care (DHSC) said on Saturday it had identified and resolved the problem, which affected updates made to the app's postcode alert system on Friday evening.
+"We live in Walsall and it is classed as HIGH risk," one user tweeted on Friday.
+"Why have we all received an alert saying our risk level has changed due to 'rising risk levels' … yet it is now MEDIUM? This is very confusing.. what is it?"
+From 2 December, England will be divided into three different tiers of restrictions. They are slightly amended from the previous system.
+Across all tiers, shops, personal care, gyms and the wider leisure sector are set to reopen. Collective worship and weddings – with a maximum of 15 in attendance – can also resume.
+Under the new system hospitality businesses in England can stay open until 11pm with table service only but last orders must be made by 10pm, in an effort to stagger departures. The"rule of six"will also remain in place indoors, meaning social household mixing is still allowed.
+Spectator sport is set to resume, albeit with limits on numbers and abiding by social distancing. In tier 1, there will be a maximum crowd capacity outdoors of 50% of occupancy of the stadium or 4,000 people, whichever is smaller. Indoors, the maximum capacity is 1,000.
+In tier 1, people will be encouraged to minimise travel and work from home where possible. Support bubbles – which allowed a single household to join with another household – are also being broadened across all tiers. Parents with a child under one will be able to form a support bubble, as well as those with a child under five who needs continuous care, such as a child with a disability. Also, in cases where there is a single adult carer, for a partner with dementia for example, they would also be able to form a support bubble.
+The full government rules and guidance for tier 1 can be foundhere.
+Under the new system, although hospitality venues will be allowed to stay open until 11pm – with last orders at 10pm – only those that serve substantial meals can operate. It means pubs and bars that do not will have to close.
+As before, social mixing outside of households or support bubbles will not be allowed indoors. The rule of six will apply outdoors.
+Spectators will be allowed to watch sport in tier 2, with a maximum crowd capacity outdoors of 50% of the capacity of the stadium or 2,000 people, whichever is smaller. Indoors, the maximum capacity is 1,000.
+Indoor entertainment venues, such as cinemas, casinos and bowling alleys, must also close.
+The full government rules and guidance for tier 2 can be foundhere.
+Hospitality venues will have to close, except for delivery and takeaway service. In tier 3, hotels and other accommodation providers must also close, except for specific work purposes where people cannot return home. Outdoor sports, including golf and tennis, will be allowed to continue in all tiers, as will amateur team sports such as football. Unlike the first two tiers, spectators will not be allowed to watch sport in tier 3.
+The full government rules and guidance for tier 3 can be foundhere.
+Another user, who lives in Wakefield, complained of being told by the app on his iPhone that his area is listed as being medium-risk, but that it is considered high-risk by the app on his Android device. By Saturday, the iPhone had corrected itself, he confirmed.
+Meanwhile, users in London said the alert on their app had still not changed from medium to high in accordance with the tier 2 lockdown restrictions which came into effect at midnight on Friday.
+Ian Grundy, who lives in the London borough of Hillingdon, said his app indicates his area is both high and medium risk.
+In response a flurry of complaints on Twitter, the app's official account pointed to a "frequently asked questions" page on the NHS website. The FAQs page explains that postcode districts do not map exactly to local authorities, and so more than one alert level may apply to a particular postcode district.
+On Saturday, it said users living in postcode districts where the alert level has been changed to reflect the latest government guidance would receive an alert during the course of the day notifying them of the change.
+Previously the app had three alert levels: low, medium and high. These have now been updated to correspond with the medium, high and very high levels of the three-tier lockdown system introduced this week.
+Jeremy Place, an information security specialist, told Sky News that as many as 4 million people could have been sent incorrect updates by what he described as "a fat-finger error".
+This probably happened when a blank file was accidentally sent to phones instead of an alert-level update, he said. Any phone receiving the empty file would have reverted to the old system, triggering a message saying "the risk level in your area has changed".
+A DHSC spokesperson said: "We are aware of an issue which impacted updates to postcode alerts for some app users this evening.
+"This was identified and resolved within an hour and users' phones will automatically update to show the correct local alert level for their area, along with new guidance."

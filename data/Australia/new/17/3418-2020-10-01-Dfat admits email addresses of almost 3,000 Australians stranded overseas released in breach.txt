@@ -1,0 +1,23 @@
+Dfat admits email addresses of almost 3,000 Australians stranded overseas released in breach
+The travellers affected constitute 7% of those Australians stuck overseas who have registered with the department of foreign affairs
+Dfat has admitted it inadvertently revealed the email addresses of almost 3,000 vulnerable Australians stranded overseas in a data breach that has been labelled a "complete stuff-up".
+The addresses were included in an email sent to multiple recipients before midday on Wednesday by the Covid-19 consular operations section of Dfat.
+The message notified recipients that interest-free loans were available for "the most vulnerable Australian citizens whose return to Australia has been impacted by the restrictions arising from Covid-19".
+The foreign affairs department on Thursday afternoon said it "apologised for the inadvertent disclosure of the email addresses of 2,727 people". The addressees were mistakenly listed in the 'to' field, rather than 'bcc', making them visible to other recipients.
+"No other personal information of any recipient was disclosed," Dfat said in a statement. The email recipients constituted 7% of travellers registered with the department in response to the Covid-19 pandemic.
+Wednesday's email was sent out to batches of stranded Australians, in alphabetical order, who had registered as wanting to return home. Up to 500 email addresses were visible in the headers. The department instantly attempted to recall the emails, but not before many recipients had downloaded it.
+More than three hours after sending the original email, Dfat sent another email admitting the error and asking those who had received the earlier message to delete it and not forward it on to others.
+The subsequent email stated: "I want to assure you that the department takes privacy and the handling of personal information very seriously. We have reviewed our internal processes and have taken measures to ensure such mistakes do not happen again."
+Recipients were told they could contact Dfat's privacy section if they were concerned about the handling of their personal information.
+Social media searches suggest some of the people whose addresses were shared are travelling in China. An Australian businessman living in Shanghai said he at first thought the email was spam because of the long list of addresses in the header.
+When he realised what had happened he said he was angry. "It's obviously a major cock-up to reveal the email addresses of close to 200 Australians who are deemed at risk," he said. "It's gobsmacking incompetence."
+The businessman said the email was the first contact he had had from Dfat since he registered with the department two weeks ago following advice that Australians in China could be subjected to arbitrary detention.
+"I registered with Dfat as someone who would like to return to Australia … and this is their response."
+Another person who had their email address revealed told the Guardian he was worried the breach meant thieves could potentially target empty homes in Australia and stranded travellers might be hassled by money lenders.
+"Another complete stuff-up from the clowns who 'run' Australia," he said.
+The current travel advice on the Smartraveller website is that Australians already in China should return as soon as possible. "Authorities have detained foreigners because they're 'endangering national security'. Australians may also be at risk of arbitrary detention," the advice states.
+The original email that disclosed the addresses detailed two kinds of interest-free loans available to vulnerable Australian travellers – a one-off loan to cover emergency living costs and another to cover the cost of a flight home. The amounts available vary depending on the country and range from $2,500 for Central and South America to $750 for those in south-east Asia.
+Dfat on Wednesday night tweeted: "We apologise for unintentionally disclosing email addresses of stranded Australians we're trying to help get home. No other personal information was disclosed. We want to get you home and are working as hard as we can to do so."
+Federal politicians were berated last week for "abandoning" Australian citizens overseas during the coronavirus pandemic. Witnesses told a Senate inquiry government ministers had "shamefully washed their hands" of those unable to return due to flight caps.
+Despite federal and state leaders agreeing to increase arrival caps at the most recent national cabinet from 4,000 to 6,000 weekly arrivals, the inquiry heard Australians were still facing cancelled flights that had been rescheduled into 2021.
+On 1 October 2020 this article was amended to update information on the number of email addresses that were visible.

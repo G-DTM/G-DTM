@@ -1,0 +1,22 @@
+Facebook data to show Australians' movement as they emerge from coronavirus lockdown
+Researchers hope the data will help identify any places where physical distancing may be an issue
+Researchers hope the addition of Facebook de-identified movement data will give a better overview of people slowly returning to their regular travels as we emerge from the coronavirus lockdown period, and help identify any potential places where physical distancing may be an issue.
+Several companies, including Google, Apple and Citymapper, make public de-identified data from their mapping and other location-based apps to track traffic flow across cities, states and countries.
+Researchers have been using this data to model the massive traffic reductions seen as public health orders were put in place, businesses closed and some people began working from home.
+Citymapper, for example, shows a dip in regular traffic levels in Melbourne commencing around 12 March, dropping right down to a low of 10% of regular traffic levels in mid-April. It has now bounced back to 25%, while Sydney is up to 31%.
+That aligned with data from Google and Apple in a report put together by a group of Australian researchers.
+From Wednesday, Facebook will make public its own aggregated data set based on location data, which users can opt out of providing to Facebook through their privacy settings.
+Dr Nic Geard, a senior lecturer in computing and information systems at the University of Melbourne, told Guardian Australia researchers at the university hope to integrate the Facebook data into the data already being used from the other sources because it is more granular than what is on offer, down to a local government area rather than just a city or state level.
+"We can get a slightly more detailed perspective in how physical distancing behaviour is changing across countries, different ways different spaces as different levels of restrictions are relaxed," he said.
+"But we're still sort of working on the process of how we will integrate that information into the data stream into the modelling work that we're doing."
+At the moment, Geard said the data on Australia was showing a varied rise in traffic as restrictions ease, depending on the level of restrictions.
+Geard said, for example, movement in places where restrictions had been eased faster, such as Western Australia, was increasing faster than Victoria, where easing had been slower.
+"We can see that corresponding signal coming out of the data in terms of the increase in the amount of movement," he said.
+There was also a difference in the data between regional and metropolitan areas, he said, because people in regional areas tend to need to travel longer distances for essential activity and that can register as a movement, while a person living in an urban area popping out to their local supermarket would not.
+While the data is more granular, Alex Pompe, from Facebook's data for good team, told Guardian Australia precautions had been taken to prevent individuals from being identified in the data sets.
+For starters, there is a threshold of 300 people in an area before the data is collected, and second, noise is added to the dataset.
+"Basically, it's impossible to tell if an individual is even present in the dataset. So if they were to change their settings and withdraw their data from Facebook, we wouldn't even be able to tell the difference," he said.
+Geard said that he thought it was "exceedingly unlikely" someone could be identified even if all the datasets were combined.
+"I think it's exceedingly unlikely just because all of the metrics that we're using are aggregated metrics, so there's never a point where we have something which says this is information about an individual user and something that an individual user did," he said.
+"It's all about looking at estimates of what a large number of people were doing at that time in terms of whether they were present or absent in a particular area."
+Facebook is also publishing Covid-19 maps and data from surveys taken from a sample of Facebook users across the globe who have told Facebook they have coronavirus-like symptoms.

@@ -1,0 +1,60 @@
+Was Australia right to shut down to slow coronavirus? The economists' verdict
+Debate now turns to how quickly to relax Covid-19 restrictions, and whether lockdowns made sense in the first place
+As Australia begins to relax its Covid-19 restrictions there is understandable debate about how quickly that should proceed, and whether lockdowns even made sense in Australia in the first place.
+The sceptics arguing for more rapid relaxation of containment measures point to the economic costs of lockdowns and appeal to the cold calculus of cost-benefit analysis to conclude that the lives saved by lockdowns don't justify the economic costs incurred to do so.
+Their numbers don't stack up.
+To be able to weigh the value of a life against the economic costs of forgone output, from lost jobs and business closures, requires placing a dollar value on one person's life. This number is called the value of a statistical life.
+In Australia, the government generally uses a value of A$4.9m. The United States uses a value of US$10m.
+What are the benefits of the shutdown? This is the value of lives saved plus any indirect economic or health benefits. Lives saved are those excess lives that would be lost if government relied on a strategy that allowed enough people to get infected to result in so-called herd immunity.
+How many extra lives would be lost under this second strategy?
+To answer this, we need assumptions about the virus.
+The initial reproduction rate of the virus, R0, was thought to be about 2.5. This means that every 2 people infected were likely to infect another 5; producing an average infection rate per person of 2.5.
+Herd immunity for Covid-19 is estimated to require roughly 60% of the population be infected before the curve begins to flatten and the peak infections fall.
+This happens when the reproduction rate, R0, falls below one. Because of subsequent new infections, the total number infected over the course of the pandemic is closer to 90%.
+Given a population of 25 million people and assuming a fatality rate of 1%, this would produce 225,000 deaths.
+An assumption of a 1% fatality rate is low from the perspective of those making decisions at the onset of the pandemic, at a time when crucial and reliable data were missing.
+Converting those fatalities to dollars using the Australian value of a statistical life of A$4.9m per life yields a cost of A$1.1tn.
+In rough terms, that's the amount we have gained by shutting down the economy, provided deaths do not skyrocket when lockdown measures are relaxed and borders reopen.
+It is about three-fifths of one year's gross domestic product, which is about A$1.9tn.
+What are the costs of the shutdown?
+These are the direct economic costs from reduced economic activity plus the indirect social, medical and economic costs, all measured in terms of national income.
+A starting point is to take the lost income that occurs from the recession that has probably already begun.
+Let's assume that the downturn results in a 10% drop in gross domestic product over 2020 and 2021 – about $180bn – consistent with IMF forecasts of a fall in GDP of 6.7% in 2020 and a sharp rebound of 6.1% growth in 2021, and comparable to the Reserve Bank of Australia's forecasts in the latest Statement on Monetary Policy.
+Comparing this cost from shutting down – about $180bn – to the benefit of $1,103bn – makes the case for shutdown clear.
+But this calculation grossly overestimates the costs of the shutdown.
+The recession is a consequence of both the shutdown and the pandemic.
+We need to attribute costs to each.
+Most of the economic costs of the recession are likely to be due to the pandemic itself rather than the shutdown.
+Even before the shutdown, economic activity was in decline.
+Both in Australia and internationally air travel, restaurant bookings and a range of other activities had fallen sharply.
+They were the result of a "private shutdown" that commenced before the mandated government shutdown.
+Even in a country such as Sweden, where a shutdown has not been mandatory, there has been a more than 75% reduction in movement in central Stockholm and a more than 90% reduction in travel to some domestic holiday destinations.
+To be generous, let's assume the costs attributable to the government-mandated part of the shutdown are half of the total costs, making their cost A$90bn.
+In reality, they are likely to be less, one important study suggests much less.
+It is hard to imagine a much bigger private shutdown not taking place had the government decided to simply let the disease rip until its spread was slowed by herd immunity.
+It is also important to note that the government's spending of A$214bn to support the economy during the shutdown is a transfer of resources from one part of society to another rather than a cost.
+It creates neither direct costs nor benefits for society as a whole, other than the economic distortions coming from raising the revenue to service the spending.
+With long-term government bond rates near 1% (less than inflation), the total cost of distortions is likely to be tiny.
+Of course, this discussion simplifies what are incredibly complex social, health and economic questions. There are clearly further costs, from both relaxing restrictions and keeping them in place.
+These costs are worthy of serious study and should rightly be part of a comprehensive public policy discussion. But looked at through the lens of a cost-benefit analysis these combined effects are likely to be small relative to the value of preventing mass death.
+Among them are the incidence of mental health problems and domestic violence under lockdowns. They are important concerns that should be addressed by targeted and well-designed programs.
+Weighing against that is evidence that economic crises are associated with declines in overall mortality rates.
+While suicides rise, total mortality, including deaths from heart attacks and workplace and traffic accidents, falls.
+In the specific case of this pandemic there is survey evidence based on respondents from 58 countries suggesting that strong government responses to the pandemic have been reducing worry and depression.
+Also, we have to acknowledge that recessions and educational disruption have health and economic costs that are unequally spread.
+The shutdown disproportionately impacts more-disadvantaged people including short-term casual workers, migrant workers, those with disabilities and the homeless.
+This skewing will also be present in the herd immunity option. As New York City makes clear, a rapid spread of the disease also disproportionately impacts disadvantaged communities. One can only speculate about the disease burden should some of our remote Indigenous communities get exposed.
+To this we should add further achievements of the shutdown:
+Elimination of mental trauma and grief from losing our loved ones.
+Avoiding the costs of possible longer-term implications of the disease, which we still know little about.
+Avoiding a collapse in the capacity of the health system to deal with other emergencies through the sheer numbers of Covid-19 infected combined with staff shortages due to illness.
+Those advocating cost-benefit analysis of this kind have to apply the principle systematically. It is difficult to see how the total of these sorts of considerations on each side of the ledger could compare to the benefit of lives saved. They will be an order of magnitude, if not two, smaller.
+In the cold calculus of cost-benefit analysis, a highly pessimistic view of the economic costs of Australia's shutdown comes to around $90bn.
+It is a small price to pay compared to the statistical value of lives the shutdown should save, around A$1.1tn.
+It produces a simple message. The shutdown wins.
+The question we now face is how quickly to relax restrictions. Here, too, there are costs and benefits, and we need to be mindful of the economic cost of a second-wave outbreak, plus mortality costs of disease spread before effective treatments or vaccine become available.
+And in all of this bean counting, we should remember that putting a price tag on human life is sometimes unavoidable – such as when a doctor with access to only one ventilator has to choose between two patients.
+But we shouldn't mistake necessity for desirability. We should seek to avoid needing to make such wrenching choices whenever possible.
+Richard Holden is a professor of economics at the University of New South Wales. Bruce Preston is a professor of economics at the University of Melbourne.
+Dr Jen Schaefer of the Royal Children's hospital in Melbourne assisted with the preparation of this piece.
+This article is republished from The Conversation under a Creative Commons license. Read the original article.

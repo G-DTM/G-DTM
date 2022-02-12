@@ -1,0 +1,29 @@
+Government refuses police request for access to Australian coronavirus contact tracing app
+Scott Morrison appeals to Australians to download app, saying data is safe and they will be supporting health services
+The Morrison government has knocked back requests from law enforcement agencies for "added capabilities" in the Covid-19 contact tracing app, deputy chief medical officer Nick Coatsworth has revealed.
+On Thursday Scott Morrison appealed to Australians to download the tracing app as a way to support health services and sought to reassure them that only state and territory health authorities can access the data.
+Morrison told reporters in Canberra the app was "a public health tool, to assist … when someone has contracted the coronavirus, to assist them in that work to contact others who may have been put at risk".
+Morrison said if Australians wanted to thank nurses, paramedics and doctors "then you can help them, by supporting and downloading the app which will be released soon".
+Later, Coatsworth told reporters the app "effectively provides a memory aid" to establish who a person had contact with in the past 14-days, in the event they are diagnosed with coronavirus.
+Coatsworth said "every time someone comes to us and asks us to provide an add-on onto that app, the answer is no".
+"The attorney general was very clear this morning, when he said the police for example would have no access to the data," he said. "And there have been requests to have added capability to the app and the answer has been consistent: this is for the disease detectives only."
+On Thursday the Senate select committee held its first meeting, examining acting secretary, Caroline Edwards, and the chief medical officer, Brendan Murphy, about measures that will be needed before Australia can ease the Covid-19 lockdown and privacy protections on the mobile phone app.
+Murphy said easing restrictions would depend on the level of community transmission, the ability to "test like we've never tested before" and to "do even better" in tracing close contacts of those who have contracted Covid-19.
+Murphy indicated softening restrictions would apply first to small-scale gatherings, currently limited to no more than two people from different households together outside. The Australian Health Protection Principle committee has also been asked to consider allowing community sport and reopening more retail shops.
+But Murphy warned Australia would be at "permanent risk of further waves" of infection and international travel will be banned for at least another four months.
+He acknowledged that some states had implemented restrictions differently "at the margins" but he would be "concerned if there are major changes in one state" without national cabinet agreement.
+Asked about the contact tracing app under development, Edwards reiterated that downloading it will be voluntary and no geolocation data will be stored.
+Edwards told the hearing when users download the app they give only their name, age range and postcode. They are then assigned a unique identifier. The app works by swapping unique identifiers with another user who is within 1.5 metres for a period of 15 minutes or more, she said, and all information is encrypted and stored on the phone.
+Information will sit on the phone "never used" and "won't go anywhere at all", until it is destroyed when the app is deleted, Edwards said, or a person contracts Covid-19 in which case it will be accessed in an unencrypted form by public health officials.
+Earlier, Coatsworth said this operated as a two-step consent, as users would have to choose both to download the app and then later to release its data.
+Edwards said the purpose of the app is "solely to assist in the public health response, particularly the contact tracing processes that states and territories already do" and data would be not be used for compliance, enforcement or any other purpose.
+Edwards said she was aware that legislation governing the use of the app was one option being considered, but it could be implemented through agreements with the states and territories about how they use data and "biosecurity declarations".
+Edwards said legislation or biosecurity declarations could prevent data being obtained with a warrant or under a subpoena, and the department was "alive to the issue" of preventing it being admitted to court.
+Australia's biosecurity laws allow the health minister to "determine any requirement that he or she is satisfied is necessary" to prevent entry or spread of a disease, subject to safeguards including that orders are "appropriate and adapted" to their purpose.
+Edwards said the app requires Bluetooth to be enabled to work, and currently works "better on Android" than iPhones although "both are working" and performance is improving on both systems.
+"I think 40% would be great take-up, we'd like 90% [take-up] or more," she said.
+"The more who do take it up the better. We haven't got a particular number in mind.
+"I'll be happy if 20% do, I'll be happier if 40% do, I'll be even happier if 80% do because it will give more data to our health officials."
+Asked about Hunt's goal of 40%, Edwards replied she is "not aware of the basis of that number".
+On Thursday, the attorney general Christian Porter told Guardian Australia that "specific regulatory action will be taken to prevent such access for law enforcement agencies at both the commonwealth and state/territory level".
+"The government has already made the decision not to make any information collected by the app available for other purposes, including law enforcement investigations," he said.

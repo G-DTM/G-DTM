@@ -1,0 +1,28 @@
+Unsolved mystery: what does it mean if we can't tell how someone caught coronavirus?
+About 10% of Australia's Covid-19 cases are 'source unknown'. Should we be worried about community transmission?
+"Clearly we do have community transmission in Victoria," the state's health minister, Jenny Mikakos, said on Thursday. "I want to reiterate the message to Victorians to take this issue seriously."
+Eighteen new Covid-19 cases were recorded in the state on Thursday, including eight of community transmission where the source of the infection is unknown. "Many of these cases are people with very, very mild symptoms, but they've done the right thing and gone and been tested," Mikakos said.
+Nearly 10% of all coronavirus cases in Australia remain unresolved. That's 733 people who have caught the virus but authorities have been unable to determine where from. Should we be worried about community transmission as lockdown restrictions are eased?
+When a person tests positive for coronavirus, contact tracers have two important tasks: finding everyone who is a close contact and determining where the person may have caught coronavirus.
+Dr Abrar Chughtai, an epidemiologist who lectures in public health at the University of New South Wales, told Guardian Australia with such low infection rates in Australia it's important to try to determine the source.
+"Ideally we should be able to track all cases, but we are still seeing that it is not possible," he says.
+Chughtai says coronavirus transmission is most common through droplet and direct contact, so contact tracing focuses on those. It is difficult to pinpoint transmission via surfaces, meaning investigators aim to find close contacts.
+That process often relies on human memory to track where someone has been and who they've been in contact with, which is why up to about 10% of cases seem to go unsolved because people may not remember the key details of the preceding weeks.
+"I think that probably the most common reason is we are all human so sometimes it's difficult to recall," he says.
+"They will have a questionnaire, and they just ask a certain number of questions and if those questions are not answered they will just declare in that case 'source is unknown'."
+A spokeswoman for NSW Health says investigators find out where a person who has tested positive for the virus has been for the previous 14 days, as well as who they have been in contact with.
+"If there are no identifiable links to clusters, other cases or persons with symptoms suggestive of Covid-19, then the source is unknown," she says.
+Once a close contact list is exhausted, the case is listed as an unknown source. That doesn't mean the investigation is abandoned, just that for the time being it is unknown where it came from. That could change later if there are more cases from close contacts or locations.
+A spokeswoman for the federal health department says cases are never closed off.
+"Where a linkage is unable to be established, these cases are not strictly 'closed off' and may at a later stage be connected to a broader chain of transmission," she says.
+Chughtai says that is where the contact tracing app, Covidsafe, could prove useful in identifying close contacts that a person can't remember or may not know, such as those in a cafe.
+Transmission rates in Australia being so low means there has been very little need to use the app and of the at least 30 times that data has been downloaded from the app for positive cases, there have been no close contacts identified that weren't already found through manual contact tracing.
+There also remain issues with how the app functions.
+In Victoria, there are 190 unsourced cases out of 1,762. The state government is paying close attention to this number with Monday's planned easing of restrictions hingeing on the community transmission rate not going up over the next four days.
+There have been three cases of people who attended a Black Lives Matter protest, the latest announced on Thursday.
+While many seek to blame the protest for community transmission of coronavirus, Victoria's deputy chief health officer, Dr Annaliese van Diemen, said on Thursday it would be difficult to determine where the person caught Covid-19.
+"It is possible that they acquired their illness at the protest. However, they were wearing a mask and did attend a number of other locations during their acquisition period," she said.
+"So it will probably be impossible to tell where they actually acquired their infection."
+Guardian Australia asked the Victorian health department this week about its contact tracing methods for those with unknown origins, but the department did not respond before publication.
+Van Diemen said on Thursday the state would continue to watch the rate of community transmission, and would not rule out slowing the easing of restrictions if the transmission rate was of concern.
+"A lot can happen in five days … We would hope we are not on that trajectory but we don't want to take any chances," she said.

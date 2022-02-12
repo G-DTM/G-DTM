@@ -1,0 +1,27 @@
+Coronavirus tracking app to be rolled out in Australia only with privacy safeguards – minister
+Paul Fletcher says app could be 'very effective tool' if significant portion of public sign up
+The federal government has promised a systematic assessment of the privacy impacts of a controversial app identifying contacts with victims of the coronavirus, which could delay the prime minister's preferred two-week deadline for its rollout in Australia.
+The government believes the app could be useful in tracing the source of a Covid-19 infection by tracking the contacts of its victims.
+The app uses Bluetooth smart phone connections to record who has been near a person for 15 minutes or more, the period defined as a contact.
+But privacy law monitors including the Human Rights Law Centre early this month told the health minister, Greg Hunt, in a letter they were worried about the types of data collected by the app.
+"The concern is once you roll out technology like this it is very, very difficult to roll it back," senior lawyer at the centre Alice Drury told Guardian Australia on Wednesday.
+"And with this technology human rights really have to be in the design of the technology. You can't retro-fit human rights."
+The attorney general, Christian Porter, is looking at those matters, a spokesman for the minister told Guardian Australia on Wednesday.
+"Progress of the app will be subject to the attorney general's advice and a systematic assessment of the privacy impacts," said the spokesman.
+The communications minister Paul Fletcher, on Tuesday indicated the installation of "clear safeguards" would be extensive.
+Sign up for Guardian Australia's daily coronavirus email newsletter
+Fletcher said the app could be a "very effective tool" if a significant portion of the population signed up for it.
+Prime minister Scott Morrison has let it be known he is hoping for a 40% take-up. In Singapore the figure was 20%.
+Fletcher told reporters in Sydney on Wednesday: "It is something that is a potential tool open to the Australian government and the Australian people.
+"But a decision would only be taken if the government was satisfied as to the privacy safeguards and as to there being community understanding and support as to the benefits this tool could provide and the basis upon which people could use it."
+The list of precautions could be extensive based on demands summarised by Lizzie O'Shea of Digital Rights Watch.
+The technology had the capacity to "entrench invasive surveillance if there are not proper limits placed upon it", O'Shea told Guardian Australia.
+She said: "And that requires things like that it remain voluntary, that data be stored in a decentralised way, that we think very carefully about who can access information about people who test positive.
+"And also that data that is produced in years to come is carefully restricted as to who it's available to."
+O'Shea said it could be easy for the government to remove concerns and "give the community confidence in an app like this, which would increase the chances of it being effective".
+"And that is to offer some pretty basic guarantees around privacy and security," she said.
+"I think that means any technology is time-limited in its use, that the data will be protected in a secure way that is decentralised.
+"And that we have resourced the health system to have the capacity to complement any advantages that might be gained by the use of this technology."
+Other groups to have raised concerns in the joint letter to Hunt were the Centre for Responsible Technologies, and Access Now.
+The federal government hopes to pave its "exit road" from the tough restrictions imposed to contain the coronavirus infections.
+Central to the strategy is a boost to testing and tracing programs, upgrades to the capacity to respond to localised outbreaks, and introduction of the tracker app.

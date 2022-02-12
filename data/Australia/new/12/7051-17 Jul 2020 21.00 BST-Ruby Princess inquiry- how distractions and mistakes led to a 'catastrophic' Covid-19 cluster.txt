@@ -1,0 +1,56 @@
+Ruby Princess inquiry: how distractions and mistakes led to a 'catastrophic' Covid-19 cluster
+Here is what we learned from four months of hearings into how the cruise ship was allowed to dock and disembark with cases of Covid-19
+After more than a dozen days of hearings, spread across four months, the New South Wales special inquiry into the Ruby Princess concluded on Friday. The commissioner, Brett Walker SC, heard from paramedics, doctors, cruise ship executives, NSW Health senior staff, and passengers who contracted Covid-19, lost their friends and their health.
+Walker has until 14 August to consider the evidence and write his report, and any potential recommendations. Here is what the inquiry heard:
+In his closing address, the counsel assisting the inquiry, Richard Beasley SC, said NSW Health had made a "serious mistake" in not fully updating an arrival form that was handed to passengers on 18 March, the day before the ship docked in Sydney for the last time.
+The form asked passengers to say if they had been to "mainland China, Italy, Iran, South Korea, Cambodia" and a few other then-Covid-19 hotspot countries in the past 14 days.
+However, on 10 March, the policy of the Communicable Diseases Network (the peak national body) had already changed to include a declaration for all international travel. NSW Health had adopted this advice but had not updated the arrival card.
+"I would describe that as a serious mistake," Beasley said. However, he added it was a "group mistake", and not the responsibility of a single person at NSW Health.
+The counsel for NSW Health, Gail Furness SC, said doctors and NSW Health conceded it was a "mistake", but questioned the labelling of it as "serious".
+Beasley also told the inquiry NSW Health's practice of grading ships – under which the Ruby Princess was classed as "low-risk" – was "meaningless" and a "distraction".
+The cruise ship was classified low-risk when it docked on 19 March because it had only travelled between New Zealand and Australia. However, many passengers had flown in from the US and UK before boarding. Some passengers displaying flu-like symptoms had also been swabbed for Covid-19.
+In his closing remarks, Beasley said the entire grading system was a "distraction" and NSW Health should have focused on what precautions to take, and on the "catastrophic" impacts of even a small number of people having a novel disease on a cruise ship.
+Walker said he was struggling to see the "justification" for the grading system.
+"I, at the moment, can't see why I shouldn't find that there never was – not just from the 10th of March – that there never was a justification empirically of the health department's 'low, medium, high' grading," he said. "Because that is not the CDNA [Communicable Diseases Network Australia] approach".
+Furness disagreed, and told Walker there was "a foundation for looking at ships in a graded way".
+Walker replied: "Why graded? Why would you need to know more than 'an individual has been on this ship for 14 days, who flew in from Los Angeles just before this cruise started'. Why isn't that enough?
+"Why grade? Once you have got one person – and this is happening today between Victoria and NSW – once you have one person, there is a risk."
+Furness responded that it was sensible to have different approaches to different ships. "It was realised fairly early on they did not all need the same attention," she said. "There is no evidence to a better approach [prior to 10 March]".
+Counsel assisting also said there was "a very large non-compliance" with procedure because the ship only had 10 available Covid-19 swabs when it docked on 19 March.
+And, the inquiry heard the test results were delayed for 16 hours, which Beasley described by as "unreasonable".
+Documents submitted to the inquiry revealed the Ruby Princess said it only had 10 Covid-19 swabs available before it docked, despite hundreds of passengers displaying "acute respiratory disease".
+Earlier in the inquiry, a NSW Health senior epidemiologist, Dr Kelly-Anne Ressler, became tearful in the witness box as she apologised for the "unsatisfactory" number of swabs.
+Walker asked Ressler why he "should not draw the conclusion that there has been a reprehensible shortcoming from NSW Health".
+In a tearful comment, Ressler said: "All I can say is that myself and my colleagues were working very hard, we did what we could, and if we could do it again, it would be very different."
+In closing comments, Beasley said he was not recommending adverse findings against either NSW Health or the Ruby Princess's operator, Carnival Australia, over the swabs.
+"There is evidence of email exchanges between [the ship's senior doctor] Dr Ilse von Watzdorf and Ressler, about difficulties Von Watzdorf was having in sourcing a sufficient number of swabs," he said.
+"Ms Ressler provided Dr Von Watzdorf with about 25 swabs but Von Watzdorf was told by Ms Ressler to make sure she has enough swabs. The evidence is von Watzdorf was attempting to source swabs. This was not ignored by NSW Health, was not ignored by Princess or Carnival or Dr Von Watzdorf."
+However, Walker noted: "I think there is room for criticism that such a large enterprise was not able in a timely fashion to meet a global emergency with basic supplies."
+Earlier in the inquiry, Ressler also gave evidence that the swabs were not tested for hours, due to a laboratory technician's error.
+The swabs were taken off the ship at 3am when it docked on 19 March, and driven directly to a laboratory. Ressler said that swabs that arrived at 10am usually had results by 4pm. However, when she called at 4pm she was told the swabs had not even been processed yet.
+Eventually, results were returned at 8am the next day, with three positive.
+Beasley said the swabs "should have been tested immediately".
+"I know that might have meant an early morning for someone in a lab, but in a pandemic that might be part of the job," he said.
+Earlier in the inquiry, Walker was told that the ship's final human disease log, sent to NSW Health just before docking, was out-of-date, incomplete and missing people who later tested positive for coronavirus.
+At 9.30am on 18 March, the ship's senior doctor, von Watzdorf, sent an acute respiratory disease log to NSW Health that said 104 out of 3,795 passengers had presented with "acute respiratory disease" (2.7% of passengers), and 26 had "influenza-like illness" (0.94%). It also said 48 people had been tested for influenza A, but only 24 had tested positive.
+According to then-NSW Health policies, a rate of "influenza-like illness" above 1% was an issue that could make a ship "medium" or "high" risk. At 4.40pm that day, the NSW health assessment panel assessed the ship as low-risk.
+However, on 20 March, after Covid-19 tests came back positive, NSW Health noticed that one passenger who had contracted the virus was not listed as sick on the ship's log. Von Watzdorf then sent through an updated log that revealed more passengers had been sick – and, in fact, more than 1% had had "influenza-like illness".
+In her email, von Watzdorf apologised saying: "I'll send it now, sorry I forgot. That last one was from the morning, it was so crazy."
+The inquiry also heard from passengers, some of whose friends died as a result of Covid-19, and one witness who was placed into an induced coma.
+Passenger Paul Reid told the inquiry he fell ill during the cruise and presented to the ship's medical centre with a sore throat and a fever. He said a male doctor on board took a swab from his nose and throat, dipped it "in a mixture", then "came back five minutes later and told me, 'You don't have coronavirus, you have the common cold.'"
+However, the ship did not have the ability to conduct Covid-19 testing on board – swabs could only be processed on land.
+The ship's records show that Reid was not tested for coronavirus but rather for influenza A and B. He was negative for both. Reid later tested positive for Covid-19.
+He told the inquiry the ship's doctor did not ask him to self-isolate, and gave him the impression he had been tested and "cleared of coronavirus". He told other passengers, family and friends that he had tested negative and continued to use communal areas.
+Passenger Josephine Roope, whose friend died of Covid-19, also said the ship's medical staff told her three times that her friend "only [had] the flu", even though she had tested negative for influenza.
+Roope's friend Lesley Bacon, 77, became so sick on the voyage that she was taken immediately to hospital in an ambulance at 3am when the ship docked on 19 March.
+She said she spoke to von Watzdorf, who told her: "Just the flu, nothing to worry about." Roope said von Watzdorf did not tell her that, at that point, Bacon had tested negative for the flu.
+"I think I have that memory [of von Watzdorf saying] there's nothing to worry about," she said. Bacon was diagnosed with Covid-19 in hospital and died a few days later.
+Another passenger, Ann Kavanagh, said a waitress on the ship had sneezed in her face days before she became sick. She later tested positive for coronavirus and was put in an induced coma for eight days.
+On the first day of the inquiry, von Watzdorf told Walker she was "surprised" that all 2,700 passengers were allowed to disembark before test results came back.
+"I was surprised that we were allowed to do that without waiting for the results to come through," she said. "If it was my decision I would've perhaps waited like the previous time."
+Ressler also told the inquiry that, when she met von Watzdorf for the first time, the ship's doctor told her "we just have to stop all cruise ships".
+Ressler first met von Watzdorf in person on 8 March, as the Ruby Princess docked in Sydney at the end of an earlier cruise. Over 360 passengers on that cruise reported illness, and nine swabs were taken for Covid-19 testing, which later came back negative.
+The NSW Health epidemiologist said von Watzdorf told her that cruise ships should be stopped. Ressler said: "It was a passing comment, she just said we have to stop all cruises."
+The inquiry also heard from trainee paramedic Simeon Pridmore, who took an ill passenger from the ship to hospital on the day it docked.
+Pridmore said that the NSW Ambulance duty operations manager told him that both patients were "suspected Covid-19" positive. Another paramedic, Mathew Symonds, said he boarded the ship and went to its medical centre and one of the passengers was receiving oxygen treatment using an "oxygen nasal cannula". Pridmore said the ambulance he was in was taken "directly to a Covid-designated area" when it arrived at Royal Prince Alfred hospital.
+A timeline of events revealed in earlier parts of the inquiry can be found here.

@@ -1,0 +1,88 @@
+How close is the NHS to getting the 18,000 ventilators it needs?
+With the peak of coronavirus cases expected soon, the target has still not been met
+A month ago, Boris Johnson held a conference call with manufacturers and medical specialists in which he urged them to join a wartime-style effort to produce ventilators for the NHS. While the prime minister was later criticised for joking that the plan might be called "operation last gasp", British industry wasted no time in getting to work.
+The Guardian is investigating how the UK government prepared for – and is responding to – the coronavirus pandemic. We want to learn more about recent decisions taken at the heart of government. If you're a whistleblower or source and with new information, you can emailinvestigations@theguardian.comor (using a non-work phone) send us a Signal or WhatsApp to this number (UK) +44 7584 640566. (The number does not take calls.) For the most secure communications,use SecureDropand for general advice on confidentially contacting the Guardiansee our guide.
+The NHS had about 8,175 ventilators at the time of Johnson's request and he called on firms to deliver 30,000 within weeks, a task some experts have said was unrealistic. Health secretary Matt Hancock has since revised that requirement down to 18,000.
+But with the peak of coronavirus cases expected soon, the target has still not been met and time is running out. Meanwhile, the government has been criticised for failing to to take part in an EU scheme to procure the devices. One project called BlueSky, involving Formula One teams, was cancelled over the weekend after the government changed its specifications for the devices, raising concerns other projects could also be axed.
+So far ventilator stocks have been increased to 10,120, around 1,000 commandeered from the private sector and the rest obtained through imports and orders from small suppliers.
+Here's how the rest of the ventilator effort is shaping up.
+Who are they?
+A consortium of nearly 30 firms, including Airbus, Rolls-Royce and McLaren, are helping scale up production of existing machines made by specialist firms Smiths Medical and Penlon.
+What are they making?
+Consortium members are lending their expertise, helping 3D print components and building new assembly lines to give Penlon and Smiths the muscle to increase production.
+How many?
+The government has provisionally ordered 5,000 Penlon machines and up to 10,000 of the Smiths paraPac device.
+Are they ready?
+The paraPacs don't require regulatory approval and a small number have already been delivered to hospitals by the military. Penlon's is a slight variation on its original design. Some are undergoing clinical trials in hospitals, but they have yet to receive approval from the Medicines and Healthcare Products Regulatory Agency (MHRA), so cannot yet be used to treat patients. The consortium says it will eventually be able to make 1,500 a week, but probably not until early May.
+Who are they?
+Sir James Dyson's engineering company and Cambridge-based The Technology Partnership.
+What are they making?
+Dyson was the first company to reveal that it had a provisional order from the government. Its brand new prototype, dubbed the CoVent, was developed with TTP in about a fortnight.
+How many?
+A provisional order for 10,000.
+Are they ready?
+No. The CoVent has yet to undergo MHRA trials and there is no sign that regulatory approval is imminent.
+Who are they?
+Defence company Babcock, working with German medical equipment specialist Draegerwerk.
+What are they making?
+The Zephyr Plus, another new prototype, has support from a supply chain including weapons firm Raytheon, Plexus, Amtek-Precision and Astute Electronics.
+How many?
+A provisional order for 10,000.
+Are they ready?
+No. Like Dyson's CoVent, the Zephyr Plus requires regulatory approval.
+Who are they?
+Science Group's subsidiary Sagentia employs about 50 staff, a mixture of mechanical engineers, PHD physicists and experts in software and electronics.
+What are they making?
+The Sagentia ventilator differs from some other models in that it uses laser-cutting and computer numerical control technology to manufacture components, meaning they don't need to be sourced from elsewhere.
+How many?
+A provisional order for 10,000.
+Are they ready?
+No. Like Dyson and Babcock's models, the machine is brand new and requires MHRA approval.
+Who are they?
+Swedish-owned Breas is a specialist medical device with a UK site in Stratford-upon-Avon.
+What are they making?
+Breas has been tight-lipped about its involvement but its website details an array of ventilator products under the Nippy brand name.
+How many?
+Unknown
+Are they ready?
+Breas was already making ventilators so should not require MHRA approval. However the models listed on its website appear not to be designed for intubation, which is required in the most serious cases of Covid-19 requiring "invasive" ventilation.
+Who are they?
+Diamedica is an anaesthesia and respiration specialist based in Devon. Plexus is a high-end manufacturing specialist with a base in Kelso, Scotland.
+What are they making?
+Diamedica already makes the Helix portable ventilator, which it claims is the leading device in emerging markets. It is working with Plexus to increase production.
+How many?
+Unknown
+Are they ready?
+Neither Diamedica nor Plexus has said whether the Helix has MHRA approval.
+Who are they?
+Formula One racing teams Aston Martin, Red Bull and Renault were to help produce a design by junior doctor and inventor Dr Alastair Darwood.
+What are they making?
+Project BlueSky, previously called Remora, involved manufacturing designs by Darwood, a member of an NHS scheme for clinical entrepreneurs. The website for his company Darwood IP advertise a low-cost portable device called the Aura. The F1 teams worked 18-hour days to prepare their factories to scale-up production of the machine, if required.
+How many?
+Darwood had an order for "thousands".
+Are they ready?
+The government has cancelled its provisional order. The machine was awaiting MHRA approval when the Department for Health and Social Care changed the specifications it required, rendering the machine unsuited.
+Who are they?
+The UK has sourced 300 ventilators from China, the Germany military has donated 60 and Donald Trump promised 200 would be sent over from the US. Inspiration Healthcare, based in West Sussex, has a £4m order for fewer than 500, coming from the US and Israel. Even BBC medical drama Holby City has lent a couple.
+What are they ?
+The government has said very little about what type of ventilators are being imported but they are likely to be a variety of proven models.
+How many?
+8000 orders, according to the Cabinet Office. More than 500 have arrived already and 1,500 are expected in the next few weeks.
+Are they ready?
+The majority are yet to arrive.
+Who are they?
+The European Union is using the combined purchasing power of its member states to buy new machines.
+What is this?
+The UK was invited to join this scheme but did not. A spokesperson for No 10 initially said this was deliberate choice but the government later changed its mind, saying it had missed the invitation due to a "communication problem".
+How many?
+Unknown
+Are they ready?
+No. The EU procurement process is still ongoing and leaked documents have said that delivery could take anything from 10 weeks to a year.
+Who are they?
+The Mercedes-Benz Formula One team is working with University College London.
+What are they making?
+They are producing continuous positive airway pressure machines, which are designed to treat patients before they require full-blown invasive ventilation. Patients using a CPap receive oxygen through a mask, rather than having a tube inserted into their trachea to breathe on their behalf.
+How many?
+The government ordered 10,000
+Are they ready?
+CPaps are easier to build than heavy duty ventilators and hundreds are already being delivered to the NHS.

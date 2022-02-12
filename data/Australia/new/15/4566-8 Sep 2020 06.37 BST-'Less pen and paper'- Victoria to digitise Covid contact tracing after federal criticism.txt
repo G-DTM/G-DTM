@@ -1,0 +1,27 @@
+'Less pen and paper': Victoria to digitise Covid contact tracing after federal criticism
+Tech giant Salesforce to provide integrated system and response teams to be set up in tracing overhaul
+Victoria is swapping pens, paper and fax machines for digitised contact tracing and localised health teams amid criticisms it has been too slow to come into line with tracing efforts in other states.
+As the state reported 55 new cases of Covid-19 and eight more deaths on Tuesday, the Victorian premier, Daniel Andrews, announced significant changes to the way the state has been tracing confirmed Covid-19 cases.
+The government will establish five suburban coronavirus response teams based in the north, south, south-east and west of metropolitan Melbourne.
+The exact locations will be determined after consultations, but health teams will be similar to those already in place in regional Victoria.
+The government has also recruited tech giant Salesforce to provide a digitised system covering the whole contact tracing process – from test results to interviews, phone calls, and the management of cases and contacts.
+"The Salesforce product … is about trying to consolidate and align many different platforms into one platform," Andrews said. "That is happening now and just means that there is less pen and paper, there is less manual data entry."
+He said it will allow teams to be based remotely because they'll be able to access the data from anywhere in the state.
+Victoria's chief health officer, Prof Brett Sutton, told 3AW radio that the system would be automated and people would receive a text notification when they tested positive.
+Asked why Victoria hadn't taken up the offer for the system in March, as Western Australia and South Australia did, Sutton said Victoria "didn't know" what would be required and what the weaknesses of the existing system would be.
+"It was also pretty clear that March was our busiest time in the first wave and you don't change the entire system and retrain everyone right in the middle of it," he said.
+Sutton said fax machines and phone calls are still being used in GP practices where software doesn't link with department systems.
+The automated system will run in parallel to the existing contact tracing efforts of 2,600 workers in the state to ensure a smooth transition.
+More staff could be added to help boost efforts at a later date.
+Andrews said Victoria would also use an IBM artificial intelligence product from the defence department to provide predictive modelling "that can help you pick up patterns that might not be necessarily obvious".
+Australian Defence Force members as well as senior officials from the state's Department of Health and Human Services will travel to Sydney this week to compare the response in Victoria to New South Wales, to see if anything can be added to what Victoria is currently doing with contact tracing, Andrews said.
+The announcement came after the federal government had criticised contact tracing efforts in Victoria as not being as good as those in NSW. Both the prime minister, Scott Morrison, and the federal health minister, Greg Hunt, said Victoria needed to make improvements in its contact tracing as the state moved through the roadmap to opening up.
+"We want to help Victoria improve contact tracing, achieve the standards of NSW, and be able to bring Victorians out of lockdown and into greater freedoms progressively, but on a faster timetable with greater return to businesses, livelihoods and reducing the impact on mental health, which we've all heard over the last 48 hours has been absolutely crushing," Hunt told Channel 7's Sunrise.
+Prior to today's announcement, Andrews had rejected criticism of the state's contact tracing efforts, pointing to the national benchmark data that shows Victoria is close to meeting the benchmarks on cases being contacted and interviewed within 24 hours, and close contacts being identified within 48 hours.
+When asked why Victoria hadn't brought about these changes before the second wave, and if it could have prevented much of the second wave, Andrews said he didn't accept that and the process has been about continual improvement and learning from the other states.
+"There's no rulebook. There's no playbook. There's no guide here," he said.
+"This is something none of us have done before and therefore you all learn from each other and there are plenty of insights that we've provided to NSW and Queensland and South Australia."
+Sutton said he knows that in the initial outbreak from hotel quarantine in late May and early June, the cases were interviewed, told to isolate and their close contacts were contacted.
+"But it escapes, and it's gone to places that are linked by genetics with those original cases, but we don't have an epidemiological link, and it was a super spreader event … I do know we followed up the cases and close contacts," he said.
+"I wish the system were as robust then as it is now … I can't say it would have been stopped with a NSW system by any means."
+The online dashboard for Covid cases in Victoria will soon contain information about outbreaks in health workplaces, and the 14-day rolling average will be included in data for metropolitan Melbourne and regional Victoria, given it is the metric used to decide the easing of restrictions.

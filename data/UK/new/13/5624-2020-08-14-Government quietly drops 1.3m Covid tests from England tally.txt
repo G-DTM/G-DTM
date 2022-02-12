@@ -1,0 +1,22 @@
+Government quietly drops 1.3m Covid tests from England tally
+Exclusive: Double counting raises fresh questions about accuracy of testing figures
+If you would like to share your stories about testing you can get in touch by filling in the form \nbelow. Only the Guardian can see your \ncontributions and one of our journalists may contact you to discuss \nfurther.
+Exclusive: Double counting raises fresh questions about accuracy of testing figures
+The government has quietly removed 1.3m coronavirus tests from its data because of double counting, raising fresh questions about the accuracy of the testing figures.
+In the government's daily coronavirus update on Wednesday, it announced it had lowered the figure for "tests made available" by about 10% and discontinued the metric.
+An update on the page read: "An adjustment of -1,308,071 has been made to the historic data for the 'tests made available' metric. The adjustments have been made as a result of more accurate data collection and reporting processes recently being adopted within pillar 2."
+The Department for Health and Social Care (DHSC) said the changes affected data reported between 14 May and 12 August. It said there had been "a double-counting of test kits that had been dispatched", "which had not been removed from the lab's processed data".
+The changes were made after it was discovered fewer in-person pillar 2 tests had been carried out than originally reported, while more tests had been sent to NHS trusts and care homes. The problem was acknowledged by the DHSC on 6 July but the tests were removed from the data on 12 August.
+Pillar 2 tests involve all testing done outside hospitals through commercial companies. For example, swab tests carried out at satellite testing centres, such as care homes, and home swab testing kits delivered by post.
+Justin Madders, the shadow health minister, said the data on testing had been "shambolic" for months.
+"To now retrospectively adjust the testing figures by 1.3m overnight – without explanation – is the latest in a long line of chaotic failings by the government on testing," he said.
+"How can we be confident that testing and tracing is working properly when basic data on the number of tests is obviously so flawed? Ministers need to get a grip of this as a matter of urgency."
+The government has previously been reprimanded for misleading the public with its testing figures. Concerns were raised after a target of 100,000 tests per day was met by adding thousands of mail-out tests to the country's testing capacity figures at the end of April.
+In a letter to the health secretary, Matt Hancock, in June, the head of the UK Statistics Authority, Sir David Norgrove, said: "The aim seems to be to show the largest possible number of tests, even at the expense of understanding."
+The Liberal Democrat health, wellbeing and social care spokesperson, Munira Wilson, said: "With so many families torn apart by this pandemic, the government must recognise the fall in public trust in their handling of the crisis."To avoid questions of fiddling the numbers, they must be explicitly transparent in how they have changed the data and how they will rapidly build testing capacity."Ultimately, we need an immediate independent inquiry so lessons can be learned more systematically."
+The revised test count comes after up to 750,000 unused coronavirus testing kits manufactured by the diagnostics company Randox were recalled from care homes and individuals because of concerns about safety standards.
+The recall was ordered by the Medicines and Healthcare products Regulatory Agency (MHRA) and the UK government instructed care homes and members of the public to immediately stop using Randox testing kits in mid-July amid concerns over their sterility.
+Allyson Pollock, a clinical professor of public health at Newcastle University, said: "The government needs to make clear what they mean by an adjustment and why the change has taken place. There are also big questions that should be asked about the Randox contract, and the one with Deloitte is still not published, we should really press for that."
+-testing
+A DHSC spokesperson said: "In July we became aware of an overcounting issue which we publicly and transparently acknowledged and have since sought to clarify these figures subsequently.
+"This does not change the fact that we have rapidly built, from scratch, the largest diagnostic testing industry in British history, with over 13 million tests delivered, and capacity to test 300,000 every day."

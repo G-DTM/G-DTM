@@ -1,0 +1,20 @@
+NHS Covid app in England now able to log all test results after flaw fixed
+Issue revealed on Twitter meant results from hospitals or PHE labs could not be registered
+People tested for Covid-19 in NHS hospitals and Public Health England labs were unable to share their results with the NHS's contact-tracing app in England, it has emerged.
+The Department of Health and Social Care said on Saturday evening that the issue, which was was revealed on Friday by the app's official Twitter account as it responded to a complaint from someone unable to log their result, has now been fixed.
+The app, which launched two days ago, requires a code which the user said was not provided in the text and email he received with his result.
+"If your test took place in a Public Health England lab or NHS hospital, or as part of national surveillance testing by the Office for National Statistics, test results cannot currently be linked with the app whether they're positive or negative. Thanks," the NHS Covid-19 app Twitter account replied.
+A spokeswoman for the health department said: "Everyone who receives a positive test result can log their result on the app. A minority of people, such as hospital patients, who were unable to log their positive result can now request a code when contacted by NHS Test and Trace to input on their app."
+The ability to log a negative result is still being looked at after users said they wanted to be able to do so, she added.
+On Friday, 210,375 tests were taken in England, with 29% (61,481) handled by PHE and the NHS, according to government figures. That does not include tests taken as part of the ONS surveys, because they are counted on a UK basis.
+Since its launch, the app has been beset with problems, including complaints that it did not work on older phones and that it was hard to find and download.
+Prof Stephen Reicher, a member of the SPI-B group that advises the government's Scientific Advisory Group for Emergencies (Sage), said on Twitter it was "extraordinary" that England's app did not include test results from public labs.
+"It exemplifies precisely why test and trace continues to fail: the divorce between the new privatised testing system and NHS/Public Health structures," he said.
+"So, fix the app. But that won't be enough. We need a rapid reset of testing more generally. No more centralised privatised cronyism. Rebuild the system based on trusted local NHS and Public Health."
+On Saturday morning, Labour's shadow health secretary, Jonathan Ashworth, tweeted: "We all want to see this app succeed. We've encouraged people to download it.
+"But have they really launched an app that doesn't actually link to tests carried out by NHS hospital labs &amp; PHE labs instead only including tests carried out via the outsourced Lighthouse lab network??"
+The NHS Covid-19 contact tracing app is also used in Wales, although it appears to have fewer problems there. The Welsh health director for digital technology and transformation, Ifan Evans, tweeted that its test results – unlike those in England – all include notification tokens for the app.
+A separate design issue has also limited the ability of other users who test negative, including those using home-testing kits or private providers such as the Lighthouse lab network, to log their result in the app.
+People who report symptoms via the app but then book their test outside of the app will only get a code to input if their test result is positive.
+The launch of the NHS Covid-19 app this week came four months later than expected. It uses Bluetooth signals to log when a user is in close contact with another user, generally meaning within 2 metres for 15 minutes or more.
+If someone then tests positive for Covid-19, they can share the result anonymously with their close contacts, who will each receive an alert and will have to isolate for 14 days.

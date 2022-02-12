@@ -1,0 +1,63 @@
+The inside story of the UK's NHS coronavirus ventilator challenge
+It all began with a woeful shortage of machines – and a desperate search to find firms to make them
+As realisation dawned that a full-blown coronavirus outbreak was inevitable, the government set British industry a seemingly impossible task.
+The NHS had about 8,000 ventilators available but the latest modelling, based on evidence from China, suggested that up to 30,000 would be needed, within a matter of weeks.
+During a conference call on Monday 16 March, dozens of manufacturers and medical device specialists were told the grim news and asked to launch a wartime-style effort – dubbed the ventilator challenge – to bridge the gap.
+Nearly seven weeks later, things look very different. The NHS has neither needed 30,000 ventilators, nor has it come close to calling on the 18,000 that health secretary Matt Hancock set as a revised target in early April.
+The inside story of what happened in this period is one of early panic and confusion, of companies with expertise clashing with those seizing the limelight with ambitions to innovate, of questionable designs, and the desperation of a government setting targets and then deciding it didn't need to meet them after all.
+The judgment as to whether ministers have made the right call will be made in the months to come. Either way, the clinicians and medical device experts who spoke to the Guardian say lessons have to be learned.
+The ventilator challenge began on Saturday 14<sup> </sup>March, led by chief commercial officer, Gareth Rhys Williams, the civil servant who oversees state procurement.
+"I got an email at midnight asking if I could call him [Rhys-Williams]," said Nick Grey, a designer and inventor behind Worcestershire-based technology firm Gtech. "He said the PM had given him a special job: 'we're going to need up to 30,000 ventilators in two weeks, is that something you can help with?'"
+Building a modern high-quality machine from a standing start would, he believed, have been impossible. But like many other designers and engineers who responded to the rallying cry, Grey believed he could knock up something serviceable.
+"I said, 'If you're really stuck and people can't breathe I can produce something that can keep them going.' It would have had to have been really bad to do that."
+Grey wasn't the only who was sceptical about producing something more sophisticated. Asking manufacturers to switch from cars or jet engines to specialist medical devices was unrealistic according to Craig Thompson, head of products at Oxfordshire firm Penlon, one of the few specialist ventilator firms in the country.
+But at this stage, according to Whitehall sources, ministers were desperate; they believed tens of thousands of people might require ventilation. Basic devices, however undesirable, might have to do.
+"We were of the view that we had to back every horse," said an adviser to a cabinet minister involved in the plans.
+The strategy was threefold; buy proven devices from the few small firms that made them, import some from overseas and, most importantly, look to the the ventilator challenge to deliver thousands more machines.
+Already though, some experts were concerned at how much credence was being given to the notion that non-specialist companies could build their own simple devices.
+"They [the government] were initially talking about a Manley-Blease-style ventilator," said a source at one specialist ventilator company. "They sent links to it."
+He was referring to a 1960s design by Roger Manley and the Blease Medical company, a major advance at the time but crude by modern standards.
+In a document sent to manufacturers, the government said the new devices should ideally be able to support a patient for a number of days, but left open the option to build devices capable of providing support for a few hours to a day.
+"These companies were all focused on the big prize of coming up with their own ventilator," said the source. "I saw videos of some of them … the jerky motion suggested something that hadn't been fully thought through. They didn't exactly impress me as far as working concepts go."
+Dr Alison Pittard, dean of the Faculty of Intensive Care Medicine, has said that simple devices of this nature would have been "of no use".
+Yet firms with no prior experience were increasingly bullish that they could design and build a prototype within weeks.
+One of these was Dyson, the engineering group whose success was built off the back of the bagless vacuum cleaner invented by its founder, Sir James Dyson. On the evening of 25<sup> </sup>March, the billionaire Brexit-backer indicated in an email to staff that the prime minister, Boris Johnson, had personally asked him for help.
+The company had been working with Cambridge-based The Technology Partnership on the CoVent, a breathing device that it believed would help meet the nation's needs. The government, he said, had ordered 10,000.
+Within an hour of the memo to staff, Dyson was sending out mocked-up images of the CoVent. The move angered some of those involved in parallel projects, who felt the buccaneering tone masked the enormity of the challenge.
+"Dyson jumping the gun wasn't helpful to anyone," said one source. "We were looking at them aghast. Nobody said you had to start from scratch."
+According to one source, the firms that opted to design and build new machines had to lean heavily on support from the medical device regulator, the Medicines and Healthcare products Regulatory Agency (MHRA).
+"Without the independent regulatory teams, most of these projects would have gone nowhere," the source said. "It's easy to say you can just design a ventilator but the safety isn't just in the design, it's about how you make them, the quality management, servicing them. It's not an innovation programme, it was there to meet a clinical need. And that need was always most likely to be met by scaling up manufacture of existing devices."
+Only one group had taken this latter approach and it was quietly making more progress than any other.
+The Ventilator Challenge UK consortium, involving more than 20 firms, counted the likes of Rolls-Royce, Airbus, Ford and McLaren among its number. It is on track to deliverthousands of ventilators to the NHS. Rather than reinvent the wheel, the consortium focused on existing designs.
+"It was our choice that it was the quickest route," said Dick Elsy, the consortium's chairman. "Others pursued the start-from-scratch approach and some [of those projects] have been turned off."
+By early April, Ventilator Challenge UK was inching towards production and imports were starting to trickle through, albeit not in the volume the government had hoped for.
+Meanwhile Dyson, defence group Babcock and a group of Cambridge scientists called Sagentia were continuing to work on their new prototypes.
+Still though, the numbers were far lower than hoped. The NHS now had close to 9,000 devices but none had yet come from the ventilator challenge.
+"The fact is that the industry has answered the call but the government wasn't shouting early enough," confided a frustrated source involved in one of the projects in early April.
+Despite commissioning multiple new devices with no measurable chance of success, the government hadn't, in fact, backed every horse.
+The UK failed to join an EU procurement scheme that promise to source proven designs, a revelation that led to the prime minister being accused of putting "Brexit over breathing". The row descended into farce as the government changed its story, first indicating the snub was deliberate before blaming a "communication problem".
+By 5 April though, the health secretary, Matt Hancock, had reduced the target to 18,000 ventilators, a more manageable if still rather distant prospect.
+Three days later, based on clinical advice, the government upgraded its requirements.
+Doctors treating Covid-19 patients had learned that they typically suffered rapid fluid build-up in the lungs, requiring frequent drainage. The initial specifications had not envisaged this and some of the more basic models were not equipped to handle it.
+One anaesthetist, who asked not to be named, said the Department of Health and Social Care should have been aware of this issue far earlier.
+"We had done strategies for changing over ventilators as people built up fluid. We knew that was going to be the case."
+Other clinicians say doctors' understanding was constantly changing.
+"What I would say is that this is genuinely a new disease," said Dr Daniele Bryden, vice-dean of the Faculty of Intensive Care Medicine and an intensive care practitioner who has treated coronavirus patients. "It takes time to understand long-term impacts for the individual."
+Some projects fell by the wayside. Even the high-spec Penlon Prima EOS2, manufactured by Ventilator Challenge UK and now being used in hospitals, had to be sent back to the factory to be refined.
+With cancellations and delays like these affecting the race, time appeared to be running out – 10 days after Hancock revised down the ventilator target to 18,000, the NHS still had only 10,000.
+Luckily for Covid-19 patients – not to mention the ministers overseeing the ventilator challenge – external factors came to the rescue.
+Only about half of Covid-19 patients admitted to intensive care with breathing difficulties were being put on mechanical ventilators.
+Martin Allen, a consultant respiratory physician and board member of the British Thoracic Society, explained why.
+"In Wuhan, when they tried other ventilation strategies they failed. Everyone needed to go on to invasive ventilation, so there was a concern that spread throughout the rest of the world," he said.
+In Italy though, a lack of the devices forced doctors to try other strategies, such as increased use of Cpap machines, which deliver oxygen via a mask rather than requiring intubation – where oxygen is delivered by the ventilator through a tube inserted into the airway.
+Of the experts who spoke to the Guardian, many felt that the ventilator strategy would not have withstood a sterner test.
+"The country has been fortunate that we've not see the levels we frankly should have expected" said one ventilator expert. "It could have been far worse."
+The government said that it was, at all times, guided by expert scientific advice.
+Yet manufacturers felt the plan began too late, while imports that were supposed to number around 8,000 have only just passed 800. Last week it emerged that 250 from China were ditched because doctors feared they might harm or even kill patients.
+Of the "new" ventilator projects, none have reached the final stages of testing and the majority – including those made by Sagentia and Dyson – have proved surplus to requirements.
+Dr Bryden questioned whether the intense focus on ventilators was ever the most sophisticated approach.
+"You cannot save somebody's life with a piece of equipment alone. You also need someone who knows how to look after the patients."
+Prof Carl Heneghan, director of the centre for evidence-based medicine at Oxford University, believes that a strategy that relied on firms cobbling together life-saving devices in a matter of weeks should teach us more enduring lessons.
+"When we look back there will be serious questions to answer about all of the decisions made. What's been very noticeable is that we always seem to be one step behind on the policy.
+"If it's not ventilators it's tests, if it's not tests, it's PPE. It's an important lesson that we have to invest, to create overcapacity for these moments."
+"We've really cut to the bone in this country far too much."

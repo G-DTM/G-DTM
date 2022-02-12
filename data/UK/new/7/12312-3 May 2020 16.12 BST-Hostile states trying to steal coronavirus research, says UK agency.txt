@@ -1,0 +1,20 @@
+Hostile states trying to steal coronavirus research, says UK agency
+Experts say Russia, Iran and China likely to be behind cyber-attacks on universities
+Hostile states are attempting to hack British universities and scientific facilities to steal research related to Covid-19, including vaccine development, cybersecurity experts have warned.
+The National Cyber Security Centre (NCSC) said the proportion of such targeted cyber-attacks had increased, branding the criminal activity "reprehensible".
+It is understood that nations including Iran and Russia are behind the hacking attempts, while experts have said China is also a likely perpetrator.
+There are thought to be dozens of universities and institutions with biomedical capacity working on Covid-19 research, ranging from new diagnostic and antibody tests to experimental treatment.
+However, it is understood there have been no successful attacks on universities or research institutions to date.
+A spokesperson for the NCSC said: "Any attack against efforts to combat the coronavirus crisis is utterly reprehensible. We have seen an increased proportion of cyber-attacks related to coronavirus and our experts work around the clock to help organisations targeted.
+"However, the overall level of cyber-attacks from both criminals and states against the UK has remained stable during the pandemic."
+The University of Oxford, which is making world-leading efforts on vaccine development and recently started human trials, said it was working with the NCSC to protect its research.
+AstraZeneca, the Cambridge-based pharmaceutical group, is teaming up with the university to manufacture and distribute the vaccine if the clinical trials show it is effective.
+A university spokesperson said: "Oxford University is working closely with the NCSC to ensure our Covid-19 research has the best possible cybersecurity and protection."
+James Sullivan, a former cyber-analyst for the National Crime Agency and head of cyber research at the Royal United Services Institute, the international defence and security thinktank, said it was not surprising that hostile states were targeting Covid-19 research.
+"The pandemic will lead to a general increase in hostile state cyber-activity," he said. "It is a new opportunity for intelligence gathering and disruption. We've seen this with disinformation campaigns, cyber-espionage; there's a risk of these all exacerbating political tension and it's no surprise this is happening in an area such as the development of a vaccine."
+He added: "As we've seen with cyber-attacks, whether it's a hostile nation state or an organised criminal, there's no real boundaries to the types of data they try to steal, so why would this be any different if the development of a vaccine is a very competitive area? We're seeing those geopolitical tensions played out in this space."
+Sullivan said the attacks highlighted the problems with cybersecurity in the healthcare sector. In 2017, the NHS fell victim to the global WannaCry ransomware attack, with tens of thousands of devices affected.
+Earlier this month the health secretary, Matt Hancock, signed off a directive giving GCHQ, the intelligence service, access and oversight to the NHS IT network.
+Meanwhile, a dossier prepared by governments for the so-called Five Eyes nations, an intelligence alliance between Australia, Canada, New Zealand, the UK and the US, alleges that China deliberately suppressed or destroyed evidence of the coronavirus outbreak.
+The move cost tens of thousands of lives, according to the document obtained by the Australian Daily Telegraph, which lays the foundation for a case of negligence being mounted against China.
+It states that to the "endangerment of other countries" the Chinese government covered-up the virus by silencing or "disappearing" doctors who spoke out, destroying evidence of it in laboratories and refusing to provide live samples to international scientists who were working on a vaccine.

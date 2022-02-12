@@ -1,0 +1,35 @@
+'It can be smelly at times': NSW wastewater provides a treasure trove for Covid-19 hunters
+Experts find traces of the virus in sewage from treatment plants all across New South Wales
+Fifteen jar-like bottles of human excrement arrive at Sudhi Payyappat's lab in West Ryde each day.
+Most are rushed there in cool boxes from Sydney's 25 wastewater treatment facilities; others are express couriered in special ice packages from the 40 sewage treatment centres across regional New South Wales.
+While their contents range from a light straw colour to a darker brown, all the transparent, airtight bottles arrive chilled to below 10 degrees.
+Over the week, Payyappat examines about 80 bottles, which together contain the concentrated faeces of about six million people, as he and his team of four colleagues hunt for traces of Covid-19.
+"If just one person has it, we'll find out," Payyappat tells the Guardian. "Even in a large catchment of more than a million, we can know."
+In March, Australian authorities hurriedly prepared for the inevitable first wave of Covid that was crushing health systems in many European countries.
+Payyappat, a technical specialist who has worked in research and development for Sydney Water for the past 20 years, was given the job of developing a Covid wastewater testing regime for NSW.
+By May he had standardised a process, which was tested on samples collected from across Sydney in the first weeks of the pandemic to check his results against NSW's historical cases.
+Active wastewater surveillance of Covid-19 for regional NSW began in July, and was expanded to metropolitan Sydney by September.
+After a toilet is flushed, the waste is pumped to a local sewage treatment facility. The populations that these plants treat sewage from vary wildly, from about 500 in the catchment of Charlotte's Pass, to 4,600 in North Richmond, up to about 1.85m Sydneysiders whose toilets flush to Malabar's two plants.
+Samples of raw sewage are taken from each treatment plant for testing – gathered from smaller samples taken every half hour or hour, normally over 24 hours, to ensure each sample sent from the facility analyses wastewater from a population's entire daily use. This sample is mixed up and then 500ml of the liquid is put into a bottle for analysis.
+The sampling occurs at plants in Sydney and around NSW – each plant is sampled once every six or seven days – and the 500ml bottles are immediately sent to Sydney Water's West Ryde lab, where Payyappat and his team "give them a good shake" to homogenise the sample.
+Despite them being analysed by people wearing PPE and from behind a biosafety cabinet, there are points in the process where Payyappat's team is reminded of what they are working with.
+"It can be smelly at times," Payyappat chuckles.
+The team then takes 100ml of the homogenised sample, and concentrates this down by filtering the sample on to a charged membrane.
+Nucleic acid is then extracted from the membrane, and genetic fragments of the virus's RNA can be detected during a process known as reverse transcription.
+"It's highly sensitive, so it works if just one person is infected, but we're not in a position to say what a positive detection means in terms of active cases," Payyappat says, noting his process can detect virus shed from people who are no longer infectious.
+Once traces of Covid are confirmed, Payyappat sends an email to NSW Health, which then checks if there are any confirmed cases of coronavirus for suburbs from that sample's catchment.
+In some cases, Payyappat's information can shift NSW's Health's testing focus to new areas of concern.
+Last week a regular sample from West Camden's treatment plant collected on Tuesday arrived at Payyappat's lab that evening. His team had detected Covid-19 in the sample by Wednesday night, and on Thursday morning NSW Health had issued renewed calls for residents in the area to get tested.
+As a result of the detection, this week Payyappat will analyse water from specific stations that pump water to West Camden's treatment plant to better understand where in the catchment – which takes in about 100,000 residents – Covid was detected.
+After early success in the surveillance program, NSW Health now wants Payyappat to train more analysts to double the size of the testing team. Its four members work across a seven-day roster to keep up with the samples.
+Payyappat also hopes an increased capacity will mean larger catchment areas can be broken down earlier – similar to that being done in West Camden – so when Covid is detected the information is more location-specific in the initial analysis.
+"Next we have to intercept the sewage at earlier stages, so to target the pumping stations, before it reaches the larger treatment plants like Malabar," Payyappat says, adding he hopes his lab will soon be able to assess about 150 samples a week.
+While his team feels the pressure of the state's Covid response in their work, Payyappat makes sure they remain calm and don't rush their work.
+"When I am training people that's the one thing I am particular about," he says. "This is highly sensitive and highly technical analysis, so no one can be pressured. They're highly motivated by the idea of being part of the public health response."
+Payyappat, 50, who has previously developed Sydney Water's quality monitoring technology, says some people try to make jokes when they hear about his job, but initially most were concerned about his safety and the risk of contracting the virus.
+However, the toilet humour doesn't come from his family. His wife works with him at a separate unit at Sydney Water, and his daughter is studying biomedical engineering at university, and is unfazed by the current focus of his job.
+"Yes, it is raw sewage after all … but it is exciting."
+Before you post, we'd like to thank you for joining the debate - we're glad you've chosen to participate and we value your opinions and experiences.
+Please choose your username under which you would like all your comments to show up. You can only set your username once.
+Please keep your posts respectful and abide by the community guidelines - and if you spot a comment you think doesn't adhere to the guidelines, please use the 'Report' link next to it to let us know.
+Please preview your comment below and click 'post' when you're happy with it.

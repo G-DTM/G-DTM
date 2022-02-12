@@ -1,0 +1,123 @@
+'Like preparing for war': Australia's hospitals brace for coronavirus peak
+Health workers from densely populated cities to remote communities speak about their Covid-19 preparations
+by  Lisa Cox
+"It's a bit strange. I've been here 25 years, 10 of them in intensive care. This is like nothing I've ever seen before," Michelle Spence says.
+"I've described it as like preparing for a war. There's no doubt about it."
+Spence is the nurse unit manager of Royal Melbourne Hospital's intensive care unit, a 32-bed operation staffed by teams of highly-trained clinicians.
+Not infrequently, at least 30 of those beds will be occupied by critically ill patients.
+But right now, there's a lull. The effect of physical distancing restrictions aimed at slowing the spread of coronavirus has slowed the flow of patients into the hospital.
+Fewer people on the streets means fewer road accidents and less of the trauma that is the bread and butter of intensive care and emergency hospital departments.
+It's given doctors, nurses, allied health workers and the myriad support workers in Australia's major hospitals something their colleagues in Italy, the United States and Spain missed out on: time.
+Time to plan. Time to buy supplies and test equipment. Time to build space and hire and train staff. Hospitals care for critically ill patients every day but not in the numbers or at the scale that has become globally associated with Covid-19.
+Guardian Australia interviewed health workers around the country, from densely populated cities such as Melbourne, up to remote communities in the Torres Strait, about how they are preparing for a potential influx of patients requiring treatment for the highly contagious disease.
+The approach hospitals are taking varies based on geography and the volume of resources and clinicians they have to call on. But frontline workers uniformly described the work under way as regimented, repetitive, with "thousands of hours" put in.
+Most expressed a single fear. That even the best planning will not be enough if individuals do not follow government restrictions related to physical contact.
+"I think right now, the general public and the community can save more lives than intensive care will be able to," Chris MacIsaac, the head of Royal Melbourne hospital's intensive care unit, says.
+"It's vital that the curve is flattened so the peak is not as high."
+In the intensive care unit of Royal Melbourne hospital, a major public hospital in the inner suburb of Parkville, doctors and nurses are practising intubation of a coronavirus patient experiencing respiratory failure.
+The hospital's ICU has not yet had a Covid-19-positive patient but clinicians are running simulations using a dummy.
+It's a complex task, typically performed by one to two critical care doctors and specially-trained nurses who administer medication to stop the patient breathing, insert a tube into the mouth and through the voice box, and initiate artificial breathing using a ventilator.
+It's a procedure that comes with a high risk of exposure to the infection, so Royal Melbourne is practising intubating patients using a minimum number of staff, clothed in personal protective equipment (known as PPE), in a negative pressure room.
+The drills are run daily in intensive care, the emergency department and theatres.
+MacIsaac says the whole hospital is now running as an emergency operations centre. It's a framework that exists for major external emergencies, such as a disaster with mass casualties, that demand a large-scale response.
+"This is a little different because we've got such a lead-up time, but the structure of control and command has been in place for weeks," he says.
+For hospitals responding to the coronavirus pandemic, the critical element is their ability to care simultaneously for a large influx of seriously ill patients.
+In the worst-hit countries, hospitals have been overwhelmed and the contagious nature of Covid-19 has led to high rates of infections, as well as deaths, among healthcare workers.
+One of the greatest times of risk of contamination is when staff remove protective equipment, so clinicians are refreshing their knowledge of how to don and doff protective gear safely.
+ICU patients require sophisticated treatment. Monitoring of heart rates and oxygen levels. Administration of medication and nutrition.
+Teams are regularly practising how to flip a patient into a prone position, a technique that has been effective for some Covid-19 patients whose oxygen levels fall dangerously low.
+"Looking after a critically ill patient is more than just connecting them to machines," MacIsaac says.
+"A lot of care goes into looking after a critically ill patient and they require highly trained people."
+The hospital currently has 32 staffed beds in its intensive care unit. They're looking to increase that to 100 by repurposing other parts of the precinct, including the old ICU that closed in 2016, and the recovery room of the Peter MacCallum Cancer Centre. Even that might not be enough.
+MacIsaac says right now they could ventilate 50 patients. The hospital is in negotiations with the Victorian government as to what their allocation from any new supplies will be.
+But it is his view that "the rate-limiting step" in their capacity to treat people will not be equipment.
+"What we're putting a lot of effort into is staffing," he says.
+Across the country, state health departments have been seeking expressions of interest from nurses and midwives, medical workers, allied health professionals, paramedics and patient services assistants.
+Spence, as the nurse unit manager, has carriage of a recruitment drive that will train 100 to 200 additional nurses to work in intensive care.
+Team members are cold-calling and interviewing potentially suitable candidates but the majority will be nurses who are already working on other wards within the hospital.
+Typically, they would complete a six-month training course but there is only time for what Spence calls a fast-tracked program in survival skills.
+"We're providing that over four days," she says.
+As hospitals race to prepare themselves for the pandemic's peak, three critical resourcing issues repeatedly crop up: access to ventilators, personal protective equipment and beds.
+Ventilators are used to assist the failing lungs of the most seriously-ill Covid-19 patients.
+Shortages in places like Italy have caused disaster and pointless loss of life as ICUs struggle to meet extraordinary demand with limited resources.
+In Australia, estimates of the current level of resourcing suggest there are 2,378 beds across 191 ICUs, each with a ventilator.
+The government wants to dramatically boost that number.
+The question is: are there enough ventilators – and the staff needed to operate them – to support such a surge?
+Modelling released this week suggests Australia has capacity to surge to an additional 4,261 beds, up by 189%.
+But there are only an extra 2,361 invasive ventilators to support such a surge.
+To address a potential shortfall, the federal government has set up a ventilator taskforce, made up of government and industry experts, which is working urgently to bolster stocks.
+The current strategy is four-fold. First, significantly boost the production of Australia's only onshore manufacturer of ventilators, a company named Resmed.
+Second, activate all reserves of ventilators that exist in Australia, including those currently being used in veterinary clinics. Third, purchase more ventilators from overseas suppliers, like Draeger, a German company.
+And finally, set up arrangements for new domestic manufacturers to utilise existing ventilator designs held by overseas manufacturers, already approved by foreign regulators, to begin producing the machines or parts in Australia.
+There is confidence from members of the taskforce that this will be enough to meet even the worst-case scenarios.
+But adequate supply of ventilators is not the only problem. The Australian Healthcare and Hospitals Association's chief executive, Alison Verhoeven, says the issue will be ensuring the machines are deployed in a way that maximises their coverage of the population.
+"[It will be about] having smart plans in place to shift patients out of areas where there might not be ventilators available – and I'm thinking rural and regional areas – to centralised facilities," Verhoeven told the Guardian.
+"That's part of the planning that state health departments have been doing and each of them will have slightly different responses."
+Similarly, access to PPE – masks, gowns, goggles, and gloves – remains a risk to hospital preparedness. Adequate PPE is critical to safely treating Covid-19 patients. Yet many hospitals are already reporting dwindling stocks, particularly in the not-for-profit sector.
+University of Sydney decision sciences expert, Professor Ben Fahimnia, said he would not be surprised if "hospitals will soon rely on public donations of face masks for health workers".
+"Building new production capacity in Australia where we have spent decades economising through offshoring is not easy," he said. "Even if it is possible to force local production today, it is very unlikely to keep pace with this current pandemic-spurred demand."
+This week, the prime minister, Scott Morrison, said Australia's trajectory – that is the rate at which Covid-19 infections are increasing – was showing "promising, encouraging" signs of slowing after the implementation of enforced social distancing measures.
+"But there are no guarantees," he said.
+Dr Bruce Ashford a head and neck surgeon at Wollongong hospital, on the New South Wales coast thinks it's too early for optimism. He is coordinating the hospital's Covid-19 task force, a multidisciplinary team that includes respiratory, emergency and logistical specialists.
+Ashford describes planning a response to the pandemic as "looking over a cliff into the unknown".
+"If we get to three to four weeks down the track and things aren't mayhem, we'll be encouraged," he says.
+"But I just don't think there's enough history to indicate how this is going to go, which is why we have to plan for the worst-case scenario."
+Wollongong hospital is the major referral centre in the Illawarra Shoalhaven local health district, which comprises eight hospitals.
+It has had what Ashford calls a "disproportionate" number of Covid-19 patients relative to population size. This week the hospital recorded its first death, a 75-year-old man who had been a passenger on the Ovation of the Seas cruise ship.
+Ashford and colleagues have spent countless hours poring over issues such as how patients with Covid-19 will move through the hospital upon their arrival. Core areas – emergency, theatres, intensive care – have been arranged so they are close together, the goal being to minimise contact between Covid-19 and non-Covid-19 patients.
+The ICU is being separated and expanded to 45 beds for Covid-19 patients and 21 for critically ill non-Covid patients. There's capacity to increase that by another 10, with 40 to 50 ventilators.
+Coordinating a response to a 24/7 emergency is complex and several people need to contribute. Doctors and nurses, cleaners, supply and logistics teams, caterers. Strategies have had to be developed to help Covid-19 patients, who can receive no visitors, communicate with their loved ones.
+At the same time, the day-to-day running of the health service continues and the impact of every decision on other, smaller, hospitals in the region has to be weighed.
+"The whole effort is based around this idea that everything before a pandemic seems like an overreaction and everything after seems like an underreaction," Ashford says.
+He says one advantage in Australia's favour is that the health system has been able to observe and learn from the experience in other countries. This week, the health minister, Greg Hunt, announced an extra $1.3bn towards integrating the private hospital system into the Covid-19 response.
+"However, does that mean our efforts are going to be adequate? Probably not," Ashford says.
+"I can't imagine that there's something so special about Australia that we're going to be different to the rest of the world.
+"You look at New York, Milan and Madrid, they are on their last legs. And you think, what would that be like for us?"
+A hospital committee including a medical ethicist and senior clinicians is discussing what will be done in the event there are more critically ill patients than resources or ventilators to care for them. There are similar committees, or frameworks, looking at this dilemma in other health districts around the country.
+Ashford says if it gets to that stage, extremely tough decisions will be inevitable and there will be frank conversations with patients and families about their wishes, as well the constraints on the hospital.
+Sara Arcioni, a senior registrar in the hospital's ICU, says frontline workers are used to the emotional load that comes with treating critically ill patients.
+"It's just that we may be dealing with many more," she says.
+Around the country, plans are being drawn up for how hospitals could increase their capacity beyond their existing facilities.
+Important regional facilities like Wagga Wagga base hospital have increased ICU capacity and set up procedures to separate the flow of suspected patients, while in Sydney, the Royal Prince Alfred hospital has prepared a dedicated and specially-designed Covid-19 intensive care unit.
+Major hotels, already being used as quarantine zones for returned travellers, could be converted into wards. In Victoria, the government is developing plans to convert the Melbourne Convention and Exhibition centre into a hospital and morgue.
+In Canberra this week, the ACT government announced it was working with healthcare company Aspen Medical to rapidly build a temporary emergency department for moderately to severely ill Covid-19 patients.
+It is also setting up an unregistered workforce made up of volunteers from the community – academics, students and a range of people with health backgrounds – after issuing a callout. Nine hundred people registered.
+At present, Australia's capital has emergency departments at two of its hospitals – Canberra hospital in the city's south and Calvary Public hospital in the city's north – and has recorded 93 cases of coronavirus, including two deaths this week.
+From Monday, Canberra healthcare workers will start looking more actively for evidence of transmission of the disease in the community by testing a random selection of people who would otherwise not meet the criteria for testing.
+David Caldicott is an emergency department consultant to Calvary Hospital and a lecturer at the Australian National University Medical School.
+He said there was anxiety, but not panic, in the emergency community about the potential impact of Covid-19 on frontline workers' own health.
+"Emergency folk are practical folk. I know several of my colleagues, myself included, have made their first will," Caldicott says.
+He says the biggest concern for health workers was that people who were not in essential roles such as aged care, retail, delivery and cleaning, followed the physical distancing measures.
+"The frontline is at your front door. It's entirely up to the public to decide how bad this is going to be," he says.
+At Canberra's hospitals, teams are running drills in full PPE to prepare for how they will manage different types of Covid-19 positive patients, such as a woman in labour, or a deteriorating patient who needs to be transferred to theatre.
+Working in PPE – mask, goggles, gown and gloves – takes a physical toll. It's hot and there's a risk of dehydration. The greatest physical burden is often borne by nurses who have the most direct contact with patients.
+Bernadette McDonald, the chief executive of Canberra Health Services, said considerable time was being spent on staff welfare and support for workers who might be feeling anxiety.
+Some major Australian hospitals have been expanding their existing staff support services by bringing in additional psychologists and social workers, and organisations that will supply meals and nutrition for frontline teams.
+"At this point in time they are the most important people because they're the people who care for everyone that gets sick," McDonald says.
+In Emerald in Queensland's central highlands a rural fever clinic has been built out of four dongas, each consisting of two rooms, a shower and toilet.
+Only a week ago, the site was empty space next to the practice run by GP and obstetrician Ewan McPhee, who is also the president of the Australian College of Rural and Remote Medicine.
+The clinic – one of 100 GP-led respiratory clinics the federal government is funding as part of its Covid-19 response – has been set up to direct patients with symptoms away from the hospital.
+Nurses and GPs at the clinic will swab people who meet the criteria for coronavirus testing.
+Emerald itself has a population of about 15,000 people. There are another 45,000 in the wider district. Emerald hospital has 30 beds and four ventilators.
+"The worst-case scenario for Emerald in the next three months would be 60 people requiring ventilation and we only have four ventilators," McPhee says.
+Federal and state leaders and mayors of councils have pleaded with Australians in recent weeks not to make unnecessary travel into regional and remote communities where the health infrastructure is not set up to cope with a massive surge in patients.
+Rural Australia already battles with shortages of frontline medical workers. The arrival of Covid-19 and quarantine restrictions has complicated that further in some places with doctors that were on fly-in fly-out arrangements.
+Emerald has not yet had a patient test positive for Covid-19 but McPhee is concerned the disease will ultimately make its way into the community via southern Queensland. He thinks the testing criteria needs to be expanded so that doctors can test when they suspect a patient has coronavirus and start monitoring community transmission.
+Separating Covid and non-Covid patients is immediately difficult for rural hospitals in terms of having the physical building space available. McPhee says medical teams in Emerald were having to consider solutions such as managing some hospital patients in their homes.
+Some very unwell patients would need to be transferred by helicopter or with the Royal Flying Doctor Service to Rockhampton or Brisbane.
+If the town becomes overrun, they would have to either convert the clinic into a treatment space, or call on the military to establish a field hospital.
+McPhee said there was enormous pressure on rural health workers who would have "nowhere to hide" in the face of such an emergency and he feels the urgency of the situation has not been fully grasped.
+"It's the community that has to make the decision about their future. We can't fix the problem once it's in a surge situation," he said.
+"That's what's going to save Emerald. It's not going to be a GP-led respiratory clinic. It's going to be people doing the right thing."
+Further north, Tony Brown is the incident controller for the Covid-19 response for the Torres and Cape hospital and health service.
+Ordinarily he works as a rural generalist, gynaecologist and obstetrician on Thursday Island but for the duration of the pandemic he will be based in Cairns.
+The majority of the population in the area covered by the Torres and Cape Health Service is Indigenous. There have been no confirmed Covid-19 cases so far and much of the health strategy is focused on trying to keep the disease out of the community. There is a 14-day quarantine requirement for travellers to the islands.
+If a doctor or nurse suspects a patient has coronavirus, that person has to isolate themselves at home. Brown says the health service intends to transfer confirmed positive cases to accommodation in Cairns for isolation but "we need to be ready for anything".
+"We don't know what's coming our way and how many people are going to be affected," Brown says.
+Aboriginal and Torres Strait Islander communities are among the Australians most at risk of becoming severely ill due to Covid-19.
+Last week frontline doctors said they were preparing for "death and suffering" in these communities because of a lack of resources and many have gone into lockdown.
+The Torres and Cape hospital and health service has four hospitals – Thursday Island, Bamaga, Cooktown and Weipa – the largest of which has 26 beds and the smallest about six. There are 31 primary healthcare clinics run by nurses. Three new ventilators are on order but the plan is for any patient requiring ventilation to be flown to Cairns.
+If demand on the small health teams becomes too great, they would need to ask for assistance, including from the army.
+"We've got the capacity to deal with only a certain number of people in our hospitals because we only have so many resources to manage them," Brown said.
+"So we have a tipping point where we turn to the state and say 'we're not coping'."
+With Christopher Knaus

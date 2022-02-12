@@ -1,0 +1,30 @@
+Here's everything you need to know about the potential Oxford University Covid vaccine
+The vaccine is designed to mimic the coronavirus and train the immune system to react if a person is later infected
+The vaccine developed and tested by a team at Oxford University is one of the most promising of the many candidates being developed around the world to protect against Covid-19. Australia has now signed a letter of intent with pharmaceutical company AstraZeneca to supply Australians with the vaccine if it clears safety and effectiveness trials, with the prime minister now saying it won't be compulsory but will be encouraged.
+Here's what you need to know about the vaccine.
+The Oxford University vaccine – or the ChAdOx1 nCoV-19 vaccine – is what's known as a viral vector vaccine. This class of vaccine uses another kind of virus as a vehicle for Covid-19 genetic data.
+In this case, the ChAdOx1 vaccine uses a weakened chimpanzee adenovirus, which causes the common cold in chimpanzees. The genetic code of that virus is altered so that it does not reproduce in humans. Scientists have added the genetic sequence of the coronavirus' surface spike protein to the viral vector, so that the spike protein is produced when the vaccine enters a person's cells. That then induces an immune response, so that the immune system will fight against the coronavirus if the person gets infected.
+Effectively, the vaccine mimics the coronavirus and trains the immune system to react if the person later contracts coronavirus.
+This vaccine is being developed by the University of Oxford's Jenner Institute and Oxford Vaccine Group. The team, which began work in January 2020, is led by professors Sarah Gilbert, Andrew Pollard, Teresa Lambe, Catherine Green and Adrian Hill, and Dr Sandy Douglas.
+The Oxford team was well equipped to develop this vaccine. They had already been using the adenovirus to test a vaccine against Middle Eastern respiratory syndrome (Mers), another kind of coronavirus, showing that it protected monkeys from Mers and that it was safe for humans. They had also produced candidate vaccines for flu and Zika virus using the same technology.
+Oxford University has struck a licensing deal with AstraZeneca, a British-Swedish pharmaceutical company, to commercialise, distribute and produce the vaccine if it is proven to work.
+A Phase I/II trials suggested that the vaccine was safe with no serious side effects and generated a strong immune response.
+That trial started in the UK in April, with over 1,000 healthy adult volunteers given either the candidate vaccine or a meningitis vaccine. The trial results, published in late July in the Lancet medical journal, showed the vaccine provoked a T-cell response within 14 days of vaccination, and an antibody response within 28 days. T-cells are white blood cells that can attack infected cells. Antibodies can neutralise a virus.
+Ten of the trial participants were given two doses of the vaccine. They had an even greater immune response – which could suggest an initial vaccine followed by a booster will be a solution.
+Prof Sarah Gilbert, from the Jenner Institute, told the Guardian her team was "really pleased" with the results.
+"We have quite a lot of experience of using this technology to make other vaccines, so we knew what we expected to see, and that's what we have seen," she said.
+But while experts agree the results were promising, they say there is a long way to go before we know whether the vaccine can guard against Covid-19.
+The next step is a Phase III trial, a larger trial to evaluate whether the vaccine will protect people from the virus. This is the final step before approval.
+In Phase III trials, which measure a vaccine's efficacy, thousands of volunteers either get the vaccine or a control. Scientists then watch the infection rates, looking for a disparity between the two groups (as well as any rare side effects). According to the World Health Organisation, a vaccine should result in at least a 50% lower rate of disease to be approved.
+For the trial to be most effective and the necessary data to be collected quickly, the volunteers should have some chance of contracting the virus, for example because they live somewhere with high transmission. So trials in Brazil and the US may be particularly helpful. In the trial going ahead in the UK, people who have a higher chance of exposure to Covid-19, such as healthcare workers, will be prioritised.
+A number of Phase III trials of the Oxford vaccine are underway internationally:
+A Phase II/III trial aims to enrol up to 10,560 adults and children across the UK.
+A Phase III trial in the US is looking for 30,000 participants.
+Brazil started a Phase III trial of the vaccine in June, which will enrol 5,000 volunteers.
+A team in South Africa is looking to enrol 2,000 people to trial the vaccine.
+It is difficult to tell when the vaccine could be ready for distribution if it is proven to work in Phase III trials.
+How long a Phase III trial takes depends on transmission levels. According to the Oxford University team, if transmission remains high they could get enough data to judge if the vaccine works "in a couple of months" – but it will take longer (up to six months) if transmission levels sink.
+Even though the vaccine has not yet cleared trials and received regulatory approval, several deals have already been reached to distribute the vaccine. The Australian government has signed a letter of intent with AstraZeneca to secure 25m doses of the vaccine if it clears trials.
+The UK has struck a deal to get up to 30m doses immediately. Under a deal reached with Europe's Inclusive Vaccines Alliance, Europe would get up to 400m doses. The company has also agreed to supply 300m doses to the US.
+The Serum Institute of India has agreed to produce 1bn doses aimed at low and middle-income countries.
+This article was amended on 20 August 2020 to correct a mistaken reference to when "the virus" could be ready for distribution; it meant of course to say "the vaccine".

@@ -1,0 +1,43 @@
+Josh Frydenberg watered down company disclosure laws despite Asic warning against it
+The corporate regulator feared the changes could undermine the Australian market's global reputation as a safe place to invest
+The treasurer, Josh Frydenberg, watered down laws requiring companies to keep the market fully informed despite the corporate regulator warning against key changes, Guardian Australia can reveal.
+Frydenberg said his move, made in May using emergency Covid-19 powers, was aimed at protecting companies from the "threat of opportunistic class actions for allegedly falling foul of their continuous disclosure obligations if their forecasts are found to be inaccurate".
+However, it alarmed investors who feared it could undermine the Australian market's global reputation as a safe place to invest.
+Investor fears have ramped up this week because the groups that lobbied to water down the rules, the Business Council of Australia and the Australian Institute of Company Directors, are now pushing to have them made permanent as part of a campaign against shareholder class actions.
+Documents obtained by Guardian Australia under freedom of information laws show the Australian Securities and Investments Commission told the Treasury that the existing continuous disclosure rules, which require companies to tell the market if anything happens to them that could affect their share price, worked well and were crucial to attracting the billions of dollars companies needed to bolster their balance sheets during the pandemic.
+"The availability of this type of capital raising in Australia since 2007 is entwined with the regulatory rigour of continuous disclosure," the Asic commissioner in charge of enforcement, Daniel Crennan QC, told Frydenberg's chief of staff, Martin Codina, in an email dated 8 May.
+While prepared to give some temporary relief to directors fearing class action lawsuits who might make predictions during the crisis that don't come true, Asic wanted to preserve its own ability to take legal action over shoddy disclosure.
+However, Frydenberg instead changed the law – for six months – to dramatically increase the hurdles needed to take action for both the regulator and private litigants.
+He introduced a rule that required "knowledge, recklessness or negligence" on the part of company directors in order to prove a breach.
+The change was one of two that week targeting class actions – the other, only revealed to Asic the day before it was made, involved Frydenberg forcing litigation funders to hold a financial services licence.
+The AICD formally wrote to Frydenberg asking for sweeping changes to continuous disclosure rules on 1 April.
+At 3.23pm that same day, senior Asic officers were told by email of an "urgent request" from the Treasury for the regulator's views, with responses due by 5pm.
+However, FOI documents show Asic was aware of the AICD proposal to water down disclosure laws before the letter arrived.
+In a note to the Treasury dealing with the AICD proposal, dated the day before – 31 March – Asic said the "continuous disclosure regime is a fundamental tenet of our markets and is particularly important during times of market uncertainty and volatility (eg the GFC, Covid‐19 pandemic)".
+It correctly predicted a flood of "low doc" capital raisings as companies rushed to the market to raise money to get them through lean times.
+Asic statistics show that in March and April, Australian companies raised a whopping $19bn from investors.
+"Whilst the low document fundraising regime allows issuers to raise capital efficiently, it is predicated on the market being kept fully informed through continuous disclosure," Asic told the Treasury.
+"Companies have already demonstrated their ability to comply with their continuous disclosure obligations in the current environment with many having made a number of announcements, including to withdraw earnings guidance, in response to the Covid‐19 pandemic."
+It said the number of class actions in Australia was low compared to the United States.
+"In Asic's experience the provisions are working well and operate to increase the attractiveness of Australian markets for investors," it said.
+It went on to say, in bold type: "The economic significance of fair and efficient capital markets dwarfs any exposure to class action damages."
+Documents show Crennan went on to discuss the AICD proposal at a meeting with Treasury officials on 2 April, the day after the directors' lobby group sent its letter to Frydenberg.
+Less than a week later, on 7 April, a letter from the BCA on the same topic was discussed by John Price, a commissioner who has since left Asic, at another meeting with the Treasury.
+Price's detailed notes of the meeting reveal Asic agreed with a BCA proposal to protect companies from liability for their updates to the market during the crisis if they were made in "good faith and [for a] proper purpose".
+It also wanted a due diligence defence available for company directors and for only Asic to be able to take action over disclosure breaches related to Covid-19.
+Sources familiar with the situation said Asic's chief concern was preserving its ability to pursue breaches – an ambition that was thwarted by Frydenberg's eventual announcement.
+The BCA felt that the AICD's proposal, which was far broader, "goes too far", Price said in his notes.
+A BCA spokesman did not answer Guardian Australia's detailed questions, which included asking for an explanation of the apparent rift between it and the AICD.
+He said the BCA supported making Frydenberg's changes to continuous disclosure rules permanent.
+The AICD chief executive, Angus Armour, denied the changes diminished the rules.
+"Fundamental directors' duties are unchanged," he said.
+"The obligation on companies to disclose information that will have a material effect on the price or value of their shares remains unchanged. A reckless or negligent director, and the individual who knew that disclosing information would affect the share price and said nothing, is still on the hook and they should be."
+However, Dean Paatsch, the co-founder of proxy advice company Ownership Matters, said Australia should not "mess with continuous disclosure".
+"It's the bedrock of our securities system," he said.
+"Because investors can rely on it, it means that our cost of capital – which we desperately need to keep the recovery going – is lower than it would otherwise be.
+"Investors need to be able to trust forward-looking statements so they know there will be consequences when people fudge their disclosures."
+The Australian Council of Superannuation Investors, which represents funds that control more than $2.2tn in retirement savings, said that watering down continuous disclosure was risky.
+"While many directors and companies will seek to do the right thing, the inevitable reality is that where laws are watered down, it opens the door for poor behaviour that undermines the integrity of the market," the chief executive, Louise Davidson, said.
+She said any changes that were going to be made permanent should go through a proper policy development process.
+Frydenberg said the changes were "intended to encourage companies to issue forecasts and other forward-looking estimates during this period".
+"Importantly, under the changes made by the government, companies and officers remain liable where there has been 'knowledge, recklessness or negligence' with respect to updates on price sensitive information to the market," he said.

@@ -1,0 +1,23 @@
+Men are much more likely to die from coronavirus - but why?
+Trend has been replicated in all nations, but scientists cannot yet fathom the cause
+It has been well publicised that Covid-19 discriminates by age and by underlying health conditions.
+But it has become increasingly apparent that it also discriminates by sex, with the latest UK data from the Office for National Statistics revealing that men are almost twice as likely to die from the disease.
+The trend was first seen in China, where one analysis found a fatality rate of 2.8% in men compared with 1.7% in women.
+Since then, the pattern has been mirrored in France, Germany, Iran, Italy, South Korea, and now in the UK.
+In Italy, men have accounted for 71% of deaths. In Spain, data released on Thursday suggests twice as many men as women have died and in the UK, of the 4,122 deaths registered, 2,523 were men and 1,599 women.
+So why are men more vulnerable?
+"The honest answer is none of us know what's causing the difference," said Prof Sarah Hawkes, director of the UCL Centre for Gender and Global Health.
+Early on, smoking was suggested as a likely explanation. In China, nearly 50% of men but only about 2% of women smoke, and so underlying differences in lung health were assumed to contribute to men suffering worse symptoms and outcomes.
+The smoking hypothesis was backed by a paper, published last month, that found smokers made up about 12% of those with less severe symptoms, but 26% of those who ended up in intensive care or died.
+Smoking might also act as an avenue for getting infected in the first place: smokers touch their lips more and may share contaminated cigarettes.
+Behavioural factors that differ across genders may also have a role. Some studies have shown that men are less likely to wash their hands, less likely to use soap, less likely to seek medical care and more likely to ignore public health advice. These are sweeping generalisations, but across a population could place men at greater risk.
+However, there is a growing belief among experts that more fundamental biological factors are also at play. While there are higher proportions of male smokers in many countries – in the UK, 16.5% of men smoke compared with 13% of women – the differences are nowhere near as extreme as in China. But men continue to be overrepresented in Covid-19 statistics.
+"The growing observation of increased mortality in men is holding true across China, Italy, Spain. We're seeing this across very diverse countries and cultures," said Sabra Klein, a professor at Johns Hopkins Bloomberg School of Public Health.
+"When I see that, it makes me think that there must be something universal that's contributing to this. I don't think smoking is the leading factor."
+Previous research, including by Klein, has revealed that men have lower innate antiviral immune responses to a range of infections including hepatitis C and HIV. Studies in mice suggest this may also be true for coronaviruses, though Covid-19 specifically has not been studied.
+"Their immune system may not initiate an appropriate response when it initially sees the virus," Klein said.
+Hormones can also play a role – oestrogen has been shown to increase antiviral responses of immune cells. And many genes that regulate the immune system are encoded on the X chromosome (of which men have one, and women have two) and so it is possible that some genes involved in the immune response are more active in women than in men.
+Sex differences in the immune response to Covid-19 are likely to show up in antibody surveys that are taking place across the world. Klein said she had already reviewed papers on this from Chinese teams, who have tracked blood samples from patients over the course of infection. "We can expect more on this soon," she said.
+Ultimately, Hawkes said, biology, lifestyle and behaviour were all likely to play a role.
+But it will only be possible to tease out the exact balance when sex-disaggregated data is more widely available.
+At the time of speaking, before the latest release by the ONS, Hawkes said it was disappointing that only six out of 20 countries had published such a breakdown for case numbers and deaths, according to figures compiled by Global Health 50/50, which Hawkes leads, and CNN. The latest data revealing significantly more male deaths in the UK adds further weight to concerns that men are more vulnerable when it comes to Covid-19.

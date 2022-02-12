@@ -1,0 +1,57 @@
+Covidsafe app: how Australia's coronavirus contact tracing app works, what it does, downloads and problems
+The app will ask for your name (or pseudonym), age range, postcode and phone number. Scott Morrison says the Australian government's covid safe tracking app won't be mandatory to download and install, but its uptake numbers could play a part in easing Covid-19 restrictions
+The Australian government has launched Covidsafe, an app that traces every person running the app who has been in contact with someone else using the app in the previous three weeks, in a bid to automate coronavirus contact tracing and allow the easing of restrictions.
+Here's what we know about the app so far.
+After you download and install the app from the Australian Apple App store or Google Play store – which you can also access from the government's Covidsafe app page covidsafe.gov.au or aus.gov.au/app – you'll be asked to register your name (or pseudonym), age range, postcode and phone number.
+That registration information is stored encrypted on a government server, and then passed on to state and territory health authorities in the event that someone you've been in contact with has tested positive.
+Using Bluetooth, the app records anyone you get close to who also has the app. The two apps exchange anonymised IDs, which cycle every two hours and are stored encrypted on phones and deleted after 21 days.
+If someone is infected with coronavirus, they then get a unique code from a health official via SMS to use in the app to consent to upload the list of anonymised IDs for the past 21 days of contact for contact tracing. It uses signal strength and other data then to work out who needs to be contacted.
+The name you choose to provide, your age range, your phone number, and your postcode, information about your encrypted user ID, information about testing positive for coronavirus, and then the contact IDs should you consent to that being uploaded.
+Bluetooth data is also uploaded to the server upon testing positive in order for the government to figure out, using signal strength, which contacts need to be notified.
+The data, once you consent to it being uploaded from your app at the time you test positive, will be held by the federal government on an Amazon Web Services server in Australia.
+Morrison said that while the data will be held by the federal government, only state health authorities charged with contact tracing will be able to access it. He says federal agencies including Centrelink, Home Affairs and others will not be able to access the data.
+Health minister Greg Hunt has written a direction that sets out only health authorities or those maintaining the app can get access to the information. This will be backed up by legislation to be introduced into parliament in May.
+The government has said police will not be able to get the data, even with a warrant, and court orders will not be able to force the government to hand over the data – but this is not explicitly outlined in the draft legislation.
+The registration data will remain on the government server until the end of the pandemic, which will be declared over by the health minister, or until you request it to be deleted.
+Amazon Web Services, which is hosting the data in Australia, is one of the biggest cloud companies in the world. Given the millions of people expected to use the app and outages will make the app less effective, as well as the government's history with using AWS, it isn't surprising Amazon was chosen for the contract.
+The company has the highest data security certification for its Sydney data centre.
+The 2017 postal survey was supported by AWS, and the 2021 Census will be hosted by AWS.
+Chances are, some of your data – be it through your bank, your airline, through Netflix or any number of services – is already hosted by Amazon.
+The government will legislate to prevent data from the app being moved offshore, including for requests for data by the US government under laws such as the Patriot Act.
+The draft legislation makes it a crime to store the data outside Australia, or communicate the data to someone outside Australia.
+The app does not track location. The Google version of the app does seek permission for location information but that is due to permissions needed for bluetooth.
+Not significantly, however the Apple version of the app will need to be open in order for the bluetooth functionality to work.
+That will drain the battery more, however, the government made a change to the Apple version of the app and you can now lock your phone screen as long as the app is open when you lock it.
+It is understood that the federal government will implement the functionality developed by Apple and Google in a few weeks that will eliminate this issue and allow iPhone users to have the app running in the background.
+No. The prime minister has said consent would be key to the app, indicating it would not be mandatory, and people would share information through the app only if they consented to it.
+The draft legislation to support the app specifically makes it a crime punishable by five years in jail to force someone to download the app, and upload data from the app against their consent. It also makes it a crime to refuse service or entry or employment to people if they're not using the app.
+But Morrison muddied the waters somewhat when he would not entirely rule out making it mandatory.
+"My preference is not to do that, my preference is to give Australians the go of getting it right ... I don't want to be drawn on that [making it mandatory], I want to give Australians the opportunity to get it right," he told Triple M. "That is my objective, that is my Plan A and I really want Plan A to work."
+He later tweeted that the app would not be mandatory.
+The national cabinet said that the app could be a valuable tool "if the numbers increase and the application is widely taken up".
+Health minister Greg Hunt said the government's target for uptake of the app is 40% of the population.
+Morrison said automatic contact tracing would be a key component in states and territories easing some restrictions on "high-value, low-risk economic activities" after the next four weeks.
+He compared using the app to buying bonds during the war.
+"In the war, people bought war bonds to get in behind the national effort. What we're doing in fighting this fight is we'll be asking people to download an app which helps us trace the virus quickly and the more people who do that, the more we can get back to a more liveable set of arrangements."
+The state governments in NSW and Victoria have both indicated they will not make use of the app a condition for easing restrictions, and will not require a certain percentage of the population to be using the app before restrictions will be eased.
+However, since the release of the app, the federal government has urged Australians to download the app, tying download numbers of the app to the national cabinet discussion about the easing of restrictions.
+Always. The government has stressed it has designed the app with privacy in mind, however.
+"In terms of privacy, no other person can access what is on your phone," Hunt said.
+The health minister added it will be against the law to use the data for a purpose other than contact tracing, and the data will be kept in Australia.
+"It cannot leave the country. It cannot be accessed by anybody other than a state public health official. It cannot be used for any purpose other than the provision of the data for the purposes of finding people with whom you have been in close contact with and it is punishable by jail if there is a breach of that.
+"There is no geolocation. There is no Commonwealth access and it is stored in Australia and importantly it is deleted from your phone after 21 days."
+The government will have a repository of the names, phone numbers and postcodes of everyone who had downloaded the app, which could be a potential honeypot, but the key data of who you've been in contact with stays on your phone and is frequently deleted.
+The government has published a privacy impact assessment on potential concerns with the app.
+The source code for the app has been released by the government, which can show how the app works in practice, but there are calls for the server source code (which will show what the government does with the data) to be released.
+You can delete the app from your phone at any time, and the government has said all the information held will be deleted from its servers at the end of the pandemic. This sunset clause is built into the legislation being introduced into parliament.
+The draft legislation sets out that the data will be deleted once Greg Hunt declares, via an instrument, that the pandemic is over.
+Attorney general Christian Porter told Guardian Australia regulations would be developed to ensure that police and other government agencies would not be able to access the data.
+"Law enforcement agencies will not be provided access to information collected via the app," he said.
+"Specific regulatory action will be taken to prevent such access for law enforcement agencies at both the Commonwealth and state/territory level.
+"The government has already made the decision not to make any information collected by the app available for other purposes, including law enforcement investigations."
+The draft legislation does not explicitly rule out access via warrant or court order, however access for purposes outside of contact tracing has been made a crime.
+If you have the app running on your phone as per the guidelines, it is collecting the contact data and storing it on your phone. Health officials have yet to access the data because the federal government needs to get the states and territories to sign a memorandum of understanding to ensure they abide by the privacy rules around the use of the data for contact tracing.
+The training for use of the app started on 11 May, and health officials are expected to be able to access data from the app a few days after, in the event someone with the app tests positive and agrees to upload the data.
+At this stage it seems the app is only available in Australian app stores, but the health department indicated it was looking at making the app available in other stores.
+There are no plans to make it work on phones operating older software than iOS 10 and Android 6.0.
+The total cost of the app for the government is $1.5m, including over $700,000 for Amazon to host the data.

@@ -1,0 +1,12 @@
+Daily updates on English Covid-19 deaths paused amid accuracy concerns
+Government confirms PHE set no cut-off between time of testing and date of death
+Daily updates on the coronavirus death toll in England have been paused amid growing concern that the numbers could have been exaggerated.
+A message on the government's website on Saturday said: "Currently the daily deaths measure counts all people who have tested positive for coronavirus and since died, with no cut-off between time of testing and date of death.
+"There have been claims that the lack of cut-off may distort the current daily deaths number. We are therefore pausing the publication of the daily figure while this is resolved."
+On Friday the health secretary, Matt Hancock, ordered a review after the data was called into question in a paper by Yoon K Loke and Carl Heneghan, of the centre for evidence-based medicine at Oxford University, titled Why No One Can Ever Recover From Covid-19 in England – a Statistical Anomaly.
+The academics wrote: "It seems that PHE regularly looks for people on the NHS database who have ever tested positive, and simply checks to see if they are still alive or not. PHE does not appear to consider how long ago the Covid test result was, nor whether the person has been successfully treated in hospital and discharged to the community."
+They said this meant people who had tested positive for coronavirus and recovered would still be counted as dying from the virus "even if they had a heart attack or were run over by a bus three months later".
+Dr Susan Hopkins, Public Health England's incident director, said on Friday: "Although it may seem straightforward, there is no WHO-agreed method of counting deaths from Covid-19. In England, we count all those that have died who had a positive Covid-19 test at any point, to ensure our data is as complete as possible.
+"We must remember that this is a new and emerging infection and there is increasing evidence of long-term health problems for some of those affected. Whilst this knowledge is growing, now is the right time to review how deaths are calculated."
+In Scotland there is a 28-day cut-off after which a patient who has tested positive is not automatically considered to have died from the virus. Northern Ireland also uses the 28-day cut-off model.
+The UK has the highest official coronavirus death toll in Europe, at more 45,000. But the government has said international comparisons are misleading because countries record coronavirus deaths differently.

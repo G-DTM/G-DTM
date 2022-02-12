@@ -1,0 +1,40 @@
+A day in the life of Victoria's Covid contact tracers: 'The puzzle is blank and once you get it together it's fantastic'
+Victoria's disease detectives, who are dealing with huge case numbers and heavy criticism, say no system is perfect
+It can start with a phone call.
+"The reason for my call today is to let you know that you have unfortunately been identified as a close contact of a positive case of Covid-19," a contact tracer in the Victorian Department of Health and Human Services (DHHS) says.
+It is one of hundreds of calls made each day by the 2,600 contact tracers working across Victoria as the state brings its second wave of Covid-19 cases under control.
+Those who do test positive receive a call from a contact tracer for an hour-long interview about where they have been and with whom they have been in contact.
+Carly Mclelland, operations lead in public operations at DHHS said the questions focus on when the person first became unwell, and then tracers work out the 14-day timeframe. From there they home in on the 48 hours prior to them becoming unwell.
+"And then we really home in on to see where you've been, and who you've been with to ensure that we can gather all the information about those close contacts and get them quarantining as soon as possible," she says.
+In DHHS, contact tracers have been divided into teams. Mclelland leads a team responsible for schools and other education settings, Justice and Victoria Police, but there are also dedicated teams covering aged care, disability care and workplaces.
+"I think the advantage is that they get specialty knowledge around those certain settings," she says.
+The contact tracers will also ask about symptoms throughout the isolation period, advise people when they need more tests, and check if they need assistance in getting medical care or food and can properly isolate from others in their homes.
+Mclelland said people that refused to cooperate with contact tracers during the interview process were rare, but were often willing to help on follow-up calls.
+"It is hard to have those difficult conversations, we have all of our staff trained in how to manage a difficult conversation for each person that doesn't want to cooperate," she says.
+"We do try and get as much information from them as possible. I think it's about reframing [it so] that the information that you're providing to me today will keep the community safe."
+The contact-tracing team have begun working from home for the most part, as most of Victoria has during stage 4 lockdown. But inside DHHS's offices in the Melbourne CBD, you can still see remnants of the contact-tracing efforts.
+A whiteboard set up in the office contains a set of boxes with case numbers and when they tested positive, with lines drawn to connect them. It looks like something out of a conspiracy theory movie. This is how contact tracers attempt to discover the origin of the case. Until a connection has been made, these cases remain mysteries. Mclelland says it's like putting together a puzzle.
+"The puzzle is blank and you're just trying to put it together with the shapes so it can be incredibly difficult and laborious but once you get it all together it's fantastic," she says.
+Inside hospitals, special contact-tracing teams have also been set up to track cases involving patients and staff.
+At Monash Health, they have had 160 cases of Covid-19 and 60 cases among staff. Around half of the infections of staff have occurred at the hospital.
+The tracing process is somewhat similar, but tracers within the hospital are also aided by access to data on who has been in what room and when through use of a login system used by staff as they enter rooms like a tea room.
+Monash Health associate professor, Dr Rhonda Stuart, says contact tracing in the past six months of the pandemic has taught them that high-risk environments include tea rooms, where staff remove personal protective equipment (PPE), and caring for patients with dementia.
+"When they become more confused, it's very difficult to care for somebody in that situation," she says. "When we are caring for a group of patients and when we have a lot of patients in one ward that can also be potentially an issue for … transmission to healthcare workers."
+Stuart says the hospital had strictly operated on isolating staff who are close contacts as soon as they are identified, and this has resulted in at least 14 staff who were infectious not transmitting the virus to anyone else in the hospital.
+"It's a process we know works and it's an important process to make sure that we break that chain of train of transmission."
+After contact-tracing interviews have been done and close contacts have been identified, Operation Vestige steps in. Authorised officers and ADF members have door-knocked people with Covid-19 or their close contacts 38,000 times since the program began in July. At the peak of the second wave it was about 4,800 visits a day, and now it is just in the hundreds, operation co-director Bernadette Hally says.
+Hally says the overwhelming majority of people who are meant to be isolating at home are doing so, but the number of visits one person might get is random.
+"It may be two, three, four times that we do visit, just to check in and make sure that people are continuing to understand the requirements on them and to ensure that any support that they require can be accessed," she says.
+Contact tracing in Victoria has been under intense scrutiny in the past few weeks with the federal government claiming that the state's contact-tracing system has not been meeting the "gold standard" of New South Wales' system. It was amid that background that Guardian Australia was invited with other media to observe the tracing regime.
+The head of epidemiology at Melbourne's Deakin University, Prof Catherine Bennett, has worked in contact tracing in NSW and says until now Victoria lacked decentralised, local contact tracers.
+"This allows efficiency. When they're talking to people about the pubs they've visited and the suburbs they've been to, they know exactly where they are talking about which also makes a difference," she says.
+"People come to you faster and you go to them faster. You have a sense of how large venues are because you've been to those venues. Then, you also have a really good IT system so the different health districts can talk to each other and link up."
+The Victorian government is implementing changes to its contact tracing system including moving to a suburban hub model similar to New South Wales.
+The state government is also moving away from pen and paper and the whiteboards to a new customer relationship management (CRM) platform provided by Salesforce, designed specifically for Covid-19, which is already being used in 35 states across the US, as well as in South Australia and Western Australia.
+DHHS deputy secretary for contact tracing, Sandy Pitcher is one of a group of officials and ADF officers travelling to Sydney on Friday to see what can be learned from NSW, but Pitcher says it has been a learning process for every state and country.
+She says ultimately not every contact-tracing system will be perfect.
+"We would all love contact tracing to be the answer to every question, but it's only part of it. When you interview someone you rely on them telling you all the things that they know has humans involved in it," she says.
+"Every contact-tracing interview involves those people telling you what they know, telling you who they were with and it will only ever be as good as those inputs into a system."
+Mclelland says it has been "disheartening" to hear criticisms of the contact-tracing efforts.
+"The teams have been working really hard … we've been interviewing cases and we've been identifying close contacts and we've been quarantining but the numbers are just so huge."
+This article was amended on 11 September 2020. An earlier version said Monash Health had 50 patients with Covid-19 when the actual figure was 160 patients.

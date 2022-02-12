@@ -1,0 +1,46 @@
+How did the Covidsafe app go from being vital to almost irrelevant?
+The PM told Australians in April the contact tracing app was key to getting back to normal but just one person has been identified using its data
+It was sold as the key to unlocking restrictions – like sunscreen to protect Australians from Covid-19 – but as the country begins to open up, the role of the Covidsafe app in the recovery seems to have dropped to marginal at best.
+"This is an important protection for a Covid-safe Australia," the prime minister, Scott Morrison, said in late April. "I would liken it to the fact that if you want to go outside when the sun is shining, you have got to put sunscreen on."
+"This is the same thing … If you want to return to a more liberated economy and society, it is important that we get increased numbers of downloads when it comes to the Covidsafe app … This is the ticket to ensuring that we can have eased restrictions."
+The health minister, Greg Hunt, tweeted that it was the key to being allowed to go back to watching football.
+Yet nearly a month since launch, the contact tracing app has barely been used – just one person has been reported to have been identified using data from it.
+And the language from public officials has been toned down. No longer is it the key to freedoms, but an add-on to existing contact tracing methods, to work in concert with social distancing rules and continued testing to keep a lid on outbreaks.
+So how did it go from being the key to allowing Australians to get back to the footy to being barely relevant?
+The Covidsafe app keeps a record of everyone a user has been in contact with in the past 21 days, using bluetooth technology. In truth it has never been more than an addition to manual contact tracing methods, designed to catch infections from random contacts, such as people on the bus or in a queue.
+But the government has been selling it as much more than that.
+It set a target of 40% of the Australian population using the app for it to be effective. While close to six million Australians now have the app, the number of new downloads has declined in the past few weeks.
+No actual number was tied to the 40% figure, but based on estimations of the number of Australians with smartphones, it is now about 1.5m under that target.
+The problem with expressing the target as a percentage of the population is not every Australian has a smartphone, not every person with a smartphone will be able to download the app, and not everyone with a smartphone will want to download the app or will be energised enough.
+The government's task was to convince as many people who fall into the last category as possible to sign up.
+It started with a directive from Hunt setting out what can and cannot be done with the data. Only health officials in the states can access the data, and you can't be forced to download it.
+Legislation soon followed, and the government set out protections for the data far beyond many of the protections for other personal data held by the government.
+An advertising blitz across TV, radio and billboards has encouraged people to download the app. McDonald's, Hungry Jacks and other retailers sent notifications through their own apps to encourage people to download it.
+Australians' attitudes to the app have been mixed at best. Essential polling earlier this month revealed just over half the population (55%) believed the app would limit the spread of coronavirus, and just under half (48%) believed it would speed up easing of restrictions.
+A series of Dynata online surveys conducted on behalf of researchers at the University of Melbourne reported Australians were more supportive of using telecommunications metadata to track close contacts (79%) than they were of downloading an app (69.8%).
+By the second survey, the support for downloading had dropped to 64%.
+Prof Simon Dennis, director of the complex human data hub in the Melbourne school of psychological sciences, said the drop was probably influenced by the public debate over the app in April.
+The other factor, he said, was that lower case numbers meant people felt less at risk of infection and less interested in downloading the app.
+"People's perception of risk is definitely dropping," he said.
+This week Victoria became the first state to report using the data after a person who tested positive was using the app and consented to upload their data. The contact tracer found one other person not already deemed a close contact, and called them to get tested and to quarantine until the results came back.
+In part, the app's lack of utility thus far is a good thing. The chief health officer for New South Wales, Dr Kerry Chant, said this week that despite the state experiencing "teething problems" with accessing data from the app, there had been no need to because all the new cases had generally been from returned travellers or people who were already isolating and had no unidentified close contacts.
+And the NSW premier, Gladys Berejiklian, downplayed issues with the app saying manual contact tracing was key.
+"Two of the reasons NSW has been able to reduce the number of cases so much is firstly the number of tests we've done … but also the contact tracing we've done," she said.
+"Yes the app is important in speeding up the process, but please know that process happens regardless."
+Where the app has faltered has been in transparency. Developers have reported difficulty communicating with the Digital Transformation Agency about problems.
+Early on developers noted the iPhone version would not be able to exchange Bluetooth handshakes with other devices unless it was running on the screen – incredibly impractical for users.
+The government initially denied this, refused to answer questions about it, and only once, before the Covid-19 senate committee, did the agencys chief executive, Randall Brugeaud, admit the Bluetooth function suffered when the app wasn't on screen.
+"What we can say is the quality of the Bluetooth connectivity for phones that have the app installed running in the foreground is very good," he said. "And it progressively deteriorates and the quality of the connection is not as good as you get to a point where the phone is locked and the app is running in the background."
+That, in part, has been addressed by updates quietly released in the past week, but issues still persist, and will never truly be resolved unless the federal government implements functions released by Apple and Google this week.
+They move the Bluetooth beacon process to the operating system layer where it is easier to coordinate with other apps. Until then, the iPhone version will not function as effectively as the Android version.
+The Apple-Google API is being evaluated by the government but according to a Melbourne cryptographer, Vanessa Teague, it would require a major overhaul to the app.
+When a user tests positive for coronavirus and agrees to upload their data for contact tracing, the contact tracer is sent a long list of everyone that person has been in contact with for the past 21 days to call and tell them to get tested.
+Under the Apple and Google version, the data being uploaded is just a set of keys that user has had for the past 21 days. Other users' phones play a digital game of bingo, checking in with the national server to see if they have a match for a contact in the past 21 days.
+If they get an alert they can then get in touch with a health official and go through the same process once testing positive.
+Health experts are less in favour of this model because it makes it harder to spot outbreaks and is harder to follow up for close contacts, but privacy advocates insist it is the most secure.
+Teague said in order to get the Bluetooth improvements the government could, in effect, change the engine of the app to move to the Apple-Google API, but it would be a lot of work.
+"It wouldn't look that much different to the users – it would still keep the cute, you know, Anzac Day-themed interface, but they would have to completely rearrange the underlying cryptographic notification mechanism in order to use the API," Teague said.
+"You can't just improve the Bluetooth of this underlying centralised mechanism they've got."
+That update, and the 21-day timeframe for recording contacts would mean there would be a period where the app would have to run both the old and new version.
+"I don't think it's an unsolvable mess, but basically you have to have both versions of the app running," Teague said.
+"They don't interoperate at all. Everyone running it would have to run both versions for a few weeks."

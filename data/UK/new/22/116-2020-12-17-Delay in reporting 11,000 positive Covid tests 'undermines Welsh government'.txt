@@ -1,0 +1,31 @@
+Delay in reporting 11,000 positive Covid tests 'undermines Welsh government'
+Computer maintenance led to cases being missed from December's public health statistics
+The Welsh government has been strongly criticised for a delay in adding 11,000 positive Covid tests to official figures because a computer system was down for maintenance.
+Opposition politicians said the delay undermined public confidence in the administration's handling of the crisis at a sensitive time when it needed to convince the public that a new lockdown and rules around Christmas were vital.
+The details of the extra positive tests were added into the Public Health Wales (PHW) statistics on Thursday and showed new coronavirus cases across Wales. PHW said rates had increased in 21 of the 22 local authorities with the seven-day rolling average passing 500 cases per 100,000 across the country.
+In Merthyr Tydfil in south Wales, the seven-day rolling average now exceeds 1,000 cases per 100,000 and is the highest of any local authority area in the UK.
+There were more than 1,000 cases that had been missed in Cardiff, Rhondda, Cynon Taf and Swansea. Several other areas had high numbers of cases that had been missed Bridgend (849), Neath (542) and further west in Carmarthenshire (842).
+The health board that covers Merthyr Tydfil, Bridgend and Rhondda Cynon Taf suspended many non-urgent operations, clinics and services on Thursday.
+Cwm Taf Morgannwg University health board said: "In the last week the equivalent of almost four people acquired the virus every 10 minutes. The transmission rates in our council areas are in the highest 20 areas in the whole of the UK.
+"The current strain on the health system is serious. Across the health board there are 419 suspected, confirmed or recovering Covid-19 patients in our hospitals and our intensive care beds are currently near capacity."
+Swansea Bay University health board and Aneurin Bevan University health board postponed some non-urgent care earlier this week.
+On Wednesday, the Welsh government announced that the number of cases was so alarming that the country was to go into another lockdown. Ministers made clear on Thursday that they made the decisions to bring in the lockdown, and rules around Christmas that are stricter than other parts of the UK, knowing that the figures were worse than had been reported in public.
+PHW said the missing results were from tests carried out by the Lighthouse laboratories, which were set up to help tackle the Covid crisis.
+The Welsh health minister, Vaughan Gething, said the government was aware that the PHW case numbers were not accurate before it made the decision about the new restrictions.
+Gething said the maintenance work had to be carried out. "We knew that if we didn't deliver the maintenance there would be more risk in the system.
+"The upgrade took place over the weekend, we knew there would be a few days before all the data was reconciled. Given our case volumes, three or four days is lots of cases. The cases were never lost. In fact the data has always flowed into our contact-tracing system. So our contact tracers have always been able to contact people."
+The Welsh first minister, Mark Drakeford said the computer upgrade had been announced in advance and it had been made clear that some cases would not be reported in the normal way.
+Speaking on BBC Radio Wales, he said: "Everybody who had a positive test was told about it; our TTP [test, trace, protect] knew about it. The data was never missing. The data was always waiting to be uploaded."
+He pointed out a record number of tests were being carried out. Two weeks ago, tests rose from 75,000 to over 100,000 and last week there were 120,000 tests. "If you are testing more people you will identify more positive cases."
+But the revelation increases pressure on the government, which has been criticised for how, on Wednesday, it announced new arrangements around Christmas.
+It initially said it was only advising people to restrict gatherings to two households, plus an additional single-person household. Later it said this was going to be made a legal requirement.
+Drakeford said the central message was the same, whether it was law or advice.
+The Conservative shadow health minister, Andrew RT Davies, said the data issue undermined public confidence.
+He said: "This is another staggering data cockup during the health minister's management of the Covid crisis, to add to the shielding letters sent in error and the data breach in September that saw 18,000-odd positive test results put on a public PHW server."
+Davies said medical professionals had contacted him to voice concerns as to whether the planned maintenance should have been conducted when it was.
+He continued: "Welsh Labour and their failing health minister have clearly lost control of the virus in Wales. This loss of control can only be compounded by today's news of yet another data mix-up. An investigation into this fiasco should be launched."
+PHW said the issue was related to the maintenance of the NHS Welsh Laboratory Information Management System.
+A spokesperson said: "This took place on Friday and Saturday [11-12 December] so that essential service upgrades could take place. This means that we expect a backlog of results to come through over the coming days."
+Plaid Cymru's shadow economy minister, Helen Mary Jones, said: "With positive cases in Wales rising to record levels it is crucial that the reporting of data is both timely and robust.
+"The public need a complete and current picture of the situation to realise the gravity of what we are facing. We need urgent reassurance that the failings have been addressed. I fear that the Welsh government is losing control of the situation. The latest data saga shows that the situation is far worse than expected."
+In October, it emerged that nearly 16,000 coronavirus cases went unreported in England with Public Health England blaming an IT error.

@@ -1,0 +1,26 @@
+Covidsafe app is not working properly on iPhones, authorities admit
+An update to integrate the Google-Apple framework should fix the issue, MPs told
+Australians running the Covidsafe contact tracing app on iPhones may not be recording all the data required if they don't have the app running in the foreground or they are using an older model phone, the government has admitted.
+More than 5.1 million Australians have downloaded and registered to use the app on iPhone and Android devices, and, while the Android version works while running in the background (ie, not open on the screen), the iPhone version works best when the app is open on the screen and the phone is unlocked.
+It works by exchanging Bluetooth handshakes with other users you're around and recording that interaction in case you test positive for coronavirus and state health officials then need to call those people to get tested.
+Randall Brugeaud, the head of the agency behind the app, the Digital Transformation Agency, told the Senate committee overseeing the government's Covid-19 response that while the iPhone version did work in the background, it was less effective in exchanging Bluetooth handshakes if it was is in the background or the screen was locked.
+"What we can say is the quality of the Bluetooth connectivity for phones that have the app installed running in the foreground is very good," he said.
+"And it progressively deteriorates and the quality of the connection is not as good as you get to a point where the phone is locked in the app is running in the background."
+Another factor that would weaken the Bluetooth signal was if the phone was an older model of iPhone, he said.
+The government rolled out an update to the iPhone app this morning, and Brugeaud told the committee he hoped that a further update integrating framework developed by Google and Apple would fix the iPhone issue.
+Australia would be one of the first countries in the world to integrate the Google-Apple framework, he said.
+Brugeaud's admission came despite repeated claims from the government services minister, Stuart Robert, that the app worked.
+"The app runs either in the foreground or background," Robert told Guardian Australia on Monday.
+Brugeaud said the updates would be made in the next few weeks, and the app's source code would be released either towards the end of this week or early next week.
+Department of health acting secretary Caroline Edwards said the decision to allow the government to hold contact data for tracing rather than a more decentralised version like Germany is planning, where a user just gets a notification in their app, had been made to protect the more vulnerable people in society, who might be concerned about a text message out of the blue.
+"The person who does make contact with the person who may have been in contact with the person who's diagnosed is a trained professional able to advise them on what they should do and provide support," she said.
+Amazon Web Services has been paid more than $700,000 to host the data for the app, it was revealed on Wednesday.
+Registration data is hosted in AWS servers in Australia, and data on contacts for the past 21 days is held on each users' phone until they consent to it being uploaded to AWS servers for the purpose of contact tracing in the event they test positive for coronavirus.
+There has been concern about whether, because Amazon is a US company, that the data could be handed over to the US government under the Cloud Act or another law, despite the data being held in Australia.
+Edwards and Attorney-General's Department deputy secretary, Sarah Chidgey, could not give a "100% guarantee" that the data would not be accessed by US law enforcement but said they were extremely satisfied, based on legal advice from the Australian government solicitor, that the legislative guarantees and the operation of US law would mean it was extremely unlikely that data would be so accessed.
+"I can give a guarantee that it is a criminal offence under Australian law," Chidgey said. "It's inconceivable that that situation would happen."
+When asked whether law enforcement in Australia had asked for a backdoor to be built into the app for their own purposes under anti-encryption legislation, both Edwards and Brugeaud said this had not happened.
+Under that legislation, it is against the law to disclose whether such a request has been received.
+The Daily Telegraph reported on Wednesday that Strathfield council had ordered staff to download the app on their work phones, against the direction and legislation prohibiting that Australians be coerced into using it.
+Edwards said the health department was investigating the matter and may refer it to the police.
+Another issue that has been resolved is Telstra has now enabled SMS over wifi for newer iPhones and Android devices, so people who live in regional areas with poor mobile coverage will be able to get the registration text message.

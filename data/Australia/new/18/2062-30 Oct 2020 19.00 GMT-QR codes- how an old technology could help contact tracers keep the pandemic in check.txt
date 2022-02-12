@@ -1,0 +1,40 @@
+QR codes: how an old technology could help contact tracers keep the pandemic in check
+Shops, cafes and pubs now can keep logs of their visitors who use the QR code check-in on their phones
+Businesses across Australia are being encouraged or required to keep logs of who has been in their establishment in case of a Covid-19 outbreak.
+Many choose to use paper and pen to keep records, but increasingly QR code posters are up so people can check in via their phones.
+Quick response code is a computer-generated image that looks a bit like a barcode, and when scanned by a phone with a QR code reader (many phones have this built into the camera app), it'll open a website the code links to.
+They were designed in Japan in the mid-90s, and became more popular with the broader public with the advent of cameras on smartphones. QR codes never really took off in western countries largely due to the lack of a built-in QR code reader app in the early phases of Apple's iOS iPhone software.
+Now in a pandemic, with the need for retailers and other businesses to quickly get check-in infrastructure in place, QR codes are having a renaissance. Apple's iOS camera app also supports QR code scanning. On Android 9 and above, Google Lens allows people to scan QR codes.
+Restaurants, cafes, bars and shops will link their QR codes to a Google form or a website that keeps logs of who has been there and at what time, and their contact details in case someone tests positive.
+Ideally they need only your name, and a contact number or email address, and the time you are there.
+What information they do collect, however, will vary depending on the system being used, and the jurisdiction.
+In New South Wales, the ACT and South Australia, only name and contact details and time of visit is required.
+In Victoria, just a first name and a phone number and time of visit must be recorded.
+In Queensland, name, address or email address and phone number must be collected.
+The length of time the records are held also differs. Queensland requires the data to be held for 56 days. NSW, South Australia and the ACT require a minimum of 28 days.
+In Victoria, the records must be destroyed as soon as practicable after 28 days.
+In Western Australia, no register is required to be kept in the current phase of restrictions. The NT and Tasmania also do not appear to require record keeping in their health orders.
+But beyond the basic requirements – unless specifically prohibited by public health orders – the businesses can collect more information, and if you agree by checking a box when you sign in can use the information to market to you.
+Myguestlist, for example, which is one of the most common to be used in Sydney, advises that businesses can access the contact records of those who opt in to receiving marketing information.
+Other third-party services that have been reported being used in NSW include Kounta, Covidcomply, Visitsafe, Guesthq, Medallia, and Guesttrack. Big companies such as Woolworths and Kmart have implemented their own check-in service.
+With most of the cases of community transmission of Covid-19 in NSW and Victoria, the focus will be on what they are doing to use the check-in records for contact tracing.
+In September, the NSW government released an update to the Service NSW app to allow people to check in to a venue using a QR code.
+The data on date and time is kept by the NSW government and deleted after 28 days, unless it is needed by NSW Health for contact tracing.
+As of 30 October, 13,500 businesses have downloaded a QR code to print out and use for customer check-ins, and there have been 1m check-ins on the app.
+On Friday, the government announced taxis in NSW would also allow people to check in via the app.
+Due to the delay in getting the app out to market, several months after NSW venues began reopening it is just one of many used by businesses.
+The NSW premier, Gladys Berejiklian, indicated in early October she was considering mandating businesses to use the Service NSW app.
+The Victorian premier said this week that the state government would "soon" release its own QR code check-in application for businesses in Victoria.
+Daniel Andrews said it was being built from scratch, and would integrate with the new Salesforce contact tracing system, meaning health officials would have easy access to a store's records when needing to find people to contact.
+Andrews has said he wants the QR code system to be universal in the state, but it is not yet clear whether businesses will be encouraged to take it up or if it will become mandatory.
+In the UK, a QR code check-in app is built into the NHS contact tracing app. Singapore had been using QR codes for entry into venues, but that will now be integrated into the TraceTogether app, which Australia's Covidsafe app is based on.
+The Australian Digital Transformation Agency, which built Australia's Covidsafe contact tracing app, has indicated it would not be possible to include a QR code check-in feature in the Covidsafe app. Its chief executive, Randall Brugeaud, told a Senate estimates hearing on Thursday that because of strict privacy legislation governing the use of data around the app, it would not be allowed to record location information.
+He said such an update would otherwise be technically easy for the agency to bring in.
+New Zealand has the NZ Covid tracer app, which acts more like a digital diary. When you go to a venue, you scan a QR code and it makes a record on your phone. You can sign up to alerts and be notified when a venue you have attended was also attended by someone infectious with Covid.
+A person who tests positive can share their diary with a contact tracer so those alerts can be sent out.
+It means none of the restaurants, bars or cafes keep a record of who has been there.
+From a privacy standpoint, the New Zealand version is the best around, but means health officials won't be able to directly contact those who were close contacts and ensure they isolate and get tested.
+The NSW and Victorian versions are better on the public health side of things because if the government holds the records, that information will be available as soon as it is needed rather than finding the business, and extracting the records from whichever of the many varieties of system that business may be using.
+The other benefit of logging in via a government app is that malicious QR codes that direct people to fake login websites designed to take people's information are less likely to work, given in the app people will not have to fill out their details. The government apps also mean your personal details will not end up being used for marketing.
+The check-in systems developed by private companies may offer individual businesses benefits, but the lack of a single check-in system across the board means people will need to sign in with multiple companies sometimes multiple times a day.
+The more check-ins with multiple companies, the greater the risk of a potential data misuse if even one of the companies suffers from a data breach.

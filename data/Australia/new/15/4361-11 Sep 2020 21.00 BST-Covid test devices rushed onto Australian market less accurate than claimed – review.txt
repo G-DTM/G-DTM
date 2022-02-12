@@ -1,0 +1,31 @@
+Covid test devices rushed onto Australian market less accurate than claimed – review
+Doherty Institute says the eight devices for rapid testing shouldn't be used in acute stages of the illness
+Rapid Covid-19 testing devices rushed onto the Australian market are far less accurate than their manufacturers have claimed, and the expert leading a government-initiated review says they should not be used to detect acute cases.
+In the early stages of the pandemic, the federal government allowed a large number of rapid Covid-19 testing devices onto the market with relatively little scrutiny.
+The devices detect antibodies produced in response to Covid-19 and can return results at the point of care within 15 minutes, without the need for laboratory testing.
+Australian authorities have relied on a different, more accurate type of testing – genetic testing – throughout the pandemic response.
+But they also planned to supplement genetic testing by purchasing 1.5m rapid tests, including from one company with a highly questionable background.
+The Guardian previously revealed that the government arranged to buy 500,000 rapid tests from Promedical, a company run by a convicted rapist and former business partner of cabinet minister Stuart Robert. The company had no previous experience in diagnostics and was tied to a collapsed deal to supply testing to Puerto Rico.
+The government later engaged the Doherty Institute to conduct a post-market review of the rapid testing devices approved for listing on the Australian register of therapeutic goods.
+The Doherty Institute has so far examined eight separate devices, most of which were manufactured in China, as part of a series of ongoing reviews. In each case, the institute has found the testing devices to be far less accurate in detecting the virus than the claims made by manufacturers.
+In one case, an antibody test produced by Korean-firm GenBody Inc claimed to have a sensitivity – or accuracy in detecting the antibodies – of 89.3% and 88%.
+The Doherty Institute's testing found the sensitivity of the testing to be 38.5%.
+The institute did find that the accuracy of the tests improved the greater the duration since the onset of symptoms.
+"It was noted that based on testing specimens 14 days post-onset of symptoms two of the eight devices would meet the manufacturer's stated performance claims," the health department said.
+Soon after the initial outbreaks of the virus, proponents of rapid testing suggested they could be used as an initial screening device to detect Covid-19, which could later be confirmed by a genetic test.
+Prof Deborah Williamson, who is leading the institute's post-market review, said they are not suitable for that purpose.
+"Overall, they've not been as sensitive as we would have expected, and certainly the sensitivity in the early stages of infection strongly suggests they shouldn't be used in the acute stages of the illness," Williamson told the Guardian.
+"That's not out of keeping with what other groups have found globally, so there's no surprises there."
+The government had previously suggested the antibody tests would be in GP clinics by April.
+In May, the health minister, Greg Hunt, said the antibody tests purchased by Australia were of "the highest quality" but said the government would wait for the expert review to ensure they were safe and accurate.
+"We do know that some countries were provided tests and equipment in the early days which may not have been fully accurate," he said at the time.
+"We've made sure that it is our health authorities, following the highest procurement standards, that have made the procurement."
+The health department says it only purchased one million rapid tests from two suppliers. The devices were manufactured by Onsite and VivaDiag.
+It says the success in "flattening the curve" meant the rapid tests "have not yet been required".
+"These tests have not been purchased for the purpose of, and should not be used to, diagnose acute infection of Covid‑19," the department said in a statement.
+It said the Doherty Institute's reports involved two point of care tests that had been approved by the Therapeutic Goods Administration. The department said the institute studies confirmed point of care tests were of "limited use" for diagnosing acute Covid-19 cases.
+"However, the sensitivity of these tests has been demonstrated to improve with increasing duration from symptom onset and are sufficiently accurate that a positive result in a symptomatic patient could be presumed to be positive for Covid-19 (should be confirmed by laboratory testing)," the department said.
+"It is expected that these types of tests may have a role to play in population-level surveillance studies to further understand the level of Covid-19 infection in the Australian community, when used by a suitably trained medical professional."
+Williamson said there may be potential uses for the devices in the future, but reiterated that they should not be used in detecting current cases of Covid-19.
+"Really the key use here is more of a look to see who has been exposed previously, rather than who has the illness right now," she said.
+"There are other rapid tests that are emerging that you might be able to use for acute diagnosis."

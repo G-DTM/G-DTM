@@ -1,0 +1,17 @@
+Government releases draft legislation for Covidsafe tracing app to allay privacy concerns
+Misuse of information collected by the Australian government's coronavirus app could be punishable by up to five years in prison and a $63,000 fine
+Collection, use or disclosure of information collected by Australia's Covidsafe contact tracing app – except by public health authorities – would be punishable by up to five years in prison, according to draft legislation.
+The attorney general, Christian Porter, has sought to allay privacy concerns about the app through release of the draft bill on Monday, as downloads of the app topped 4.5m.
+On Friday the national cabinet will meet to discuss easing Covid-19 related restrictions on economic and social life, which the federal government has repeatedly linked to Australians' willingness to download and use Covidsafe.
+On Monday it sent SMS messages suggesting the app will "help us to keep you safe and ease restrictions", and ministers have suggested community sport and professional football all hinge on its uptake.
+The Covidsafe app uses bluetooth to record the anonymised ID of anyone a user gets close to who also has the app. Users then consent to upload the information to a database accessible only to state and territory public health officials to determine who that person has contacted in the past 14 days in the event they are diagnosed with Covid-19.
+The draft legislation, which largely reproduces biosecurity orders designed to protect early users of the app before parliament returns on 12 May, creates a series of offences punishable by five years in prison, a $63,000 fine, or both for abuses of the data captured for any purpose other than authorised contact tracing.
+Uploading information without the users' consent; collection use or disclosure of the data except by public health authorities; and retaining data on a database outside Australia all attract the penalties.
+The bill would also make it an offence to require a person to download or use the app. Refusing to sell goods and services, discrimination in employment, or blocking entry to public premises because a person has not downloaded it would also be criminalised.
+On Friday Scott Morrison suggested that businesses, including cafes, would encourage their patrons to do so in a bid to restart the economy.
+In an attempt to allay privacy concerns the government has published a privacy impact assessment and indicated it will release the source code for the app, subject to the approval of the Australian Cyber Security Centre.
+Porter has promised police will not be able to access the data, after the deputy chief medical officer Nick Coatsworth revealed that the government had to knock back requests from law enforcement agencies for "added capabilities".
+The bill states that it "cancels the effect" of any other law that might permit conduct that is otherwise prohibited.
+Downloads and use of the app are voluntary and the health minister, Greg Hunt, has suggested a target of 40% of the Australian population – or 10m downloads – would be considered a success.
+After health officials were unable to explain the basis of the target, the government has softened its language to merely suggest the more the better in terms of boosting Australia's capacity to trace close contacts of people diagnosed with Covid-19.
+On Wednesday the Covid-19 Senate committee inquiry will examine the Attorney General's Department, the Department of Health and the Digital Transformation Agency about Covidsafe.

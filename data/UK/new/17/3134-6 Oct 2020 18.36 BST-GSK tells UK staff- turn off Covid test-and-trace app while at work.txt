@@ -1,0 +1,24 @@
+GSK tells UK staff: turn off Covid test-and-trace app while at work
+Drugs company says infection controls at some of its sites are so secure the app is not needed
+The pharmaceuticals firm GlaxoSmithKline has told staff to switch off the contact tracing function that allows the NHS test-and-trace app to monitor the spread of Covid-19 while at work in case it is "disruptive" to business, the Guardian has learned.
+GSK, which is among the companies working on a vaccine for Covid-19, sent the instruction to employees at its research and development labs and some of its manufacturing sites.
+It told them to switch off contact tracing, which uses Bluetooth to detect if users have been close to someone who has tested positive for the disease.
+Data collected via contact tracing is seen as integral to the government's efforts to monitor and control the spread of the virus. But GSK told some of its 16,000 UK staff that its measures to prevent Covid-19 transmission were so secure that they did not need to use it while at work.
+It said the main reason for the instruction was that it operates a policy of ensuring staff stay 2 metres away from each other at all times.
+"Consequently, if our site risk assessment is followed, no close contact should be occurring on our R&amp;D [research and development] site," it said.
+GSK acknowledged that there may be occasions when staff do come closer to each other but said it had "implemented control measures to ensure safety in these situations".
+It said the app would not recognise these additional measures and could trigger the recording of a contact where "in effect", the risk had been reduced.
+"Using the above scenario, if one of the individuals were later to test positive the contacts, in this case another site employee/s, could be asked to self-isolate, which may be both disruptive to the business but may also trigger a false positive into the NHS test-and-trace system," GSK told staff.
+The message, seen by the Guardian, also suggested that a false contact could be registered if staff left the app on while their phone was in a locker, bag or coat.
+Government guidelines do allow for contact tracing to be switched off while phones are being stored. But under a heading marked "requirement", the company said staff should disable the contact tracing function of the app at all times after arriving at work.
+"You can turn it back on when you leave site," they were told.
+A GSK spokesperson said the company believed that its instruction complied with government guidance.
+"The safety of our employees is our highest priority, and we have put in place strict Covid protective measures at all our sites," the spokesperson said.
+"Our pharmaceutical laboratories and manufacturing plants are highly-controlled environments and operate according to the highest Covid-19 security and protection protocols set out by the government.
+"These environments are distinct from the everyday situations in which most people will use the NHS Covid-19 app, which is why we have issued some specific advice to employees working at these sites regarding the use of certain aspects of the app, while onsite. This is in line with government advice on how to use the app."
+Guidance on how to use the NHS test and trace at work sets out exemptions, including in healthcare settings and in environments where staff are protected by an acrylic screen, or the equivalent.
+GSK did not say which of the exemptions it believes apply to its sites.
+A spokesperson for the Department of Health and Social Care said: "We want as many people to download and use the app as possible and it is important to use the NHS Covid-19 app at all times unless in specific scenarios which are set out in our guidance."
+The NHS test-and-trace app was beset by delays but launched in September. Using Google and Apple technology, it alerts users if they have been within 2 metres for more than 15 minutes of somebody who has tested positive, and who also has the app. Other functions allow the user to check in at a venue that displays a QR barcode, rather than having to give staff their details.
+The user can book a test and will be given advice on self-isolation if necessary, including a daily countdown so they know when they can leave home again.
+Sign up to the daily Business Today email here or follow Guardian Business on Twitter at @BusinessDesk.

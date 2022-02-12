@@ -1,0 +1,20 @@
+Australian coronavirus contact tracing app voluntary and with 'no hidden agenda', minister says
+Stuart Robert says people can be assured there will be no geolocation, surveillance or tracking
+The Covid trace app is "entirely voluntary", will not be a surveillance device and is designed to speed up coronavirus testing, the government services minister, Stuart Robert, has said.
+"It is a big team Australia moment," he said. "When this app is released in the next week or two we really need every Australian to download it and to run it, so that if indeed your family, you, come into contact with somebody with the virus, you can rest assured that health officials will rapidly contact you and seek to provide the best care possible to you."
+Robert said when the pandemic was over the app could be deleted and the data would not be retained.
+The app has been delayed after privacy law monitors including the Human Rights Law Centre told the health minister, Greg Hunt, in a letter they were worried about the types of data to be collected by the app.
+On Saturday the prime minister confirmed the app would be voluntary after indicating on Friday he would not entirely rule out making it mandatory.
+Robert said the process of manually tracing every contact from each Covid-19 diagnosis would be sped up by days if a person suspected of having the virus had downloaded the app.
+"There is no geolocation, there is no surveillance, there is no tracking," he said.
+"The app simply connects with another app. If those two phones are within 1.5 metres for 15 minutes it simply swaps phone numbers and names. That information is held encrypted and securely on the individual's mobile phone."
+The government wants as many Australians as possible – more than 40% – to download the app wanted to assure everyone that there was no "hidden agenda".
+"Right now if you test positive to coronavirus, health officials will sit down with you and ask you to trace back where you were and who you have been with," he said.
+"And it is really hard to try to remember the 90-year-old lady in the queue behind you at a shopping centre, or a family that was close by you for whatever purpose."
+Robert said the information would be gathered by bluetooth and would be sent to secure national health storage only if a user confirmed they had been diagnosed with coronavirus. It would then be given to state governments so they could contact individuals who may have come into contact with that user.
+Robert said the privacy commissioner was involved and a privacy impact assessment was being conducted.
+The app's source code would be made public so all Australians could be assured of their privacy and security.
+If enough Australians installed the app, it would allow the prime minister to loosen the restrictions and kickstart the economy again, he said.
+The Covid website the government established has had 7m visits so far and the official government "Coronavirus Australia" app has had 2.7m downloads.
+"The scale of the technology that we are putting in place is unprecedented in terms of this health emergency, and this will be one more application to build into that suite of apps," Robert said.
+"Nobody will be forced to use it. It is absolutely voluntary. There is no question I will be the first one to download it, probably after the prime minister, and we will be encouraging everybody to download it. I will be encouraging corporate Australia, not-for-profits to actually download it."

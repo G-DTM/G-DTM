@@ -1,0 +1,37 @@
+Australia's Covidsafe coronavirus tracing app works as few as one in four times for some devices
+The true state of the operation of the Covid safe contact tracing app has been revealed in documents tabled in the Senate
+The federal government's Covidsafe contact tracing app works as few as one in every four times for some devices, documents tabled in the Senate have revealed.
+The evidence for the first time shows the true state of the operation of the app, despite continuous claims from the government services minister, Stuart Robert, and the Digital Transformation Agency over the past two months that the app "works".
+Since the launch of the app in late April, developers have highlighted ongoing problems with the contact tracing app being able to exchange Bluetooth handshakes with iPhones if the iPhone screen is locked.
+The handshakes are crucial for recording close contacts in the event that one of the users tests positive for coronavirus, so the other user can be contacted and tested for the virus.
+It was only when asked during a Senate committee hearing in May that the DTA CEO, Randall Brugeaud, admitted the app worked less effectively when iPhones were locked.
+Documents tabled in the Senate in response to questions from the Centre Alliance senator Rex Patrick have shown, as Guardian Australia has been reporting, that communication between two locked iPhones – such as when people are walking in the street with the phone in their pocket – was "poor" when the app initially launched, meaning it picked up between 0% and 25% of all Bluetooth pings.
+This came despite protestations from the federal government that reporting suggesting the app did not work properly on iPhones was incorrect.
+"The app runs either in the foreground or background," a spokesman for Robert told Guardian Australia on 4 May.
+According to the DTA's own documentation provided to the Senate Covid-19 committee, communication to locked iPhones from both active iPhones and Android devices on that date was "poor".
+It was only ranked "moderate" (that is between 25% and 50% of pings) or at best "good" (between 50% and 80% of pings for Android devices and iOS devices communicating with locked iPhones) as of the end of May.
+Guardian Australia asked the Digital Transformation Agency for more specific data but did not hear back by publication.
+As of last week, approximately 6.31 million people in Australia have downloaded the app, and according to the health minister, Greg Hunt, that meets the government's target of 40% of the population as he defined it – being 40% of the Australian population with smartphones.
+National cabinet on Friday added a requirement to its stage three framework for easing restrictions on indoor and outdoor gatherings that people download the Covidsafe app.
+So far states and territories have not tied app downloads to the easing of restrictions, and the federal legislation for the app makes it a crime to force people to download the app.
+As of last week, state health agencies have only downloaded data from the app around 30 times, and in none of those cases did the app find anyone not already discovered through traditional contact tracing methods.
+But as the states move to ease restrictions and increase capacities at entertainment venues and sporting matches, the app could prove useful in cases where close contacts aren't easily identifiable, putting pressure on the government to resolve outstanding issues with the operation of the app.
+There remain several critical issues with the operation of the Covidsafe app beyond the iPhone issue.
+One recently patched flaw allowed long-term tracing of phones even if the app was uninstalled. Although a patch fixed the issue, Android users may not be getting the most up-to-date app after developers noticed it would not auto-update if it was already running – a requirement for effective operation.
+The Australian National University professor Dr Alwen Tiu told Guardian Australia that he had discovered "a different bug, unrelated to [the previous vulnerability] that has the same effect of extracting a permanent, trackable identity from an Android device".
+He said that this issue has not yet been addressed despite him reporting it to the DTA on the 2 June along with suggested a fix.
+Another recently discovered iPhone issue occurred if your phone was locked for an hour, meaning the ID associated with your phone would expire, and it wouldn't exchange IDs with other devices in the vicinity, rendering the app useless.
+Jim Mussared, one of the developers who has been reporting flaws to the Digital Transformation Agency, expressed his dismay at how the DTA had been "not at all communicative" with developers about the issues.
+"It takes them a long time to confirm the issues, many remain unfixed. Many of these issues have been one-line fixes. Additionally there's been a complete lack of transparency around all aspects of the development of the app," he said.
+Mussared said he would like to see the DTA release the source code for the server that accesses the data in the event a person tests positive for the virus.
+He also said the DTA should provide more information on the bugs and how they are discovered and resolved, and should release information on the number of users actively using the app every day, not just the number of people who have downloaded the app.
+Guardian Australia had a freedom of information request to the DTA refused, in part, because of the lack of resources the agency has to process it, claiming it would have to consult up to 80 businesses and four government agencies for the request, and there was only one part-time FOI officer working for the agency.
+Mussared said the best thing the agency could do is implement the Apple-Google developed version of contact tracing into the app. It would resolve many of the ongoing issues, including the iPhone handshake problem, he said.
+"They should just move to [it] ASAP. In fact, they should have abandoned any other plans the moment that the API was announced at the start of April. Any issues with reliability and privacy of the app are entirely as a direct result of this decision."
+The DTA did not respond to specific questions about outstanding issues with the app, but said "the Australian community can have confidence the app is working securely and effectively, despite the lack of community transmission of Covid-19".
+"The DTA continues to improve the app and welcome feedback on COVIDSafe from the developer community," a spokesman said.
+The DTA said it was still testing the Apple-Google framework to see if it can be implemented in Covidsafe. Several countries, including Germany, have already moved to implement the framework.
+Singapore, which developed the app Covidsafe is based on, this week decided against using it.
+The country's minister in charge of the smart nation program, Vivian Balakrishnan, said because the decentralised model used by Apple and Google doesn't allow health authorities to identify close contacts it is "less effective".
+Covidsafe and TraceTogether gives a list of contacts to health authorities to call, while the Apple-Google version alerts those close contacts through the app and asks them to contact authorities for testing.
+Additional reporting by Henry McGilchrist

@@ -1,0 +1,45 @@
+What has gone wrong with England's Covid test-and-trace system?
+It was supposed to be 'world beating' but experts say it is having only a 'marginal impact'
+When the NHS test-and-trace system was launched in late May, Boris Johnson promised it would help "move the country forward". We would be able to see our families, go to work and stop the economy crumbling.
+In the absence of a vaccine, the prime minister's "world-beating" system would be worth every penny of the £10bn funding that Rishi Sunak announced in July. The chancellor said it would enable people to carry on normal lives.
+Now as pubs are ordered to close, extended families are forced to stop meeting and intensive care beds fill up fast, the government's Sage scientific advisers have concluded NHS test and trace is not working.
+Too few people are getting tested, results are coming back too slowly and not enough people are sticking to the instructions to isolate, they say.
+The system "is having a marginal impact on transmission", as a result, and unless it grows as fast as the epidemic that impact will only wane.
+So what's going wrong?
+Tasked in spring with rolling out millions of coronavirus tests, the health secretary, Matt Hancock, opted for a centralised system using private firms. The business consultancy, Deloitte, was handed a contract to help run testing through local drive-in and walk-in test sites, with swabs being sent for analysis at a network of national laboratories, many also outsourced. Serco was also handed a deal to run contact tracing, subcontracting work to other firms as well.
+The stakes for their success were high. An Imperial College study found if test and trace worked quickly and effectively, the R number could potentially be reduced by up to 26%.
+Local directors of public health knew this from experience of tackling sexually transmitted diseases and food poisoning outbreaks, but their role was limited, leaving many exasperated that they were being cut out.
+As the system got up and running over the summer, ONS surveys of the virus prevalence suggested NHS test and trace might only be picking up a quarter of actual cases.
+In July, one of the system's senior civil servants, Alex Cooper, admitted privately the system was only identifying 37% of the people "we really should be finding". The clamour from mayors and local public health officials for a bigger role grew.
+Finally this week the government admitted cities and regions should be given help to do more.
+"We've always known that there was a need for a local element of test and trace, as a centralised system does not have local expertise and is not able to cut through the harder-to-reach communities," Andy Street, the Conservative mayor of the West Midlands, told the Guardian this week.
+The strain on a the centralised system has been clear. Sarah-Jane Marsh, director of testing at NHS test and trace tweeted last month: "The testing team work on this 18 hours a day, 7 days a week. We recognise the country is depending on us." She is about to stand down after less than six months in the post.
+Website warnings that no tests were available exposed the testing crisis to the British public on an almost daily basis this summer, especially in September when schools went back.
+Dido Harding, the system's head, said last month the number of people wanting tests was three to four times the number available. National "lighthouse" laboratories in Milton Keynes, Cheshire, Glasgow and Cambridge, had hit capacity.
+More than a quarter of people attending 500 local testing centres after being in contact with someone who had tested positive, were simply turned away because they did not have symptoms.
+The scale of the task was shown when Harding told MPs around half of the available tests were being used by NHS patients, social care and NHS staff.
+Such was the strain that tens of thousands of tests had to be sent for processing abroad.
+And the need for testing will only increase.
+Johnson has promised daily testing capacity of 500,000 by the end of this month. On Tuesday it stood at 309,000 .
+Already a long way off from the target, the system will come under greater pressure over the coming weeks. On Tuesday, the government finally said visitors to care homes could be tested regularly to try and end the isolation caused by their visits to loved ones being banned. There are 400,000 care home residents.
+New laboratories in Newcastle, Bracknell, Newport and Charnwood should open within weeks and they can't come soon enough. As far back as May, Sage experts said the speed of results had a significant impact on the reproduction rate of the virus. Turnaround times should be 24 hours or less and it was "essential" this capability was reached by the autumn/winter flu season.
+Johnson pledged in on 3 June to "get all [non-postal] tests turned around in 24 hours by the end of June".
+But for the last week of September, the percentage of test results returned within 24 hours in the community testing was no greater than a third. Nearly nine out of 10 Covid-19 tests taken under the system used by care homes in England were returned after 48 hours in September. Kathy Roberts, chair of the Care Providers Alliance, told MPs on Tuesday she doesn't have confidence in the government's test-and-trace strategy.
+"The percentage of returns is still too low," she said. "It has improved for people on discharge but not for the workforce."
+Last month Greg Clarke MP, chairman of the Commons science and technology committee, asked Harding if the failure of the testing system was "driving the increase in the pandemic".
+"I strongly refute that the system is failing," she replied.
+The data blunder that caused nearly 16,000 coronavirus cases to go unreported in England last month when they disappeared from an spreadsheet, was not an isolated IT problem. The government's first attempt to build an app to track infections was abandoned in June after months in development.
+A new approach is costing an estimated £36m in development and running costs in the first year. The app allows users to check into venues and receive alerts if they have been close to someone infected, as long as the infected person tells their app. But it has yet to find its feet.
+For a while people tested in NHS and PHE settings could not input their results, meaning thousands were being missed. A function which is supposed to alert people when they have been in a place where there has been an outbreak has only been used only a handful of times, despite more than 16 million people downloading the app.
+Some employers have also been asking workers to turn the app off.
+Figures suggest contact tracers working through the national system have been less successful than local council officials. The percentage of people reached and asked to provide details of recent close contacts hit its lowest level since June at the end of September, with performance worsening steadily over the month. It means about 25% of contacts are not reached at all.
+There have been embarrassing reports about contact tracers making no calls for days on end, some catching up on Netflix while being paid to do nothing.
+By contrast local public health officials, some setting up their own call centres and redeploying environmental health officers and sexual health experts with local knowledge and properly trained in the job, reckon they are tracing close to 100% of contacts.
+The difference mattered particularly in north-west England, where the virus took hold this summer and south Asian-heritage communities proved harder to reach. Ministers finally agreed to share real-time data with local authorities in August but only after several councils threatened to break ranks and set up their own locally-run system.
+Local health officials complained the centralised system failed to join the dots on linked infections. For example, it might spot 40 cases in one postcode – but wouldn't quickly grasp that the cluster was linked to a specific workplace, event, or pub.
+"Local residents recognise and can relate to their local council, which is not always possible with a national system," said Ian Hudspeth, chair of the Local Government Association's community wellbeing board. "Council staff can go to people's homes to make sure they are aware of what they need to do."
+Sage estimates that at least 80% of a case's contacts need to isolate for the system to work.
+Last month, however, it found rates of full self-isolation were below 20% and particularly low among the youngest and the poorest people.
+A study stretching from March to August, found only 18% of 1,939 people with symptoms stayed at home and people facing greater hardship were less adherent.
+Ability to self-isolate was three times lower in those with incomes less than £20,000 or savings less than £100, according to a third study.
+Additional reporting: Josh Halliday

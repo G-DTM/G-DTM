@@ -1,0 +1,69 @@
+The strange case of Australia's 10m Covid-19 tests: how Andrew Forrest's coup fell flat
+What seemed a good news story became complicated as details emerged about the $190m Covid-19 tests and the company that made them
+It was a rare success in a cascading public health disaster.
+In the mad global scramble to secure Covid-19 testing supplies, the mining magnate Andrew Forrest had used his Chinese connections to help secure a remarkable quantity of diagnostic equipment for Australia.
+Standing alongside the federal health minister, Greg Hunt, on 29 April, Forrest announced he had managed to get hold of 10m Covid-19 tests, manufactured by the Beijing Genomics Institute.
+The quantity was extraordinary.
+In the previous two-and-a-half months, Australia had used 500,000, just a fraction of the testing capacity it had now secured for roughly $189m.
+"The Minderoo Foundation, through Andrew and Nicola Forrest, have been a bridge and a partner with the Australian government and with private suppliers, and we're really privileged to be able to work with them," Hunt said.
+Successful pandemic responses are built around testing, a point the World Health Organization has made time and again.
+"We have a simple message for all countries: test, test, test," the WHO director general, Tedros Adhanom Ghebreyesus, said in March. "Test every suspected case."
+Hunt had been saying as much to Forrest in private conversations, urging him to do the near-impossible and find what the billionaire described as an "unprecedented level of both testing machines".
+But problems soon emerged.
+The tests were to be used by public health units, Hunt said, who would use them throughout 2020. The tests and associated platforms would also be deployed in 11 private pathology laboratories.
+The uptake, certainly among public health pathology, was patchy at best.
+Watching on in shock was the rest of Australia's diagnostics industry.
+Not long before the announcement, Pathology Technology Australia, the peak body, handed the government an audit of Australia's existing testing technology to conduct the kind of nucleic acid testing used for Covid-19 detection.
+"We had determined there was more than enough technology already in the field to significantly ramp up testing," Dean Whiting, the PTA chief executive, said.
+The introduction of BGI tests brought in a new technology mid-pandemic, without any real sense of how it would fit into Australia's existing laboratory structures.
+Experts warned the busiest pathology providers simply would not be able to use the devices.
+"Labs will have to ensure the kits work for them in their processes," the virologist Ian Mackay told the Australian. "Using these tests will probably mean a change of any given lab's current PCR tests from those which have already been set up or installed."
+Most state and territory public pathology centres began to tell the Guardian they were not using the tests, with Victoria a notable exception.
+PathWest, the leading pathology laboratory in Forrest's home state of Western Australia, said it had no need for them.
+When questioned about the patchy uptake, the health department said some of the BGI tests were being sent to the national medical stockpile to build a strategic reserve.
+Huge quantities continued to roll in to the country.
+By July, Australia had received 4.8m of the 10m BGI tests. The volume of BGI tests alone – and there are many more testing types in use here – was more than double the total 2.2m tests conducted nationwide in the six months since the pandemic began.
+Another potentially serious problem soon emerged – the tests had a shelf life of six months.
+The short shelf life, while far from unique to BGI tests, raised the very real prospect of significant wastage.
+"If the government and BGI and Minderoo didn't cover this adequately, then shame on them, because this is not an unknown," Whiting said.
+There's no doubt the BGI equipment has helped in Australia's pandemic response to some degree.
+Hunt's office points to Victoria. The BGI tests are in use in the state as it deals with a series of breakouts, which have placed renewed demand on its testing supplies.
+The health minister also says the tests were never intended for public pathology providers, despite his initial comments suggesting otherwise. His office says the diversification of technology was critical during the unprecedented disruptions to global supply.
+"The BGI equipment has been installed in the laboratories of the two major pathology providers in Australia, which has been the plan since the outset," a spokesman said.
+"The BGI Covid-19 testing capability is supporting our strong public health response and bolstering Australia's future capacity to test for Covid-19. The BGI Covid-19 testing capability has been critical for supporting the significant increase in testing in Victoria."
+Forrest also brought in nucleic acid extraction kits – a consumable used in the process of Covid-19 testing.
+Those extraction kits have been more widely used, have a longer shelf life of 12 months, and supplies have been under considerable strain in Australia. The PTA audit had shown there were "inherent challenges" in securing consumables like reagents and associated products.
+"Further, the Australian government received direct written advice from the companies that make up the Pathology Technology Australia board that supply could not be guaranteed and that in some weeks supply was not able to be maintained due to competing global demands," Hunt's spokesman said.
+It is also clear that the purchase was made during extraordinary circumstances. Hunt's office said it would have been utterly irresponsible not to act to secure testing supplies.
+"BGI Covid-19 testing capacity was secured at a time when major pathology suppliers to Australia were providing very clear advice to the Australian government that they could not guarantee supply throughout the Covid-19 pandemic and were providing advanced notice to the Australian government that supply in some critical weeks could not be maintained due to global shortages," the spokesman said.
+Before the April announcement, BGI was relatively unknown to the Australian public, despite having a presence here through its paternity testing and gene sequencing businesses.
+BGI, though, is a major player in gene sequencing, active in 66 countries and boasting 6,000 employees, most of whom are employed at its headquarters in the southern tech hub of Shenzhen.
+The company was founded in 1999 as a research organisation to support the Human Genome Project, an international research effort to try to uncover the DNA sequence of the entire human genome. Since then, it has sequenced the DNA of a dizzying variety of living organisms, from a giant panda to 40 different silkworm types and a 4,000-year-old man named Inuk.
+But other activities have raised significant concerns.
+In mid-June, as Australia began to open up, a report landed that, on the face of it, had nothing to do with Covid-19 or Australia's response.
+The Australian Strategic Policy Institute released a report on what it described as a "DNA dragnet" and the development of the "world's largest police-run DNA database". It described a massive Chinese police operation to collect and analyse DNA samples from millions of men and boys who had no serious criminal history and had no control over how their samples were collected, stored and used.
+Several private companies were named as having involvement.
+One of those was a wholly-owned BGI subsidiary, Forensic Genomics International. The company, ASPI said, had struck a strategic partnership with the Public Security Bureau of Xi'an in August 2018 and worked with other such agencies to build genetic databases as part of the national program.
+"These ordinary citizens are powerless to refuse DNA collection and have no say over how their personal genomic data is used," the report said. "The mass and compulsory collection of DNA from people outside criminal investigations violates Chinese domestic law and international norms governing the collection, use and storage of human genetic data."
+BGI, for its part, denies the allegations contained in the ASPI report, saying it has "never been involved in the collection, storage or analysis of personal genetic information with the potential for or the purpose of violating human rights for special regions or groups".
+It also denies ongoing concerns about links to the Chinese government, saying it has no government ownership or funding.
+"It is owned by cofounders and core employees," a spokeswoman said.
+Concerns about the company have been enough to turn some jurisdictions away entirely. In California, authorities were concerned enough about the company's background that it decided to refuse its Covid-19 tests.
+The Washington Post reported that the decision was based on an inconclusive, one-page intelligence report that raised concerns about BGI being potentially subject to Chinese influence.
+Any such concerns failed to deter Australia, where security agencies briefed government about the arrangement.
+"The Australian government has sought and obtained advice from security agencies about appropriate installation and use of the new platforms and is implementing this advice through contractual arrangements with the Australian pathology providers," a spokesman for Hunt said.
+One of the ASPI report's authors, La Trobe University's James Leibold, said Australia should be taking ethical concerns into account when deliberating on its future involvement with BGI.
+"It's one of those things where you have to balance up ethical concerns with security concerns, economic concerns, and public health concerns," he said. "Admittedly it's a complicated series of issues to work through, but I think it's important that we raise the ethical and security concerns so that they're considered here in Australia."
+BGI, though, says it holds itself to the highest of ethical standards. It is also at pains to point out that it is independent of the Chinese government.
+It says any suggestion that Covid-19 testing data could somehow be handled inappropriately is fundamentally wrong and neglects to understand the fact that it has no access to Australian health data.
+"BGI only provides the products and know-how for Covid-19 testing, but does not receive, process or manage patient data," a spokeswoman said. "The labs in Australia are operated entirely by local staff according to national regulations."
+Other experts agree there is little risk to Australians' privacy and data from Covid-19 testing.
+The Belgian computational biology expert Yves Moreau, a professor at the University of Leuven, has concerns about its separate gene-sequencing business, however.
+He says he is not convinced it is possible to guarantee that a copy of the data generated by BGI's gene sequencing services in western countries will not end up in China, though he has no evidence to suggest that has happened.
+Regardless, he says genomic data is incredibly detailed, personal, and valuable, and must be treated with care.
+"Genomic data is extremely intimate because it reveals key information about your identity, your health, and your family," he said. "It must be afforded strong privacy protections, while also trying to leverage this information for genomic research for the common good. This is a delicate balance to find."
+"While genomic data can be economically valuable, it should not be considered as an ordinary commodity that can be traded without restraint."
+BGI has denied any suggestion it would use patient data inappropriately.
+"Since its founding in 1999, BGI has a long track record in applying strict ethical standards and protection of data privacy and security," a spokeswoman said. "BGI Group does not condone and would not be involved in any use of its technology for harmful purposes."
+Time will tell whether Forrest's acquisition of the BGI tests will prove worth the $189m price tag. His philanthropic arm, the Minderoo Foundation, says it was simply acting in accordance with the instructions of the Australian government.
+"Minderoo Foundation was asked by the federal government to help procure Covid-19 testing capacity and we are pleased to have been able to do so," a spokesman says.

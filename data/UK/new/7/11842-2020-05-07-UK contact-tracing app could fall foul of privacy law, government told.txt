@@ -1,0 +1,21 @@
+UK contact-tracing app could fall foul of privacy law, government told
+More protections needed before coronavirus app fully launched, says human rights committee
+The NHS contact-tracing app must not be rolled out across the UK until the government has increased privacy and data protections, an influential parliamentary committee has said, as rights groups warn that the current trial is unlawful under the Data Protection Act.
+The joint committee on human rights said on Thursday it was essential legislation was enacted to ensure the mass surveillance of personal data did not result in a violation before the trial was expanded.
+Its report was published following a legal letter from the Open Rights Group warning of "heightened and urgent concerns" that the government had failed to follow laws requiring it to submit an assessment of the risks to the information commissioners office.
+The app, which is being trialled on the Isle of Wight, logs users' movements and can alert people if they have had contact with someone who has developed symptoms.
+Ministers have said it is an important tool to study the spread of Covid-19 and to help them ease lockdown restrictions.
+But privacy campaign groups have opposed its introduction and a group of UK academics working in cybersecurity, privacy and law recently signed a joint letter saying it could open the door to general surveillance.
+Harriet Harman, the chair of the joint committee on human rights, said government assurances on privacy were "not enough".
+"The contact-tracing app involves unprecedented data gathering. There must be robust legal protection for individuals about what that data will be used for, who will have access to it and how it will be safeguarded from hacking.
+"Parliament was able quickly to agree to give the government sweeping powers. It is perfectly possible for parliament to do the same for legislation to protect privacy," she said.
+Counsel to the committee and Adam Wagner, a barrister from Doughty Street Chambers, are drafting a parliamentary bill that could protect the privacy of personal data, Harman said.
+A number of senior Tories are expected to support such a bill if it is tabled.
+David Davis, the former Brexit secretary, told the Guardian he was "minded" to support the bill for two reasons.
+"First of all, privacy is a crucial part of the rights of British citizens and secondly because the better the safeguards, the more likely that it will be taken up by people and be an effective tool in stopping the spread of the virus," he said.
+MPs and peers on the committee examined evidence submitted by experts in human rights law, surveillance and computer science from the University of Essex.
+The committee called for new legislation with guaranteed data and human rights protections, as well as an independent body to oversee the use, effectiveness and privacy protections of the app and any data associated with this contact-tracing, a digital contact-tracing human rights commissioner to deal with complaints from the public and report to parliament, and regular reviews of the scheme by Matt Hancock, the health secretary.
+Giving evidence to the committee on Monday, Elizabeth Denham, the information commissioner, revealed that her office had not received a data protection impact assessment from the government, a legally required step for any organisation embarking on "high risk" data processing.
+Three days after the hearing, however, and the ICO has still not been given the impact assessment, even as the app's trial has grown to encompass all residents of the Isle of Wight. "This means NHSX are proceeding unlawfully with their trials," said Jim Killock, chief executive of the Open Rights Group, which has written to the head of NHSX, Matthew Gould, demanding to know why the body has failed its legal obligations.
+Downing Street said "security and privacy" had been prioritised during the app's development.
+The prime minister's spokesman said: "Users can delete the app and its data whenever they want and we will always comply with relevant laws, including the Data Protection Act."

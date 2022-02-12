@@ -1,0 +1,45 @@
+Coronavirus app: will Australians trust a government with a history of tech fails and data breaches?
+The contact tracing app could work well to slow the spread of Covid-19, but will need to be accepted by a sceptical public
+The federal government is attempting to convince Australians it can be trusted to handle personal data collected by the coronavirus contact tracing app. But it's an uphill battle due to a long history of secrecy and failures to live up to promises on security and privacy of Australians' data.
+Governments around the world are dealing with the same problem: everyone wants to be able to resume some level of normal life, but authorities will need to be able to quickly find and contain people who might have the virus and not yet know it.
+Currently they do this by relying on human memory of who a person who tests positive has been around and where they have been – and cases can be easily missed.
+But if everyone is running an app that records a list of everyone they've been in close contact with, the process would be much more simple, and faster.
+There will be some people who want to help the effort and will use the government's proposed coronavirus contact tracer app on that basis, along with those who adopt the view that they already give a lot of information out to other services, so what difference does it make?
+There will be some who flat out refuse or just aren't able to use the app, and then there are those who are sceptical and need to be convinced.
+The prime minister, Scott Morrison, has said the government needs 40% of the population to agree to use the app in order for it to be effective, and he will need to win over some of the last category in order to meet that target.
+The problem he faces is that the government's history in this area is littered with tech fails, data breaches and misuse of personal data.
+Less than two months ago, senior bureaucrats were being accused by the deputy chair of the parliament's national security committee, Labor MP Anthony Byrne, of having a "cavalier disregard" for the handling of Australians' personal data.
+When the parliament passed mandatory data retention legislation in 2015 (which requires internet companies to hold much more personal data than would be held by the app for two years), promises were made that only 21 agencies, including law enforcement, would be able to access the data without a warrant.
+Then the internet companies began reporting councils and 87 other agencies that should not have access to the data were still accessing it, over 8,000 times in the 2018-19 financial year.
+Law enforcement were supposed to get special warrants if needing to access a journalist's metadata, but the AFP failed to do that in one instance.
+Some agencies were getting sent the history of websites people had been visiting, despite the government ruling that out five years ago.
+The government released the personal Centrelink information of a writer critical of the botched robodebt scheme.
+It rushed the passage of anti-encryption legislation before the end of 2018, arguing failure to do so could cause a terrorist attack over Christmas, despite the fact that key parts of the legislation would not be able to be used until well after Christmas, and amendments are now being considered to fix up issues with the law because it was rushed.
+Under that legislation the government can force you to unlock your phone. We're not allowed to know what vulnerabilities the government has forced tech companies to put in their products, and it is also a crime for tech companies to disclose what they've been made to do.
+Medicare numbers ended up for sale on the dark web.
+The government accidentally published a spreadsheet with the personal details of 10,000 asylum seekers online.
+Supposedly de-identified Medicare data was able to be reidentified, and rather than addressing the data breach, the government tried to make it a crime to reidentify the data in the first place.
+The 2016 census was taken offline by a DDoS attack, and according to Malcolm Turnbull's memoir, A Bigger Picture, the Australian Bureau of Statistics was prepared to blame a nation state for the attack, even though it was mostly just IBM not doing the job it had been paid to do.
+When people tried to sign up for jobseeker payments, Services Australia couldn't handle the traffic. The government services minister, Stuart Robert, incorrectly blamed a DDoS attack for that before correcting the record.
+The Australian federal police conducted an invalid raid at the home of a News Corp journalist trying to hunt down her source.
+The AFP raided the home of a Labor staffer and Parliament House during the 2016 election in order to find out who was leaking out of NBN Co.
+The government was eventually forced to change legislation to prevent police from being able to access information from My Health Record after first arguing it was not an issue.
+It is not difficult to see why some are not so keen to place their utmost trust in the government over handling this incredibly personal information.
+The app, if developed properly and with appropriate protections in place, could work well to slow the spread and make it much easier for health officers to contact trace.
+These are the protections the government has offered up so far:
+The data collected from the people you are in contact with (name, age range, phone number and postcode) remains encrypted and on the phone and deletes after the infection period passes.
+Location information (outside of postcode) isn't retained.
+It doesn't get uploaded to the onshore Amazon server unless you test positive.
+Only the health officers in your state will be able to access the unencrypted data.
+All the data will be deleted on the government's server at the end of the pandemic.
+It will be a crime to move the data offshore.
+Some, if not all, of the app's source code will be made public.
+The privacy impact assessment will be public.
+The privacy protections will be legislated.
+There is still much detail the government has promised to release in the next few days, meaning much of the concern around the app is based on public comments from politicians rather than clear information.
+Until now the government has forced a lot of these incursions on our privacy on the Australian population, warning the public that threats demand a sacrifice of our privacy, and if you've got nothing to hide you've got nothing to fear.
+Now faced with a tangible threat, while also empowering every Australian to make the decision themselves for the first time, the trust may be found wanting.
+Before you post, we'd like to thank you for joining the debate - we're glad you've chosen to participate and we value your opinions and experiences.
+Please choose your username under which you would like all your comments to show up. You can only set your username once.
+Please keep your posts respectful and abide by the community guidelines - and if you spot a comment you think doesn't adhere to the guidelines, please use the 'Report' link next to it to let us know.
+Please preview your comment below and click 'post' when you're happy with it.

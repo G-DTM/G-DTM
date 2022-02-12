@@ -1,0 +1,20 @@
+NSW is unable to use Covidsafe app's data for contact tracing
+Exclusive: No Australian state has reported using data for contact tracing coronavirus cases since it was released a month ago
+Australia's most populous state, and the state with the most coronavirus cases, has not yet been able to use the Covidsafe app for contact tracing.
+In nearly a month since it launched, more than 5.87 million Australians have downloaded and registered to use the Covidsafe contact-tracing app, which is designed to make it easier for state health officials to find close contacts in the event a user tests positive for coronavirus.
+Last week, state health department contact tracers received training in how to access the data, but no states have yet reported using the data for contact tracing.
+Guardian Australia understands NSW Health has tested the data but has had issues integrating it into the existing contact-tracing methods, and the Digital Transformation Agency was contacted by the department to fix technical problems.
+The Digital Transformation Agency referred questions on the matter to the federal health department.
+The federal health department initially declined to answer specific questions on the issue, instead providing a general statement that states now have access to the app data.
+In a statement provided after publication, the department said it "wasn't aware" of any technical issues NSW had been facing, but the department welcomed feedback on the app.
+"We welcome and expect ongoing feedback and evaluation of the operation of the app as more restrictions are eased and there are potential outbreaks, enabling contacts to be more quickly notified, such as with the opening of pubs and increased use of public transport and travel."
+In a press conference on Tuesday morning, NSW chief health officer Dr Kerry Chant told reporters that the state was still "evaluating" the app, and pointed out the low case numbers meant it was less likely that the data would be used.
+"We've actually had quite low case numbers over the recent week which I'm very pleased [about]. And obviously, with our cases that are in hotel quarantine, they don't actually have any contacts and that's one of the benefits of them," she said.
+"We are evaluating the use of the Covidsafe app … we will be using it in every new case identified where there are potential contacts and we'll update you on the utility of that but there is a formal evaluation under way and we're working closely with commonwealth colleagues."
+Victoria's chief health officer, Brett Sutton, reported on Saturday that Victoria too had yet to use the app's data. Victoria has the second-highest number of cases of coronavirus nationally, and has had more confirmed cases in the past week than other states and territories.
+"No, we haven't had any detections through the Covidsafe app to date," he said. "There's been work in terms of the privacy and security from the Victorian department's perspective, but as I understand it the data is being made available to the department," he said.
+It is understood Queensland has also yet to encounter a person who tested positive for coronavirus who also had been using the app.
+The state chief health officers are preparing reports on the app to present to the chief medical officer later this week.
+The federal government sold the app to the public as the key to easing restrictions across the country, however last week when the Senate debated the legislation for the app, foreign minister Marise Payne admitted the number of downloads of the app was not a consideration for national cabinet in the easing of restrictions.
+"The approach to easing of restrictions, as you will have seen through the national cabinet process, is based on the health advice that's received through the [Australian Health Protection Principal Committee], where it's possible for Australia and Australians to do.
+"And the states and territories are using that as the premise, not based on the number of people who have downloaded the app."

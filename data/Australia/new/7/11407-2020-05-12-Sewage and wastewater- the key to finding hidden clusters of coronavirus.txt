@@ -1,0 +1,26 @@
+Sewage and wastewater: the key to finding hidden clusters of coronavirus
+Wastewater testing is already used to estimate illegal drug usage, and from June will play a critical role in Australia's Covid-19 response
+Testing sewage and wastewater for coronavirus could be the next step in Australia's response to the Covid-19 pandemic.
+On Monday, Victoria's chief health officer, Prof Bret Sutton, announced that sewage testing was "important" and would be rolled out across the state. The CSIRO and the University of Queensland have developed a way to do it, and trialled it in small areas in Queensland, and brought praise from the federal health minister, Greg Hunt, and the science minister, Karen Andrews.
+On Tuesday, the Victorian health department confirmed to Guardian Australia that results and "routine testing" would start from June.
+But what is wastewater testing and will it actually be used in Australia?
+Scientists can detect fragments of the RNA (a virus's DNA) of Sars-Cov2, the virus that causes Covid-19, in our sewage.
+Researchers from the University of Queensland and the CSIRO have developed a method of sampling sewage from water treatment plants and spotting the "specific nucleic acid fragments" of the virus.
+This will help health authorities spot hidden clusters of coronavirus – if a high amount is detected in a region's wastewater, they can start large-scale testing and quarantine.
+On Monday, Sutton described it as "another tool in our surveillance that will tell us how much virus is out there".
+"Even if we are not getting cases notified, if we detect it in sewage, we know that there are active cases out there," he said. "It might tell us about places where we've got gaps in surveillance, that people need to come forward for testing or we need to look harder for active cases."
+Wastewater tracking has already been used for years for tracking polio and for estimating how many illegal drugs we take as a country.
+Sutton said on Monday that "sewage testing is a really important component and it will roll out across the state".
+On Tuesday, the department confirmed it had already taken water samples and frozen them and "routine testing and results [would] begin by June, once the right analytical methods to detect the virus have been developed".
+The CSIRO said it was still waiting on whether there would be a national rollout.
+"We are aware of discussions about the possibility of rolling out a national monitoring system and are awaiting advice on whether there will be a national roll out," it said.
+The federal health department said that it was up to the states to lead the way, but it would "closely watch" any state-based trials.
+"The time course of the wastewater testing will be largely contingent on the state and territories as they have jurisdiction over wastewater management," a spokeswoman said.
+"As each state and territory decides to roll out investigative testing of wastewater, further validation of this testing is required by environmental and public health experts as to what is the threshold of concentration that represents a concern as well as what specificity can be achieved in terms of the geographical area it represents.
+"Once preliminary validation has occurred this will inform national decision making in this space."
+The CSIRO says that in theory, sewage testing can give results by a suburb-by-suburb scale.
+"We can detect these viruses in confined spaces and, in principle, it could be used at a scale of suburb, or finer scale," a spokeswoman said.
+However she added: "There remain uncertainties around virus shedding and information is advancing rapidly in this space."
+The Victorian health department said the samples were taken from large treatment plants meaning "the areas tested are fairly broad – such as groups of suburbs or small towns".
+"Most of the work to date has occurred in metropolitan areas, where community infection rates tend to be highest and the testing is most productive," a spokeswoman said.
+The federal health department said initial results from overseas tests "have been encouraging", but sewage testing "should not be seen as a panacea but rather supplement a broader suite of testing measures".

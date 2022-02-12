@@ -1,0 +1,46 @@
+Why are Australian church leaders opposing the Oxford coronavirus vaccine?
+Church leaders are concerned the vaccine uses cell lines from an aborted foetus in the 1970s, but scientists say their priorities are 'misplaced'
+Australian church leaders have raised objections to a potential Covid-19 vaccine under development at the University of Oxford over concerns it contains cell lines "from an electively aborted human foetus."
+The objections were sent in a letter to the prime minister, Scott Morrison, last week, cosigned by Catholic archbishop of Sydney Anthony Fisher, Anglican archbishop of Sydney Glenn Davies, and Greek Orthodox archbishop of Australia Makarios Griniezakis.
+However, scientists say the development process is a proven method and church priorities should be on ensuring public health against the coronavirus.
+The Vatican itself has in the past released statements permitting the use of vaccines drawn from foetal cell lines if no alternatives are available.
+The church objections came after Morrison announced a deal with the University of Oxford that could deliver 25m doses of its potential Covid-19 vaccine if it clears trials.
+So why are church leaders disputing this particular vaccine, and are there any alternatives?
+A cell line is essentially cells farmed for medical and research use, with some modified so they multiply indefinitely. In this instance, they are being used as a vehicle to develop a coronavirus vaccine.
+The cell line in question, HEK293, was developed in the 1970s and is commonly used for the development of vaccines and for medical research.
+HEK293 was derived from human embryonic kidney cells and is now the second-most frequently used cell line in biology and biotechnology.
+Human cell lines have the advantage of being able to produce proteins most similar to those naturally produced by humans.
+The letter's focus was on the use of a cell line cultivated from an electively aborted foetus from the early 1970s.
+"We flag to you that any Covid-19 vaccine cultured on a foetal cell line will raise serious issues of conscience for a proportion of our population," the letter read.
+Davies told the ABC on Tuesday that "to use that tissue for science is reprehensible".
+The Catholic church's teachings in this area were outlined in Dignitas Personae (The Dignity of the Person) in 2008 by the Congregation for the Doctrine of the Faith.
+The church states that researchers have an ethical duty not to use "biological material of illicit origins", which it claims includes any line of cells produced from electively aborted foetuses, no matter how distantly removed.
+The doctrine, however, does qualify the outright prohibition, saying there may be situations where "grave reasons may be morally proportionate to justify" the use of such vaccines.
+"For example, danger to the health of children could permit parents to use a vaccine which was developed using cell lines of illicit origin, while keeping in mind that everyone has the duty to make known their disagreement and to ask that their healthcare system make other types of vaccines available."
+Dr Diego Silva, a lecturer in bioethics at the University of Sydney, believes the church leaders are missing another key moral dilemma.
+"We have a responsibility to think through our ethical obligations to the rest of Australians as well."
+Silva said the vaccine being developed was ethically sound, and the priority was to "minimise the ongoing harm, and the morbidity and mortality associated with Covid-19".
+Church leaders need to think of the health of the community as a whole, Silva contended, when assessing the ethics of a vaccine.
+"Part of the problem is that the Catholic church is seeing this as a medical ethics question, as if it is just between the individual and their doctor. When in fact, the dilemma is a public health ethics dilemma.
+"It is [about] what do we owe our community? What do we owe each other as citizens? So I think it's a misplaced question."
+Robert Booy, a University of Sydney professor of vaccinology, told Guardian Australia on Monday that vaccines have been developed with cell lines from aborted foetuses for the past 50 years, and Christian groups had previously accepted their use because of the "big distance between the cell line and the final vaccine".
+Other religious groups have not joined in their objections.
+Although there are no central, global representative bodies, generally Islamic, Buddhist, Hindu and Jewish communities have not previously raised objections to other vaccines and vaccination development processes.
+There have been some discussions about pork or bovine gelatine used in some vaccines, but there has not been a coordinated response in the vein of the letter sent to the prime minister.
+The vaccine being developed at Oxford is using a heavily modified version of a genetically engineered virus that causes the common cold in chimpanzees.
+Scientists altered the engineered virus to make it look like coronavirus cells by adding its distinctive "protein spikes".
+The idea is that the vaccine would then teach the immune system how to attack the virus.
+Professor Stephen Turner, head of the microbiology department at Monash University, said the decision to use cell line was based on how the virus worked.
+"One of the reasons they've chosen to use a human cell line for the production of the vaccine is because the vaccine platform is the virus itself. Viruses don't encode the information required in themselves to actually replicate themselves, they actually have to hijack cellular processes."
+Scientists have been using the HEK293 cells as "factories" for the vaccine, as it is easy to insert new viral genes into them. They also produce large amounts of viral protein, which are essential to the development of an immune response.
+Turner said the cell line was a well-known cellular "workhorse" and is a proven method to effectively develop vaccines.
+"It actually produces a lot of the virus, and that's really important if we're talking about making billions of doses."
+The WHO has identified 169 potential vaccines being developed around the world, as of 20 August.
+Of those, 30 are currently in clinical evaluation, including the vaccine being developed at Oxford.
+Some of these vaccines do not require a live cell, and so do not use a cell line, with some using synthetic processes. Others use cell lines from animals such as hamsters.
+So far, Morrison has made no mention of agreements with developers of other vaccines.
+It did however allocate $5m to the University of Queensland's "molecular clamp" Covid-19 vaccine, which has commenced trials.
+Turner believes that in time there will be a selection of vaccines available to choose from.
+"I envisage that there is a likelihood that, down the track, there will be a multitude of vaccines that potentially one could choose from."
+But with the number of global coronavirus deaths approaching one million, Silva argues the urgent priority right now is to produce a safe and effective vaccine.
+"What we need is to pursue the best vaccine, rather than necessarily worrying about whether it comes from cell lines or not."

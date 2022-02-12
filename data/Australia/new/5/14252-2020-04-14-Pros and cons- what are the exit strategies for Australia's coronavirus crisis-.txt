@@ -1,0 +1,65 @@
+Pros and cons: what are the exit strategies for Australia's coronavirus crisis?
+Physical distancing measures have had great success at reducing the rate of Covid-19 infection. So what comes next?
+Australia's physical distancing measures have had great success at reducing the rate of Covid-19 infection.
+The estimated effective reproduction number is below 1, meaning each person infected is believed to pass the coronavirus on to less than one other person on average – an important milestone to decrease the number of active cases.
+After national cabinet imposed wide-ranging restrictions on Australian economic and social life, the conversation has turned to how Australia will move from the suppression phase to what the federal health minister, Greg Hunt, describes as "the road out".
+So what are the scenarios for Australia to choose from, and what might each exit strategy look like?
+What is it: Aim for zero active cases in Australia.
+Pros:
+Fewest hospital admissions and deaths.
+A more sustainable easing of restrictions in the medium term, allowing more comprehensive resumption of economic and social life.
+Does not depend on holding out long enough to develop a vaccine.
+Cons:
+Requires maintaining the tightest possible restrictions – including bans on gatherings of two or more and venturing outside for "non-essential" purposes – at least in the short term.
+Fewer cases means fewer Australians with some immunity to coronavirus.
+Strict quarantine needed to prevent people reintroducing coronavirus from overseas.
+Who's calling for that?
+The total elimination goal is pursued by New Zealand, advocated by the Kirby Institute's infectious disease expert Bill Bowtell and the thinktank the Grattan Institute.
+Stephen Duckett, the Grattan Institute's health program director, told Guardian Australia with new local cases currently in the double digits and halving every four to five days, new cases could be down to single digits "within weeks".
+Bowtell agrees that easing restrictions in weeks is possible – but only if Australia introduces "sophisticated use of technology" – such as tracking apps – and widespread wearing of masks, as is occurring in Austria.
+Around the national cabinet table, the Victorian government has pursued this strategy by calling early for a full lockdown. On Tuesday the Victorian health minister, Jenny Mikakos, again advocated "zero cases and no community transmission".
+And the arguments against?
+The chief medical officer, Brendan Murphy, said on Monday the challenge with the strategy "is that nobody yet knows whether it's possible" because "we don't know to what extent there is asymptomatic transmission of this virus".
+Dr Kathryn Snow, an epidemiologist at Melbourne University, told Guardian Australia that – while not opposed to it – she thinks the strategy is "very, very difficult" to achieve. That's because "a lot of people simply can't isolate themselves effectively" including older and disabled people who need care, essential service workers, and people in prison, she said.
+James McCaw, a mathematical biologist and infectious diseases epidemiologist at the University of Melbourne, declined to express a view on whether the policy was desirable but noted that an estimated effective reproduction number below 1 is necessary but not sufficient to achieve elimination, which may take months.
+What is it: Reduce transmissions through physical distancing to ensure intensive care units are not overwhelmed.
+Pros:
+Reduce the number of deaths relative to a laissez faire approach.
+Allows some aspects of economic and social life to continue in the short term, using physical distancing short of a full lockdown.
+Some immunity in the population.
+Cons:
+Large-scale events would need to stay banned, including live sport, entertainment, large parties and religious services.
+Restrictions may need to be in place longer.
+Active cases may cause further flare-ups.
+Who's calling for that?
+This has been the commonwealth government's stated aim as restrictions were phased in through March, although it has also increasingly adopted the rhetoric of possible elimination.
+On Monday Hunt said the government's policy is "containment and suppression" with "this goal of effective eradication, but without ever being able to promise that any country could completely do that".
+Sorry your browser does not support audio - but you can download here and listen https://audio.guim.co.uk/2020/04/14-41600-FS_exitstrategy.mp3
+What is it: Remove restrictions on the basis the virus will infect a progressively larger share of the population until critical mass (estimated to be 60%) have some immunity to it and the virus struggles to spread further.
+Pros:
+Allows the fullest and most immediate lifting of restrictions and resumption of economic and social life.
+Cons:
+Higher rate of infection, and higher number of deaths.
+Exposes vulnerable populations including older people, immunodeficient and frontline health care workers to greatest risk.
+Who's calling for that?
+Initially an important part of the United States and United Kingdom's response to the virus, but largely abandoned after scenes of crowded intensive care units and many deaths in Europe and the US.
+The libertarian thinkthank the Institute of Public Affairs has suggested government policies responding to Covid-19 risk causing a "much bigger economic and humanitarian crisis" than the virus itself but has stopped short of calling for their total abolition, instead advocating a phased withdrawal of restrictions.
+And those opposed?
+The federal, state and territory governments through the national cabinet and almost all public health experts.
+On Monday Hunt said if it required 60% of the population to get the virus, that would be 15m Australians, making the strategy "unthinkable" if the death rate is even just 1%.
+Bowtell described the policy as a "catastrophic failure" resulting in the "charnel house" scenes of mass graves in the US.
+What is it: Aim to flatten the curve in a calibrated way by progressively lifting restrictions and reimposing them if necessary, allowing experimentation with individual states and territories able to set their own policies, including different restrictions at a regional level.
+Pros:
+A flexible approach rather than one size fits all, allowing restrictions to ease in states or regions that have successfully achieved elimination or with fewer cases.
+Provides better information about which restrictions work and which can be dispensed with.
+A phased approach will see sections of the Australian economy emerge from hibernation sooner.
+Cons:
+Greater potential for public confusion with different rules applying by state, city or region.
+Could be a stop-start process with restrictions lifted only to be reapplied.
+Who's calling for that?
+The New South Wales chief medical officer, Kerry Chant, has championed what she describes as the "zig-zag approach".
+The Australian Capital Territory chief minister, Andrew Barr, has said while he would be "surprised" if policy settings changed in April, the ACT could, subject to health advice, ease restrictions in line with parts of NSW in the "broader Canberra region".
+Duckett said a differentiated approach by state or region is "absolutely to be encouraged", citing stricter border controls imposed by Queensland, Western Australia and Tasmania.
+McCaw said experiments at a population level would allow epidemiologists to "monitor very carefully if [changes] give us the outcome we were hoping for" but warns against the "risk of complacency" if restrictions are eased.
+"Carefully and with good planning, we will navigate our way through what is spectacularly difficult decision making," he said.
+South Australia and Western Australia are considering encouraging children to resume in-person attendance at school in term two.

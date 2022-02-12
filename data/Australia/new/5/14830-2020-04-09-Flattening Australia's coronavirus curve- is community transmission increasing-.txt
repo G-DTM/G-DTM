@@ -1,0 +1,28 @@
+Flattening Australia's coronavirus curve: is community transmission increasing?
+Local transmissions have overtaken infections acquired overseas, but Australia is making 'real progress' on reducing rate
+An analysis of the latest government data on coronavirus shows locally acquired infections have outnumbered infections acquired overseas for the past four days.
+The analysis also shows the growth in locally acquired cases is slowing in New South Wales and Victoria, the two states for which detailed data is available.
+As part of our regular update on Australia's progress in flattening the curve, we're taking a look at some common questions from readers.
+The health minister, Greg Hunt, said yesterday Australia has made "real progress" on reducing the rate of infection, telling 3AW: "We've come down from over 25%, nearly 30% a few weeks ago, on a daily basis to the lower teens, to then below 10% and now below 5%."
+Despite this progress, one of the most frequently asked questions is whether local transmission is increasing. The situation has been unclear because it's been hard to access up-to-date information.
+Only two states have published data which shows the transmission source for all cases over time. Guardian Australia compiled a week's worth of data from daily media releases from the Department of Prime Minister and Cabinet.
+These media releases have figures for every state and territory, and show that new cases with a local origin have been higher than new cases with an overseas origin since 4 April. It's important to also note that a large number of cases are under investigation at any point in time, and so these figures can change retrospectively with further updates.
+A longer-term view of similar figures from NSW and Victoria shows the same recent switch, but also shows that the number of new locally acquired cases is declining.
+Professor Peter Collignon, an infectious diseases expert at Australian National University, said the data from NSW indicated if there was transmission in the community, it's at a low level.
+He said in comparison with South Korea, Japan and Singapore, Australia had kept local transmissions lower.
+"We closed our bars and pubs and museums when other countries didn't," he said.
+"We've done better than flatten the curve – we have reversed it, but I don't think it will get to zero. We have to assume there are low levels of the virus, and that there will be low levels for a while to come."
+The other two most frequently asked questions from readers were about coronavirus testing:
+Is the downward trend in daily new cases a result of a bias in our testing criteria towards travel-related cases?
+Is the downward trend in daily new cases a result of a drop in testing, or testing being at capacity?
+Testing figures compiled by covid19data.com.au and Guardian Australia indicate that the number of new tests reported per day has recently decreased in some states, such as NSW, but appears to be relatively steady, or increasing, in others.
+Testing criteria has recently been widened in some states and territories.
+Prof Allen Cheng, an epidemiologist at Monash University, said testing criteria among healthcare workers and hospitalised patients had been widened, and this would help clear the picture about the relationship with testing and local transmissions.
+"There is now reasonable test capacity, but there has been a drop in people presenting for testing, at least at our clinic," he said. "This is probably partly due to fewer cases (a lot of the drop has been attributed to lower numbers of returned travellers), but whether there may be other factors involved is not completely clear."
+Collignon said there has been a bias towards testing people linked with overseas travel. But he said this also showed that "we have that epidemic [related to travel] under control".
+He said if this bias was causing cases of local transmission to be missed, it would show up in other data and in admissions to hospital – but it currently wasn't.
+"If you look at data from NSW right now, they do plot the local transmissions and they are going down as well. If we had missed a lot, we would be seeing an exponential growth in locally acquired cases but those are either flat or falling."
+For the Department of Prime Minister and Cabinet data, total local cases are the sum of three categories: "Locally acquired – known", "Locally acquired – unknown", and "Locally acquired – interstate travel". The collated data is available here, but the original PDFs are not available online. Only media releases back to 28 March were available.
+Figures for NSW and Victoria are compiled from daily media releases, and the combined local cases number is the sum of two categories – local contact with a known case or cluster, and acquired in Australia from an unknown source.
+Australia's official reports to the World Health Organization do contain breakdowns of the place of acquisition for most cases, but there is a significant lag time to reporting.
+Please email nick.evershed@theguardian.com or australia.coronatracking@theguardian.com with suggestions or errors.

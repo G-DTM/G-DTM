@@ -1,0 +1,24 @@
+Genomic sequencing: what it is and how it's being used against Covid-19 in Victoria
+Experts in the testing science are playing an increasing role in containing transmission amid Australia's biggest coronavirus cluster in Melbourne
+The Victorian health minister, Jenny Mikakos, announced on Friday that early genomic sequencing had pointed to a "super spreader" of Covid-19 as a source for many new infections across Melbourne's north and west.
+The revelation comes after the state's premier, Daniel Andrews, also credited genomic testing for exposing an infection-control "failure" in the hotel quarantine program through late May and early June.
+While contact tracing detectives were praised for their work during the early months of outbreak, genomic sequencing experts are now playing an increasingly significant part in containing community transmission in what has become Australia's largest cluster.
+Here's what you need to know about genomic sequencing.
+Genomic sequencing analyses the virus sample taken from a diagnosed patient and compares it with other cases.
+Prior to Covid-19, genomic sequencing has been used in Australia to trace the source of outbreaks of food-borne bacteria and hospital infections.
+After a Covid-19 test (which gathers saliva from the back of the throat and nose) returns a positive result, the swab used goes through several steps to separate the RNA molecules from mucus proteins so they can be captured, then converted into DNA that can be read.
+As a virus passes from human to human, the virus changes slightly. While the genome of one Covid-19 patient compared with the person they caught it from will appear almost identical, after the virus has been transmitted onto further people, differences between the strands of the virus they carry become more apparent.
+Rory Bowden, the head of the Centre for Genomics at the Walter and Eliza Hall Institute of Medical Research in Melbourne, told the Guardian the information allowed scientists "to do detective work to understand patterns of spread of pathogens in populations".
+"The SARS-CoV-2 genome, at more than 30,000 nucleotides, is long for an RNA virus, so while there were few changes initially, there is room for quite a lot of information about each strain's history to accumulate."
+He said that by the time the virus arrived in Australia, the different changes, or mutations, of Covid-19 "define branches on a tree". Each branch of Covid-19 that exists in Australia could be linked back to China in the original instance, as well as via an outbreak in a foreign country.
+Bowden said that when Wuhan experienced the first outbreak, the genomes in the city were mostly identical.
+He said genomic testing was particularly informative for tracing the current outbreaks in Victoria, whereas earlier on in the pandemic in Australia, and in overseas countries recording higher daily totals, the methods would not be as useful.
+"With SARS-CoV-2, there are still not that many variant positions to tell different branches of the tree apart. The thing that helps us is that in Australia, most cases are linked back, through one or a few generations of transmission, to the virus imported from all around the world by returning travellers," Bowden said.
+"If all we had was community spread from a single source introduction to Victoria, it is unlikely we would be able to tell the different clusters apart."
+Benjamin Howden, who leads the public health epidemiology team at Melbourne University's Doherty Institute, is currently working with state authorities to use genomic sequencing to track Covid-19 cases.
+Howden said that as of Friday, about 80% of Victoria's cases had been genomically sequenced.
+He said bioinformaticians, who apply information technology to biological and medical research, gathered each patient's genome data and compared it against other patients in the state.
+A genomic epidemiologist then matched the historical data of each strand recorded to the patient that provided the sample.
+Matching the genomic findings to epidemiological information means authorities can tell if a new patient caught a virus from a known source of the virus, and can work to identify the point or person of transmission.
+It also means authorities can divert resources more urgently into understanding and containing a case if genomic testing shows someone has caught a strain previously only recorded in a different geographic area.
+In the case of the "super spreader" suggested on Friday, the genomic data of all of the patients infected by them would have very few variations. This is because the transmissions originated from just one person, as opposed to several people passing it along and giving a strain further chances to mutate.

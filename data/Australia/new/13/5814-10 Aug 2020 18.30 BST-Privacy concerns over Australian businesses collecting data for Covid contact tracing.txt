@@ -1,0 +1,23 @@
+Privacy concerns over Australian businesses collecting data for Covid contact tracing
+Businesses in areas where restrictions are being eased are urged to be careful about how they collect information
+Australian businesses are being warned to be careful about how they collect and store people's names and phone numbers amid privacy concerns if contact lists are left out in the open, or staff misuse the data.
+In the states where coronavirus restrictions are easing, businesses have been required to begin collecting people's names and phone numbers for the purposes of contact tracing in the event that the bar, restaurant, gym or other public facility or venue is host to a Covid-19 outbreak.
+There has been concern, however, that businesses are not being careful about how the information is being collected, and it could be used for other purposes.
+The ACT's chief police officer, Neil Gaughan, said some patrons had taken to using fake names like "Donald Duck" and "Mickey Mouse" on sign-in sheets.
+On Friday, the acting chief medical officer, Prof Paul Kelly, said putting down false names and addresses "is not going to help you and it doesn't help anybody".
+"I understand people's privacy concerns, but we're in a pandemic. And I can absolutely say that the quicker people can do that contact tracing, the better the outcome, not only for individuals but for the society in general."
+Guardian Australia has heard reports of businesses leaving a notepad and paper at the front entrance for people to sign in, visible to everyone who enters and exits. One online check-in service for restaurants in Brisbane includes in its privacy policy that people who log in using that service "expressly consent" to using the information to send direct marketing communications to anyone signing in.
+Other servicessuch as MyGuestList say the data is stored as per government guidelines, deleted when no longer required, and only accessible by the business account holder.
+What needs to be collected will depend on the state or territory directive or health order.
+New South Wales, for example, requires businesses to retain names and mobile numbers or email addresses and times of visit for at least 28 days. In Queensland, it is name, email address, phone number and time of visit. Queensland requires the data be destroyed after 56 days, and – in contrast to how some check-in services have stated the data can be used – specifically prohibits the data from being used for marketing services.
+The office of the Australian information commissioner released guidance for businesses collecting the data as part of their Covid-safe plans, which specifically recommends not keeping the information in a place where customers can see it and restricting access just to staff who need to see it.
+If the order doesn't specify how long to retain the data, the OAIC says it should be destroyed "after a reasonable period of time."
+Dr Suelette Dreyfus, researcher in digital privacy at the University of Melbourne, told Guardian Australia businesses needed to set professional standards about the use of data collected during the Covid-19 pandemic.
+"Giving over the data is not really a choice in the time of Covid-19. Demanding consumers agree to reusing their data for other purposes, like marketing, is forced consent – it's just not on," she said.
+"And by the way, it will probably make your customers not trust you very much either, and trust is important when you buy food from someone."
+Dreyfus said if people's information is being held online, it needed to be encrypted both in storage and in transmission, and access limited to only the most senior venue managers. For paper, Dreyfus said using single sheets of paper per patron, and scanning those in for encrypted storage, would also be a safe way to handle the data.
+"There are potentially more sophisticated ways to do this, but these first steps are vastly better, in privacy and security terms, than a dozen people filling in all their details on a shared clipboard sheet," she said.
+People who are concerned about how a business is handling their information should ask how it is being kept, who has access, and when it is destroyed, Dreyfus said.
+What should people do if they don't want to hand over this information? What if the venue won't let them in?
+"Helping them understand your privacy matters to you, and how they treat that privacy affects how much you as a consumer trust them and will buy from them, might alert them to something they had never considered before," she said.
+"If you're still unhappy, send a complaint to the OAIC. Perhaps with enough complaints in hand, it will provoke change."

@@ -1,0 +1,18 @@
+Confusing Covidsafe app message led people to believe they had coronavirus, documents show
+NSW health department alerted its federal counterpart after GPs and testing clinics reported visits from 'alarmed patients'
+Poor wording in an early version of the Covidsafe contact-tracing app led people to incorrectly believe they had contracted coronavirus and they turned up "alarmed" to GP clinics for testing, documents obtained by Guardian Australia reveal.
+The federal government's Covidsafe app is used to locate unknown close contacts of confirmed coronavirus cases. Once a user registers in the app, there is a section for people who have tested positive to agree to upload the data of everyone they have been in contact with for the purposes of contact tracing.
+In an early version of the app, users were presented with a message stating "You have tested positive for Covid-19" if they touched a button for uploading their data. Some users had been touching the button by accident.
+Nine News reported in April that one woman had been confused by the messaging, however emails obtained by Guardian Australia under freedom of information law show it was more widespread.
+The NSW Health department wrote to its federal counterpart in late April stating it was getting "alarmed patients" turning up to get tested at GPs and Covid testing clinics because of the message.
+"You may already be aware, but we are receiving lots of feedback from [public health units] across the state and through GPs/Covid testing clinics who are having alarmed patients present for testing, because some people are getting confused [by the message]."
+NSW Health said the concerns had been worked through individually but asked the department to make the language clearer.
+The language was subsequently updated in the next update of the app, and now states "Is a health official asking you to upload your information?"
+The documents also reveal the government was aware in early May of issues with the bluetooth beacons used in the app to record close contacts interfering with other applications, including glucose monitors for people with diabetes.
+Department of Health chief information officer Daniel Keys included the issue in a list of information provided to health minister Greg Hunt and government services minister Stuart Robert for briefing the prime minister about the app.
+The interference issue has been addressed in subsequent updates, however there still remain questions about the efficacy of the iPhone version of the app recording contacts when the app is closed or the screen is locked.
+The government's own data has shown it only working as much as 50% of the time at last report.
+Close to 7 million people in Australia have now downloaded the app. The government has yet to provide information on how many of those people continue to use it.
+The app has proved useful in New South Wales, where data has been accessed 33 times, with 14 close contacts not previously identified by manual tracing found through the app.
+For one of the cases, NSW was able to find an unrecognised exposure date from Mounties club in Sydney's west that resulted in the health department notifying 544 people at that venue at that time, and finding two more cases of Covid-19.
+In Victoria where the majority of cases in the country have occurred, the state's chief health officer Prof Brett Sutton last week would not say whether the app had been useful, but said the lockdown settings for Victoria were not right for the app because people were less likely to spend a long time interacting with people they don't know.

@@ -1,0 +1,25 @@
+Morrison government's updated Covidsafe app unlikely to improve results, experts say
+Tech community has criticised government for failing to engage on new changes given app's poor track record
+Technology experts have criticised the federal government for not using Apple and Google's contact-tracing system in an overhaul of the Covidsafe app it announced on Monday, with one cryptographer saying they would be "astounded" if the upgrade performs as well as the framework being used in other countries.
+Experts have also criticised the government for not engaging with the tech community before announcing the app's central change – which largely focuses on using a new Bluetooth protocol – given the app's poor track record since its release.
+On Monday, health minister Greg Hunt and government services minister Stuart Robert announced the Covidsafe app will incorporate a Bluetooth protocol called Herald to improve performance and help better identify potential close contacts of positive Covid-19 cases.
+The government made the code for the update publicly available on Github on Monday to allow feedback to be provided before it is released for Apple and Google devices.
+However Dr Vanessa Teague, a cryptography academic at the Australian National University, accused the government of "dumping" the central change on the tech community "without engaging on a fact-based discussion about what the options are".
+Teague said that while previously Covidsafe appeared to struggle detecting and recording some interactions, especially between different phone operating systems when the app was running in the background, the government's update does not use an Apple and Google API which moves Bluetooth communication between devices to the operating system layer.
+"I don't know whether this will improve interaction detection, it might do so a bit, but I'd be astounded if it improved recording of interactions as much as the Apple and Google option," she said.
+Teague, who is also chief executive of independent research group Thinking Cybersecurity, said it is "getting harder and harder to continue with the argument" for Australia to not adopt the Apple and Google model that has been taken up in the British, Swiss and other governments' apps.
+Teague said it was still unclear what had been causing the problems with Australia's Covidsafe app, and while the Herald Bluetooth protocol could improve some device to device issues, there may also be server problems.
+Teague noted the existing Covidsafe app framework might continue to appeal to the government because the Apple and Google approach doesn't build a central database of close contacts of confirmed cases.
+A spokesman for Robert told Guardian Australia "the Apple/Google platform puts health information in the hands of the IT companies, and is not covered by the current privacy legislation – which received bipartisan support".
+The spokesman also said the the Apple Google platform "offers less device compatibility compared to Covidsafe".
+Jim Mussared, a researcher who alerted the government's Digital Transformation Agency to flaws he discovered in the Covidsafe app earlier in the year when the code was released online, said there wasn't "conclusive" evidence the Herald changes would be more effective than using the Apple and Google system.
+"Australia is continuing to do their own thing when so many other countries have seen the light and gone with the Apple-Google system," he said.
+Mussared said while the new Herald protocol appears to be better designed, the app "still has this approach of trying to fight against the phone's operating system".
+"The approach is not designed to work in the first place, with our sophisticated way of tricking the operating system to do things you want. It's especially frustrating as Apple and Google have given us a way of solving this problem."
+Mussared said the government-released code on Monday didn't have accompanying documentation explaining the changes, and that "just publishing code and saying 'have at it' is not how you get feedback form the tech community".
+Dr Alwen Tiu, an associate professor at ANU's College of Engineering and Computer Science, said while the Herald protocol appeared to improve the information recorded about Bluetooth signal strength – a measure of distance between users – he "absolutely" supports using the Apple-Google framework.
+In announcing the upgrade, Robert said the code would also be made available internationally so other countries could use it.
+Federal officials last month told Senate estimates the app had identified just 17 people not picked up through manual contact tracing.
+Labor's health spokesman, Chris Bowen, said the app had delivered "bugger all" over the past six months.
+"After months of arrogantly telling us the CovidSafe app was working just fine, and rejecting all suggestions for improvements, now the Morrison government is starting again," he said.
+With Australian Associated Press

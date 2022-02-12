@@ -1,0 +1,18 @@
+Virus that causes Covid-19 can survive up to 28 days on surfaces, scientists find
+Researchers find Sars-CoV-2 survives longer at lower temperatures and lasts 10 days longer than influenza on some surfaces
+Australian scientists have found that the virus that causes Covid-19 can survive for up to 28 days on surfaces such as the glass on mobile phones, stainless steel, vinyl and paper banknotes.
+The national science agency, the CSIRO, said the research undertaken at the Australian Centre for Disease Preparedness (ACDP) in Geelong also found that Sars-CoV-2 survived longer at lower temperatures.
+It said in a statement the virus survived longer on paper banknotes than on plastic banknotes and lasted longer on smooth surfaces rather than porous surfaces such as cotton.
+However, the experiment was done in a dark area which negates the effects of UV light. Peter Collignon, a professor of infectious diseases at the Australian National University, said this is known to reduce the life of the virus on surfaces.
+"It is a factor, and that's why the outside is probably again safer than inside because UV light is there and the virus can be inactivated on playgrounds and things in the sunshine," he said.
+There is also significant uncertainty about exactly how large surfaces play into the transmission of the virus.
+"[The study] shows you that virus can persist … but if you ask me in the total scheme of things how important I think hands are compared to being close to people who are sick and getting it, I would say 90% of the problem and the transmission is related to being close to people who cough over you or sneeze over you or send you droplets. Probably around 10% of transmission is likely to be just hands and surfaces," Collignon said.
+"But I still think it's a good idea to wash your hands before you touch your face".
+The research, published in the Virology Journal, also found the virus lasted 10 days longer than influenza on some surfaces.
+Dr Larry Marshall, the chief executive of the CSIRO, said establishing how long the virus survived on surfaces enabled scientists to more accurately predict and prevent its spread, and so protect the community from infection.
+The deputy director of ACDP, Dr Debbie Eagles, said the results reinforced the need for good practices such as regular hand washing and cleaning surfaces.
+"At 20C, which is about room temperature, we found that the virus was extremely robust, surviving for 28 days on smooth surfaces such as glass found on mobile phone screens."
+Similar experiments for Influenza A found it survived on surfaces for 17 days.
+Further experiments were carried out at 30C and 40C, with survival times for the Sars-CoV-2 virus decreasing as the temperature increased.
+"While the precise role of surface transmission, the degree of surface contact and the amount of virus required for infection is yet to be determined, establishing how long this virus remains viable on surfaces is critical for developing risk-mitigation strategies in high-contact areas," Eagles said.
+ACDP director, Professor Trevor Drew, said the research may help explain the apparent persistence and spread of Sars-CoV-2 in cool environments such as meat processing facilities and how that might be better addressed.

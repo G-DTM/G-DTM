@@ -1,0 +1,14 @@
+Open thread: more Australians than ever are working from home, is the NBN holding up?
+NBN Co claims just 4% of fibre-to-node broadband users are not getting the legally required minimum speeds. Share your experiences
+As people continue to work and study from home, relying solely on their home internet connection, the almost-finished National Broadband Network should be making life easier, but tens of thousands are still finding the network not up to scratch.
+Data released in the federal parliament last week shows 139,963 premises were not able to get 25 megabits a second download speeds as of May this year.
+It is a requirement under law that people should be able to get 25Mbps download speeds at a minimum.
+The poor performance can be blamed on the inferior fibre-to-the-node connection those 139,963 premises use to connect to the NBN, where the use of the legacy Telstra copper line cannot sustain higher speeds due to quality of the line or interference issues.
+In answers to questions on notice from Labor, NBN Co pointed the blame at co-existence issues (where, for example, an NBN connection is sharing a network line with a traffic light or other connection that has not been switched over to the NBN).
+NBN Co has said that once these issues are resolved and network optimisation is completed, then the number should come down. It had dropped by 14,000 since May, NBN Co told Guardian Australia.
+And the company said it was about only 4% of the users on fibre-to-the-node who could not get 25Mbps, and fixing that issue was "a priority".
+Throughout the pandemic, the NBN has helped alleviate some of the congestion issues caused by everyone working and studying from home by offering free bandwidth to retail internet providers.
+While that will fix parts of the problem, the use of differing technologies in the network will continue to lead to vastly different experiences depending on where you live.
+But now with the federal government declaring the NBN largely completed, and people working from home for the past few months, has the NBN met expectations? Would you continue to work from home on the NBN if you had a choice?
+As more Australians ponder moving out of the big cities and into regional areas in a post-pandemic shift in the way we work, broadband will play a vital role in ensuring people can continue to work the same way. But is it up to scratch?
+Share your thoughts and experiences in the comments below.

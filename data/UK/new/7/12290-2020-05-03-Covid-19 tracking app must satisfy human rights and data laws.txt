@@ -1,0 +1,15 @@
+Covid-19 tracking app must satisfy human rights and data laws
+Legal report states that interference with users' privacy will require 'greater justification'
+If you would like to share your stories about testing you can get in touch by filling in the form \nbelow. Only the Guardian can see your \ncontributions and one of our journalists may contact you to discuss \nfurther.
+Legal report states that interference with users' privacy will require 'greater justification'
+The government's plan to exit lockdown through a tracking app will need detailed justification to satisfy human rights and data protection laws, a report has warned.
+A centralised system for contact tracing, which it is thought the government may well choose, would result in "significantly greater interference with users' privacy and require greater justification", the report – given as a legal opinion – concludes.
+By contrast, a decentralised system, such as the DP3T system (decentralised privacy-preserving proximity tracing), is likely to be in accordance with the law, proportionate and necessary, the lawyers state.
+On Sunday it was announced that trials of a contact-tracing app would start in the Isle of Wight this week before being rolled out more widely later this month.
+The lawyers conceded that there could be "epidemiological reasons that may support the need for a centralised system". The uncertainty as to the efficiency, uptake and utility of a centralised system would have to be addressed with sufficient evidence before its introduction could be justified.
+The opinion has been drafted by Ravi Naik, a solicitor and legal director of data rights agency AWO, Matthew Ryder QC and Edward Craven of Matrix Chambers, and Gayatri Sarathy of Blackstone Chambers. Ryder sits on the Scott Trust which owns The Guardian.
+-testing
+It is not yet known whether use of the app would be mandatory or voluntary. "A mandatory smartphone app would be a significant measure, both legally and culturally," the lawyers said. "Our view is that there would need to be a clear and detailed legal basis for a mandatory system, set out in specific legislation."
+Sharing data held by healthcare organisations and private companies to assist in combating the Covid-19 pandemic may create "a number of legal problems… resulting in potential illegality", the legal opinion says.
+"Given the nature of the data likely to be shared, the government will need to undertake a data protection impact assessment (DPIA) prior to the processing of any personal data," it adds. "The results of that DPIA should be made public. Those steps may be in progress, but we are not aware of them having been completed thus far."
+On plans for immunity certificates, the report adds: "Such a step would engage a number of fundamental rights under [human rights] and EU/UK legislation concerning the right to privacy and protection of personal data. Any proposals would require very substantial evidential justification to show that they are necessary and proportionate. We are unsure if such evidence could be provided."

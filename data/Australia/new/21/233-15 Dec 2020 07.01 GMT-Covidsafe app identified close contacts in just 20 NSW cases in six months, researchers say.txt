@@ -1,0 +1,25 @@
+Covidsafe app identified close contacts in just 20 NSW cases in six months, researchers say
+Just 21% of the 618 people infected via community transmission had the app on their phones
+Just 21% of Covid-19 patients reported in New South Wales between May and October had been using the Covidsafe app, and close contacts were identified through the app in just 20 cases, new data reveals.
+A Senate committee led by Labor has this month recommended an independent review be commissioned into the $5.24m spent so far on the development and rollout of the app, stating it "has only been of limited effectiveness in its primary function of contact-tracing".
+The government reports 7.1 million people have downloaded and registered with the Covidsafe app since April, suggesting this was about 40% of the population who could use the app on their smartphones.
+But the number of downloads does not reveal the number of people who continue to use the app, and the government has refused freedom of information requests which would reveal the number of active users.
+New data from NSW Health suggests the number using the app could be much lower than the 40% claimed.
+Two researchers from the NSW Department of Health, Jana Sisnowski and Kwendy Cavanagh, told the Australasian Covid-19 Virtual Conference this month that between May and October this year, just 21% (118) of the 618 people infected via community transmission in the state even had the Covidsafe app, and of those data was obtained from 92.
+The most common reason for not accessing the data was the patient had been in quarantine while infectious (27).
+Out of the 92 cases in which they were able to download data from people's phones, they were able to identify contacts in 65% (60) cases and close contacts in 33% (20).
+There were only four patients who had any close contacts not found through manual contact tracing, the pair said, and through that 17 otherwise undetected close contacts were identified, none of whom ended up testing positive.
+The researchers found "bad data" from the app provided false positive contacts, where there had been no physical contact with the patient.
+"There were neighbours in the same apartment buildings or nearby houses, there were office workers who worked on different floors in the case, there were people who were in different restaurants with the case, [or] that was still on the same street or perhaps a few doors down or even over the road from the case," Sisnowski said.
+"And then people who are waiting in cars that drive through Covid clinics at the same time as the case."
+The manual intervention from contact tracers was preferable to automatic notifications from the app, they said, because had automatic notifications been in place, an extra 126 people would have been told they had to isolate by the app when they did not need to.
+The researchers also said Covidsafe has had limited uptake, and because of limited use, its use should be more targeted, in cases where record keeping has been lacking for restaurants and other venues – now mandatory in NSW – or when people cannot remember where they've been.
+"More generally this is to fill in the gaps and traditional contact tracing may normally stop and that is where cases are unable to give a complete and reliable history to enable content tracing to occur," Sisnowski said.
+The researchers also found that 97% of those with the app lived in a major city, while 94% of Covid-19 patients without the app lived in regional areas.
+A Victorian parliament committee reviewing Victoria's contact tracing system this week found no evidence the Covidsafe app "was effective or contributed to supporting Victoria's public health response", despite data being downloaded from more than 1,800 users.
+The government has announced an overhaul to the app to use a little-known software adaptation called Herald designed to make it easier to capture Bluetooth communications between devices running the app.
+After the Digital Transformation Agency released the source code to GitHub for review, several members of the tech community urged the government to suspend the update, and move to the Apple and Google-developed exposure notification framework, now being used by New Zealand, citing ongoing privacy and security issues still present in the Herald update.
+The government services minister, Stuart Robert, has indicated the government is uninterested in switching to this model because it did not fit with the way contact tracing has been operating in Australia.
+"[The Apple/Google version] relies on a person who receives a notification via the ENF to voluntarily alert public health officials," a spokesman for Robert said.
+"The inherent risk is that a person does not notify public health officials ... Similarly, the ENF framework doesn't lend itself to identification of hot spots and clusters, which are of critical importance to the heath response.
+"Fundamentally the ENF is only a notification framework as opposed to Covidsafe which is a full contact tracing solution integrated with the contact tracing processes of the states and territories."

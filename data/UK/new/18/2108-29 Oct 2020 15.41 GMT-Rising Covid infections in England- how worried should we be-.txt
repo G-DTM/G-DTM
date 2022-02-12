@@ -1,0 +1,23 @@
+Rising Covid infections in England: how worried should we be?
+While there are signs that tier-3 restrictions are helping, cases are still rising in most regions
+This week there has been a dramatic change in the number of deaths caused by coronavirus in England – with dire predictions for the winter ahead.
+So what's going on?
+The latest figures from PHE showed that in week 42, ending 18 October, there were 101,887 cases, compared with 91,501 cases reported the week before. This amounts to an 11% increase, compared to a 30% increase in the previous week, and a 76% increase in the week before that.
+These figures have been revised upwards since last week due to delays in turnaround time, but they appear to show the rise in new Covid-19 cases is slowing.
+But there are important factors to consider: while national capacity for testing has increased over time, local capacity varies, which could influence the trend in some results.
+In addition, the PHE data largely reflects people who have been tested for Covid because they had symptoms: surveys from the Office for National Statistics and the React-1 study by researchers at Imperial College London involve taking samples from randomly selected members of the public, meaning they are not affected by fluctuations in testing capacity, and pick up asymptomatic cases.
+Both of these studies focus on cases in the community – so do not include hospital data – but vary in participant numbers and timing of data collection.
+Models by the MRC Biostatistics Unit in Cambridge, meanwhile, use a number of existing datasets to model infections including those in hospitals and care homes.
+All of these studies contain levels of uncertainty, but they suggest new cases are rising in most, if not all, parts of the country.
+That message is backed up by data on Covid hospital admissions and deaths, which follow a similar, albeit delayed, trajectory compared with infections.
+According to Prof Steven Riley, a co-author of the React-1 study, there is evidence of a slowing in the uptick in new infections in the north-west while the epidemic may no longer be growing in the north-east – although prevalence remains high.
+That may suggest tier 3 restrictions are having some impact – but infections are rising in most parts of the country.
+Experts say it is perfectly possible that this may happen, with the second wave more prolonged than the first.
+One reason is that unlike the first wave, when there was a national lockdown, the tiered system means infections may continue to grow in regions below tier 3. They could end up escalating through the tiers, until they reach the highest level.
+At that point, restrictions may be tight enough to reduce R, but once restrictions are relaxed, infections could climb once more. The upshot is that the tier system could act rather like a thermostat, with incidence (and therefore deaths), ending up roughly steady.
+Possibly. The MRC data suggests R is almost certainly above 1 in all parts of England, with the possible exception of London, although there has been a decrease in R over the past few weeks in most regions – but this is based on data that is, overall, less up to date than that of the React-1 study. The latter puts the R for England at 1.27-1.88, up from 1.05-1.27 two weeks ago.
+Riley said the React study found a small dip in R a few weeks ago, suggesting the difference may be down to time lags in data used by the MRC. "We only need small changes in the average behaviour to go from 1.1 to 1.6," he said, adding that just an extra one or two risky contacts per person might make the difference.
+Importantly, R remains above 1 for most, if not all, of the country. That means new infections are growing.
+The ONS and React-1 surveys are the most reliable for a snapshot of the situation, while the daily PHE data is most up to date but prone to biases in sampling. To get a true picture of the situation, it is worth considering all the data, from the different infection studies to numbers for hospital admissions and deaths. But the outlook is very concerning.
+"From our data there is a very real threat to the hospital system across the UK over the next two months," said Riley.
+Additional reporting by Niamh McIntyre.

@@ -1,0 +1,12 @@
+Watchdog reveals 8.8m attempts to access online child abuse in April
+Internet Watch Foundation blocks and filters attempts by UK internet users to access content
+Nearly 9m attempts to access child sexual abuse material online were made in the UK last month during the coronavirus lockdown, according to an internet watchdog.
+The Internet Watch Foundation (IWF), a British charity that identifies child sexual abuse content online, said it had blocked and filtered at least 8.8m attempts by UK internet users to access videos and images of children suffering sexual abuse during April alone.
+The figures come after stark warnings from law enforcement and child protection organisations that paedophiles are seeking to take advantage of the Covid-19 pandemic to search for and carry out abuse online.
+The National Crime Agency last month revealed it believes there are a minimum of 300,000 individuals in the UK posing a sexual threat to children, either through physical "contact" abuse, or via the internet.
+The IWF provides a list of child sexual abuse URLs that companies use to block and filter so that criminal content is not available through their services. Three companies that use the list helped to compile the data that revealed the 8.8m UK attempts to access child sexual abuse imagery on URLs in April.
+Susie Hargreaves, chief executive of the IWF, said: "This is the first time we have had this data made available to us and it just goes to show how important the URL list is. Without it, child sexual abuse material would have been accessed millions of times in this period alone.
+"While we have no like for like data to compare it to, the fact so many of these attempts have been blocked suggests the scale of the issue of public demand is quite staggering, and something we need to remain vigilant against."
+A notice is served to the internet user each time an attempt to access a URL on the list is made. This notice makes them aware of why they have been blocked from accessing the content.
+Hargreaves said that companies need to do more: "We need to face up to the fact there is a demand in the UK for this material. Given that this data comes from just three UK tech companies, 8.8m attempts is a conservative picture and the scale is much bigger – possibly millions more.
+"Whilst the majority of the UK's internet connections are filtered by this list, there are still companies operating in the UK which offer no such protections. If we're serious about creating a safer internet, everyone needs to step up."

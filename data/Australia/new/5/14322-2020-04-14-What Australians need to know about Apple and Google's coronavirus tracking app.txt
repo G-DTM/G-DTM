@@ -1,0 +1,25 @@
+What Australians need to know about Apple and Google's coronavirus tracking app
+Worried about your phone tracking you, or unsure whether you should sign up? Here's how the app will work
+Last week, Google and Apple announced a unique partnership to help health authorities around the world track and contain coronavirus cases with an app that will keep records of the people you've been in contact with in order to inform those people should you test positive for coronavirus.
+If you're worried about your phone tracking you, or are unsure whether you should sign up, here's what you need to know.
+In the initial phase planned for mid-May, users will be able to download an app – one from their local health authority or government agency like the Australian government's coronavirus app – and consent to being part of the program.
+The phone will send out "beacons" looking for other phones in the immediate bluetooth vicinity and record the beacon keys of the user who was in the location of the phone for a set period of time (ie 15 minutes or more).
+The beacon IDs are rotated every 15 minutes, so you never have a unique ID for your phone, and all the IDs are deleted 14 days after they are first created.
+All the beacon keys are stored on the phone, and if you test positive for coronavirus, it is envisioned that the user would then consent via a public health authority app to having all that user's beacon IDs for the last 14 days uploaded to a server.
+The server will be run by the government, but Apple and Google will offer to run it if needed. The data uploaded from confirmed cases is deleted after 14 days.
+The server would then periodically send out all positive beacon keys to every device, and when there is a match for someone who has had close contact with that person (without identifying the person who tested positive) they'll be alerted by the app that they should get tested.
+The second iteration, in the coming months, will be an update to the operating system on your mobile phone so you won't need to install an app, but you will still need to consent to be part of the program, and can switch it on or off at any time.
+The companies are working with local health authorities around the world to integrate it into specific apps, or build into new ones if needed, so it will depend on your location.
+For Australia, it's not clear at this stage whether this will be for the states and territories – which have all the data on positive cases – or the federal government with its pre-existing coronavirus app.
+Because it is using low-power bluetooth and won't require the app to be running all the time it shouldn't be a massive drain on your battery.
+No. The only data collected from the app is the user keys of people you've been in contact with, and it only leaves your phone if you test positive (and deletes after 14 days).
+Apple and Google have argued that the best way to get as many people as possible to use it is to be as transparent as possible about what is being done, and have the consent of users taking part.
+By limiting the data collected off the phone, only sharing data with user consent, and not having any directly personally identifiable information, they've argued that there isn't any concern about mass surveillance in this system.
+Apple and Google also retain the ability to cut off regions at once if it is being misused.
+Not directly through the app, because it doesn't collect location information.
+The government could identify hotspots through those people testing positive then informing them about where they have been in the past 14 days and matching up with other confirmed cases.
+In the initial stages that will depend on the compatibility of the app being used by health authorities. The later operating system version will likely work on most devices.
+Apple and Google have said, given the high proportion of iOS and Android users across the world, for the app to be effective, it would need around 50% of users to take it up.
+It's not difficult to envisage a scenario where the government, in beginning to ease up the restrictions on the population, requires people to have the app installed on their phone and switched on in order to go out.
+Apple and Google have not said specifically whether they would stop governments from doing that, but have said that gaining user trust is key to it being effective, and getting as many people on board would be easier to be as transparent as possible about how it works, and to use informed consent for people to participate.
+They say it has only been in the past two weeks that the two biggest rivals in mobile phones have partnered up for this project.

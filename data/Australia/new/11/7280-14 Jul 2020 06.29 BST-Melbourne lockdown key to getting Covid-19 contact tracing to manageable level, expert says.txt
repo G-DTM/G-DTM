@@ -1,0 +1,33 @@
+Melbourne lockdown key to getting Covid-19 contact tracing to manageable level, expert says
+Victoria struggles to cope with around 5,000 contacts of people who tested positive for coronavirus in the second spike
+The second lockdown in Melbourne will be key to getting contact tracing to a manageable level, an epidemiologist has said, as Victoria struggles to cope with around 5,000 contacts of people who tested positive for coronavirus in the second spike.
+Victoria has seen over a week of triple-digit daily case numbers of coronavirus reported, largely in the Melbourne and Mitchell shire areas.
+The state has around 1,000 contact tracers working to identify those who people who have tested positive have been in contact with. Now with more than 1,800 active cases as of Tuesday, it becomes much harder for contact tracers to track down large numbers of contacts, Prof Catherine Bennett, the chair in epidemiology at Deakin University, told Guardian Australia.
+"Melbourne is really challenging because you now have so many clusters and without knowing how those clusters are connected, once you go from your primary case which seeds a new cluster, and you've already got secondary cases before you know that cluster," she said.
+Bennett said it leads to an exponential workload around contact tracing that has to be repeated across the clusters. In closed contexts such as nursing homes, it is easier to identify those contacts, but given Melbourne's relaxed restrictions in the weeks leading up to the second lockdown, it is harder to trace.
+"They themselves said that we're probably getting close to what we know we might call a tipping point, where you can't maintain the same level of follow-up time and patience to build rapport with patients to help them really think through their context and to get reliable complete information to build trust even," she said.
+This is why the second lockdown will help, not only bring the numbers of cases down, but the number of contacts, too.
+"What it does is it makes any other outbreaks particularly outside the areas of concentration, the hot zones, more manageable.
+"So not only if you've got someone who's had the virus. Unbeknownst to the health department, are they now at home, they're really watching their close contacts. If they do get tested with symptoms, their contact circle is really small, and it's manageable."
+The Victorian chief health officer, Prof Brett Sutton, said on Monday that contacts were still being followed up despite the high number of cases making the workload much bigger.
+"Our team are doing gold work. They really are. We are following up every single case … it is an extraordinary volume of work ... we haven't given up on contact tracing."
+The Victorian Department of Health and Human Services told Guardian Australia in a statement it was relying on interstate help for contact tracing, but couldn't say exactly how many were helping or whether they would stay.
+In the case of New South Wales, given the cluster of 28 cases so far has been linked to the Crossroads hotel in Casula, Bennett said it would be more manageable than what Victoria has been dealing with.
+A spokeswoman for the NSW health department said its 150 contact tracing staff could be redeployed back to NSW to priority clusters.
+"We are also building our workforce by establishing a casual pool to surge if needed," she said.
+NSW health officials had interviewed 200 positive cases in the past five days, and the contact tracing team is expected to contact up to 800 close contacts of those cases.
+"NSW Health employs 150 contact tracing staff who are trained on how to make calls, strategies to deal with difficult conversations and techniques for self-care. They also undertake database training and receive on-the-job mentoring. Staff work in small teams run by team leaders, who are accountable to a director."
+Bennett said contact tracing couldn't be automated, and the human element was key, even if mistakes could happen, such as the inadvertent data entry error that resulted in some in isolation in Victoria being told they could leave prematurely.
+"Because it's run by people and you can't automate this to make it perfect. Having people involved who are experienced in it is really critical, because they have to build the rapport with the person, they have to stop the person being fearful and just know what they need to do and watch what's going on," she said.
+"You might get a little bit of human error as trading it off to get the effective engagement with the cases because that's what makes it work."
+The Covidsafe contact tracing app, sold by the prime minister, Scott Morrison, as like "sunscreen" to protect from coronavirus, was launched in an effort to supplement the work done by contact tracers, and locate contacts not able to be identified through existing manual methods.
+Despite more than 6.5m downloads of the app since it launched in April, no unknown contacts have been identified using data from the app.
+The Victorian department of health said it had now downloaded data 285 times, and Sutton said that had not identified any additional contacts.
+Sutton said the Crossroads cluster – where a lot of people who would not know each other could have been in close contact – would be a good use for the app.
+NSW Health reported downloading data a dozen times with no close contacts identified.
+"We have not identified any close contacts who would not also have been picked up by manual contact tracing," the spokeswoman said.
+Labor's health spokesman, Chris Bowen, told Nine News the app was a "$2m failure".
+The main issue with the app is the iPhone version struggles to record contacts with other phones when the screen is locked – an issue that can be fixed if the government switched to the Google and Apple implementation of contact tracing technology, referred to as the exposure notification framework.
+The government services minister, Stuart Robert, said last week that while Google and Apple retain control of some of the functions of the app, including the ability to kill whether it works at all, Australia wasn't on board.
+Robert said Google and Apple have a "moral responsibility to ensure that signal strength is also provided to all sovereign nations who've chosen a sovereign app locked in with their public health officials".
+Several countries, including the UK and Ireland, are moving to the Google-Apple framework. Ireland launched its own version last week and achieved 1.1m downloads in 48 hours since it launched.

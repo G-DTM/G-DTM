@@ -1,0 +1,46 @@
+Coronavirus apps: how Australia's Covidsafe compares to other countries' contact tracing technology
+Here's what we know about the apps being rolled out around the world to limit the spread of Covid-19
+As countries around the world try to figure out the best way to limit the spread of coronavirus, many are considering some form of contact tracing app. But the methods and level of privacy intrusion vary widely.
+Here's what we know about how apps are being rolled out in various countries.
+Last weekend Australia released Covidsafe, an app that collects, via bluetooth, records of other people with the app who have been in close proximity within the past 21 days.
+Aside from registration data, the information remains on the phone until a user who tests positive to Covid-19 consents to upload it. The data can then be used to trace the contacts of the infected person.
+The Australian model has attracted criticism because of the amount of data held by the federal government, even though the government has stressed only state health officials will have access to it.
+More than 3.5 million people downloaded the app in the first five days following its release. Uptake is voluntary, but the prime minister, Scott Morrison, has said "millions more" will be needed. He said uptake of the app would inform discussions in national cabinet about easing restrictions.
+Australia's app is based on Singapore's, and the two work largely in the same way. It has had around 20% take up, but since its launch at the start of April, the number of coronavirus cases has gone from just over 1,000 to more than 16,000.
+The iPhone version of the app had many negative reviews on the app store because it didn't function when it wasn't the open app on a user's screen.
+Australia made some changes designed to overcome this problem, but the app still needs to be running in the foreground in order to work.
+Australia's closest neighbour has contained coronavirus better than most parts of the world.
+As New Zealand begins to come out of its hard lockdown it will launch a contact tracing app, but how it will work is unclear.
+Radio NZ reports it will update people's details with the department of health so they can be contacted, but beyond that very little is known at this stage.
+The report suggests QR codes could be used to allow people into venues and restaurants.
+China's app is much more strict than in many other countries. Not only is it mandatory, and tied to your identification, but it governs where you can go, using QR code scanners and colours to determine whether the person identified is clear (green), amber (needs to isolate) or red (a confirmed case or close contact of a confirmed case).
+People need the app to travel and gain entry to venues as restrictions have been eased.
+Associate prof Jie Huang, an international law expert at the University of Sydney, said the app had been successful for China.
+"This is typically portrayed in a negative light in Australia," she said.
+"However, undeniably, Chinese digital surveillance by mobile apps has helped China to successfully manage and constrain the Covid-19 pandemic in a short period of time.
+"Considering the large population in China and the consequent difficulty in contact tracing, Australia may draw useful perspectives from lessons and insights from the Chinese experience."
+India's version of the bluetooth app is called Aarogya Setu. The country is further ahead in rolling out its app, and take-up in a month has been around 75 million at last reporting – still just a fraction of India's 1.35 billion population.
+The app is not compulsory except for government workers, but the government is now looking to make it a requirement for new smartphones.
+Another major hurdle facing the government is that more people in India still use feature phones (such as the old Nokias) on 2G than smartphones (450 million versus 550 million).
+The Indian IT minister, Ravi Shankar Prasad, said on Twitter the government was working to make something that was compatible for feature phones.
+The UK is following a similar route to Australia and Singapore and adopting a bluetooth-style contact tracing app in the next few weeks.
+Unlike the Australian and Singapore model, however, the UK app will allow the public to report their symptoms and order a swab test through the app.
+There is no country-wide effort for a national contact tracing system in place yet. However, two US companies, Google and Apple, have been leading the charge to have their decentralised, bluetooth tracing functionality embedded in many of the world's apps.
+Italy, Germany and Austria are all adopting apps that use the Google-Apple functionality, but the European Union has called for strict rules to ensure privacy. Switzerland, not an EU member, is on a similar path.
+"Contact tracing apps to limit the spread of coronavirus can be useful, especially as part of member states' exit strategies," said Thierry Breton, the EU commissioner for the internal market. "However, strong privacy safeguards are a prerequisite for the uptake of these apps, and therefore their usefulness.
+"While we should be innovative and make the best use of technology in fighting the pandemic, we will not compromise on our values and privacy requirements."
+France is reportedly going for a more centralised version, closer to the Australian and Singapore models.
+There is also a separate push for Pan-European Privacy-Preserving Proximity Tracing (PEPP-PT) to enable EU countries to develop an app that could allow users to cross national borders.
+Israel initially attempted to do contact tracing by tracking the movements of people with coronavirus by their phone location, but the supreme court ruled it needed legislative backing.
+Israel also has an opt-in app that records GPS and wifi information and compares it to positive test results to inform people they may need to be tested.
+South Korea uses a combination of phone location data, CCTV footage and electronic financial data to track confirmed coronavirus cases, then makes this information public.
+While South Korea has now reported no new cases, thanks to extensive testing and tracing, concerns have been raised about how much information has been obtained and made public.
+Justin Fendos, a professor of cell biology at Dongseo University, reported a couple allegedly engaged in an affair were found by people looking at the data.
+The main disagreement between proponents of the non-compulsory apps is over whether the data is held by the government, or whether it remains with the users.
+Richard Buckland, an engineering professor at the University of NSW, said more paternalistic governments like Australia liked to retain that control.
+"The centralised approach means the government can make sure it happens, otherwise you have to trust people to act on this information" he said.
+In the decentralised model, only those who have been close contacts of those who have tested positive know, whereas in the centralised approach, the government can get an idea of who all those people are, even if the information is restricted to health officials engaged in contact tracing.
+No country can claim the app itself as the reason for any success in slowing the spread of coronavirus, because none has been running long enough, Buckland said.
+"To be honest, we might never know," he said.
+"We will either be in world A or world B and we will never be able to compare the data between world A or world B.
+"It'll be very hard to answer questions about how impactful it will be, but clearly it won't be worse than not having it."

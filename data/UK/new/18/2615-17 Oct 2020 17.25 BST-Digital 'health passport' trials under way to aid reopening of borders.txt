@@ -1,0 +1,20 @@
+Digital 'health passport' trials under way to aid reopening of borders
+CommonPass aims to create common standard proving a traveller is Covid-free or vaccinated
+A new digital "health passport" is to be piloted by a small number of passengers flying from the UK to the US for the first time next week under plans for a global framework for Covid-safe air travel.
+The CommonPass system, backed by the World Economic Forum (WEF), is designed to create a common international standard for passengers to demonstrate they do not have coronavirus.
+However, critics of similar schemes point to concerns over the sensitivity and specificity of the tests in various countries amid fears over greater monitoring over people's movements.
+Paul Meyer, the CEO at the Commons Project, which was given startup funding by the Rockefeller Foundation two years ago and created the digital health pass, said countries that have closed borders and imposed quarantines are looking for ways to "thoughtfully reopen" their borders.
+"It's hard to do that," he told the Guardian. "It requires being able to assess the health of incoming travellers … Hopefully, we'll soon start to see some vaccines come on to the market, but there is not going to be just one vaccine.
+"Some countries are going to probably say, 'OK, I want to see documentation you've gotten one of these vaccines, but not one of those vaccines'."
+Pointing to existing requirements in a number of countries, notably paper-based evidence of a yellow fever vaccination, Meyer said similar proof – held digitally – for coronavirus could soon be required to travel for "the foreseeable future".
+He added: "This is about risk mitigation. There is no perfectly safe solution. This is about providing information that can help countries reduce the risk of it spreading."
+The trial will apply for passengers flying from Heathrow to Newark, US, on a United Airlines flight on Wednesday.
+Tests from the private testing company Prenetics will be administered by the travel and medical services firm Collinson in Covid-19 testing facilities set up with Swissport. It follows a pilot by Cathay Pacific on flights between Hong Kong and Singapore.
+However, the test used generally in the UK is not a test of infectiousness, experts have said, as it does not distinguish between those who have the virus and are infectious and those who are no longer infectious. There have been many false results as a consequence.
+There is also suspicion that such schemes could provide a way in to greater monitoring of people's movements and health statuses, a paper published in the Lancet on Friday said. However, it added, they can facilitate safer movement and the privacy concerns are neither unique nor insurmountable.
+CommonPass confirms a traveller's compliance with US border requirements after a test at the London airport up to 72 hours before travel along with the completion of a health screening questionnaire.
+A QR code that can be scanned by airline staff and border officials is then produced in the event of a negative test. The process of securing a refund for the flight after testing positive was unclear. CommonPass will be paid by airlines for the service.
+Most arrivals to the UK currently have to quarantine for a fortnight, with only around 45 countries on the country's quarantine-free "travel corridor" list.
+Mark Burgess, process improvement director at Heathrow, told the Times: "For some time now Heathrow has been calling for the creation of a common international standard and cross-border pilots as these could help governments across the world and the industry to unlock the benefits of testing in aviation."
+A Department for Transport spokesperson said: "The government is working at pace with industry to identify and implement options to reduce the self-isolation period through testing while protecting public health.
+"We are consulting closely with partners from the aviation, travel, healthcare and testing sectors as well as the devolved administrations to develop measures as quickly as possible to support the recovery of the travel sector."

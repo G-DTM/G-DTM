@@ -1,0 +1,21 @@
+Serco accidentally shares contact tracers' email addresses
+Outsourcer apologises for leaking details of 296 people assisting UK's Covid-19 fight
+The outsourcing company Serco accidentally shared the email addresses of almost 300 contact tracers recruited to assist in the UK government's coronavirus "test, track and trace" strategy.
+The email addresses were shared when Serco was contacting new recruits about training.
+Contact tracing is one of the most basic planks of public health responses to a pandemiclike the coronavirus. It means literally tracking down anyone that somebody with an infection may have had contact with in the days before they became ill. It was – and always will be – central to the fight against Ebola, for instance. In west Africa in 2014-15, there were large teams of people who would trace relatives and knock on the doors of neighbours and friends to find anyone who might have become infected by touching the sick person.
+Most people who get Covid-19 will be infected by their friends, neighbours, family or work colleagues, so they will be first on the list. It is not likely anyone will get infected by someone they do not know, passing on the street.
+It is still assumed there has to be reasonable exposure – originally experts said people would need to be together for 15 minutes, less than 2 metres apart. So a contact tracer will want to know who the person testing positive met and talked to over the two or three days before they developed symptoms and went into isolation.
+South Korea has large teams of contact tracers and notably chased down all the contacts of a religious group, many of whose members fell ill. That outbreak was efficiently stamped out by contact tracing and quarantine.
+Singapore and Hong Kong have also espoused testing and contact tracing and so has Germany. All those countries have had relatively low death rates so far. TheWorld Health Organizationsays it should be the "backbone of the response" in every country.
+Sarah Boseley<i>Health editor</i>
+"An email was sent to new recruits who had given us their permission to use their personal email addresses," a spokesperson for the company said. "In error, email addresses were visible to other recipients. We have apologised and reviewed our processes to make sure that this does not happen again."
+Serco has said it is not intending to refer itself to the Information Commissioner's Office (ICO) over the incident.
+One newly recruited contact tracer said he had received the email from Serco. "It was clearly a case of BCC and CC not being used properly," he said. "A friend of mine who is also doing the same thing said he got an apology email saying the breach was deemed low risk, but I've not received one. It did worry me a bit since this is the company that is supposed to be handling the data of the population."
+The government has hired 21,000 contact tracers with the aim of reducing the spread of coronavirus by identifying people who have been in recent contact with someone with symptoms.
+By alerting other people that they are at risk of infection, they can take protective measures sooner, such as self-isolating. It is a system used in countries such as Germany and South Korea.
+The justice secretary, Robert Buckland, told BBC Radio 4's Today programme that it was right for Serco to apologise. "It brings into stark relief the importance of privacy about confidentiality which underpins all of this," he said.
+"With the app being developed as well, the government has got that issue of privacy very much in mind in making sure that we can have maximum confidence, because these systems will only work if we get a significant part of the population taking part."
+Serco is among the companies that are recruiting, coaching and managing contact tracers who do not have clinical training.
+Radio 4 reported that the mistake could leave the company in breach of data protection rules and how at least one member of staff had raised the issue with the ICO.
+The 296 email addresses were revealed when a member of staff at Serco wrote to trainees asking them not to contact the helpdesk if they had questions about training.
+The staff member put their email addresses in the CC section of the email, instead of the the blind CC section, which meant every recipient was able to see fellow recruits' addresses.

@@ -1,0 +1,18 @@
+Coronavirus: the graphs that show how Australia is containing the pandemic
+New modelling suggests Tasmania the only state defying national trend, but researchers advise caution in interpreting numbers
+Each individual infected with Covid-19 in Australia is passing it on to less than one person on average, new government-backed modelling suggests.
+The effective reproduction number – an important part of tracking the spread of the disease – is likely below one in all states except Tasmania, as of 5 April.
+If it is kept below one, the epidemic is estimated to be in decline, but if it is above one, the epidemic is estimated to be growing, a paper published by the Doherty Institute explains.
+Researchers caution that these estimates are averaged across the whole of each state, so there may well be a higher figure in some areas and lower elsewhere.
+In Tasmania, the figure is estimated to be above one. But this should also be interpreted cautiously because there has been only a small number of cases in the state, and a large relative increase recently reported in the north-west. There were 32 cases reported in Tasmania between 10 and 12 April.
+Professor Jodie McVernon, the director of Doherty Epidemiology, told reporters in a briefing that the team's findings "indicate that the local Covid-19 epidemic is currently in decline".
+"Our estimates show that for every 10 people infected today, there are another five people infected," she said. "If the public health and social distancing measures weren't in place, it could have been 25 people infected."
+The paper said a reproduction number of 2.68 was estimated for the early epidemic phase in Wuhan, China, in the absence of public health interventions and assuming that the population was completely susceptible to infection.
+Some of the estimates excluded the Australian Capital Territory and the Northern Territory because of insufficient local transmission.
+Professor James McCaw, an infectious diseases epidemiologist at the University of Melbourne, said the modelling methods helped decision-makers understand the current dynamic, but did not replace the need for local surveillance and public health measures.
+"This virus has a habit of surprising us," he said. "It's very hard to predict it as far into the future as we'd like to."
+Researchers also estimated what share of people who have Covid-19 and are showing symptoms were being detected under Australia's testing regime.
+As of 9 April, researchers estimated the symptomatic-case detection rate for Australia was 93%. When broken down by state and territory, the estimate for each jurisdiction was greater than 80%.
+Australia's chief medical officer, Brendan Murphy, said on Thursday the high detection rate showed the country's testing and surveillance regime was highly effective.
+But he noted that Australia still had people who had "suffered greatly" with the disease. The country so far had recorded 6,457 cases of Covid-19, including 63 deaths. Currently 42 people were on ventilators, Murphy said.
+Scott Morrison told reporters on Thursday the nation still had "a difficult road ahead of us at this point, despite the successes that Australians have achieved in the weeks that we have just gone through".

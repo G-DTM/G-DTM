@@ -1,0 +1,21 @@
+Covid safe: Australian government launches coronavirus tracing app amid lingering privacy concerns
+The Covidsafe tracking app is part of the government's strategy to identify, trace and isolate as it looks at life beyond physical distance restrictions
+Australians can now download the government's controversial coronavirus contact tracing app, Covidsafe, amid ongoing concerns about privacy of those using the app.
+The app, based on source code from Singapore's Tracetogether software, maintains a log of bluetooth connections a person's phone makes with the phones of those they have come into contact with, making it easier for health authorities to trace potential Covid-19 carriers in the case of a positive diagnosis.
+For the app to be successful, just under half the population would need to carry it on their phones.
+From 6pm Sunday, users will be able to go to the Apple app store or Google Play store and install the app, and register their name, phone number, postcode, and age range.
+Scott Morrison, after saying it was not his "preferred option", confirmed downloading the app would not be mandatory, and instead has likened it to a civic duty, such as buying war bonds in the second world war. He also flagged it as a necessary step to relaxing restrictions.
+The app will store 21 days of data of people you have come into contact with, and the data will be held on your phone in that time.
+It is only uploaded to a government server, housed in Australia and run by Amazon, in the event that you test positive for coronavirus, and then consent for your log to be uploaded to the server.
+Health officials in each state and territory will then be able to access the list of contacts to then call those people and inform them they need to isolate and get tested.
+Health minister Greg Hunt has published a determination that prevents the data being used for other purposes, including for law enforcement purposes or court orders, and the data must be held within Australia. He said legislation would be introduced in parliament in May to back this determination up.
+Along with the app's release, the government has published a privacy impact assessment, and has said the source code will be released subject to Australian Signals Directorate giving it the go ahead.
+The Law Council of Australia president, Pauline Wright, has previously urged the government to sign up to a series of "core design principles" for the app, to ensure privacy would be safeguarded.
+She said in a statement: "The series of core principles include clear governing laws and administrative frameworks, adoption of a voluntary 'opt-in' model, limitations on the collection of users' personal information, a prohibition on any secondary use or disclosure of information collected by the app, security of personal information, and limited use of de-identified information for specified public health purposes, amongst others."
+Home affairs minister Peter Dutton, who has recently recovered from the coronavirus after contracting it during a visit to the United States, also flagged stronger biosecurity measures at Australian airports, once international travel is permitted to resume.
+His department came under scrutiny for how it handled airport arrivals once Australia had declared a pandemic, before the borders were closed to international travellers.
+While not addressing those concerns, Dutton said home affairs would examine additional biosecurity measures it could put in place to check the health of arriving passengers, once travel restrictions were lifted.
+"In this downtime, we can look at some of the emerging technologies [in how we can assess] if people are healthy or not," he said, while admitting there were "massive limitations".
+Australia's border closure was put in place for at least six months while the world waits for a vaccine for the coronavirus, but the prime minister has said he would like Australia to "reconnect" with New Zealand as soon as possible.
+New Zealand has embarked on an ambitious eradication regime, with stricter lockdowns in place in an attempt to eliminate Covid-19 from the country completely.
+Australia's suppression strategy has succeeded to the point where eradication of the virus is being touted as a potential outcome, with both countries optimistic, but hesitant, to re-start trans-Tasman travel any time soon.

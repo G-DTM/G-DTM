@@ -1,0 +1,14 @@
+Scientists work on nasal spray that could stop Covid virus replicating
+Substance has had promising results in ferrets, with hopes it may reduce transmission
+A nasal spray is under development that could nip a coronavirus infection in the bud, with promising results already seen in ferrets, researchers have revealed.
+With coronavirus infections surging around the world, the race is on to develop a vaccine. But researchers are also looking for other ways to tackle Covid-19.
+Now scientists have released the results of initial work on a drug-like molecule they say interacts with cells in the nasal cavity to activate the body's innate immune system.
+While immune responses triggered by vaccines involve the generation of antibodies and T-cells geared towards particular pathogens, the innate immune system responds to a wide range of microbes.
+"It kicks in like a defence shield, which is broad-spectrum and non-specific," said Roberto Solari, a visiting professor within the infection in airway disease research group at Imperial College London and an adviser to the Australian biotech company Ena Respiratory, which is developing the drug-like molecule for use in a nasal spray.
+Solari added that by triggering the innate immune system this substance, called INNA-051, activates a number of processes including the release of signalling proteins called cytokines, which stimulate mechanisms that stop the virus replicating inside cells.
+In a study that has yet to be peer-reviewed, the team behind the research, which includes scientists at Public Health England, revealed how they administered INNA-051 into the noses of three groups of six ferrets, in various doses, while a fourth group of six ferrets was given a placebo. Ferrets are an important animal model for Covid-19.
+The day after administering a second dose of INNA-051 or placebo, the team exposed the ferrets to the virus that causes Covid-19, and the animals were monitored for 12 days via nasal and throat samples.
+Five days after the ferrets were exposed to the coronavirus, the quantity of viral RNA – the genetic material of the virus – recovered from throat swabs was reduced by 96% among those given INNA-051 compared with those given the placebo.
+Toxicology studies and human trials are now needed to explore whether INNA-051 is safe and effective against the virus in humans.
+Solari, who is not an author of the work, said a nasal spray based on INNA-051 could be used a couple of times a week as a preventive measure, starting in the most at-risk groups such or healthcare workers or where an outbreak occurs.
+"The hope is that it will reduce the duration and severity of the symptoms and if you reduce the number of viral particles in the nose, the hope is that it would reduce transmission – although they haven't done those studies yet," said Solari.

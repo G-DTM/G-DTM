@@ -1,0 +1,33 @@
+Planes, ships and hotel quarantine: how Australia is tracking where Covid cases come from
+Data provided to Guardian Australia by NSW, Victoria and Western Australia offers important insights into Covid-positive returning travellers
+Australians have become accustomed to the daily announcements of new Covid-19 cases. Although the majority of those cases – bar Victoria – have come through returning travellers from overseas, little has been known about Covid-positive cases that have passed through hotel quarantine, and how governments are tracking the origins of these cases.
+But data provided to Guardian Australia by three states – New South Wales, Victoria and Western Australia – offers some important insights into Covid-positive returning travellers.
+The states each provided data from 29 March, when the travel restrictions were introduced, to 19 October, revealing that they were indeed monitoring countries-of-origin where returning travellers may have contracted the virus.
+Data from NSW Health shows the majority of 873 Covid-positive travellers who arrived in the state were returning Australian nationals.
+Of those, 110 (12.6%) began their journey in Pakistan, 94 (10.8%) in the US, 93 (10.7%) in India and 75 (8.6%) in the UK. A further 125, or 14.3%, of overseas-acquired cases in NSW had been on a cruise ship.
+A NSW Health spokesman said Australia had introduced "some of the most effective pandemic quarantine measures in the world".
+"Hotel quarantine is a difficult but necessary safety measure," he said.
+Victoria was the only state of the three not to provide specific data on the originating countries of returning travellers, but it did reveal that 236 cases had been diagnosed among those placed in hotel quarantine – the most recent case on 6 July.
+In June, the Victorian premier, Daniel Andrews, asked the federal government to divert all international flights away from Victoria following catastrophic infection control failures in the program that sparked the state's second wave. That left NSW as the state accepting the majority of international flights.
+WA Health provided the most comprehensive data to Guardian Australia out of the states approached.
+A WA Health spokeswoman said that out of 420 Covid-19 cases detected in international travellers entering to the state, 293 were linked to ships.
+"However, only the more recent bulk cargo vessels and Artania cruise ship docked in WA, accounting for 153 cases (81 were from the Artania which docked in Fremantle back in March)," the spokeswoman said.
+"The remainder acquired their infection on cruise ships that docked elsewhere (eg Ruby Princess in Sydney), then came to WA by air."
+Of plane arrivals, the vast majority of people flew in from major transit hubs in Qatar and the United Arab Emirates, but the spokeswoman said any Covid-positive traveller would have likely "come from somewhere else where they had likely picked up their infection".
+"The department also records the most likely location of acquisition."
+The data for the top five countries where travellers to WA likely acquired Covid-19 show 51 were infected in the UK, 13 in Afghanistan, nine in Canada, nine in Indonesia and nine in the US.
+While it is presumed most returned travellers acquire their infections before boarding the flight, staff from WA Health contributed to a study led by the University of Notre Dame in Fremantle, which examined, using genomic sequencing, whether passengers on a five-hour flight from Sydney to Perth acquired their infection on the plane, or prior to travel.
+The flight contained several passengers who had disembarked from cruise ships that had recently docked in Sydney.
+"A total of 64 passengers on the flight had or later experienced an illness compatible with Covid-19," the study found.
+Eight of those cases were considered "flight-associated" while a further three were possibly flight-associated, the study found.
+The analysis of travellers on the flight "builds a strong case for flight-associated transmission," the paper concluded.
+"On the flight described, passengers with flight-associated infection spanned nine rows and were on opposite sides of the airplane," the paper found.
+"Second, most of the secondary infections were in persons seated at the window, two of whom denied ever leaving their seat during the flight. This finding was unanticipated given the widely held view that persons in window seats are at lower risk for exposure to an infectious pathogen during flight."
+The infectious diseases physician Prof Peter Collignon said it was important for travellers to not fly if unwell and to wear masks, and for airlines to have stringent hygiene protocols in place.
+But he said it was time for the federal government to adopt a more nuanced approach to hotel quarantine and international travel. Collignon believes returned-traveller data should be scrutinised regularly because high-risk countries change over time, and that it was a waste of resources to quarantine every international traveller.
+"There is a higher risk at the moment of travellers from the US, UK and Europe carrying the virus, with about 2% of those travellers testing positive," Collignon said.
+"But I think the reality is we need more travel bubbles with more countries than just New Zealand. It has to be in places with low transmission like Taiwan and Singapore, and that data should be checked and updated a couple of times a week. And we should still test all travellers when they arrive.
+"But I think quarantining people whose risk is minimal is a waste of time and resources, and it limits the number of people you can allow to return to Australia and quarantine."
+Collignon believes the blanket quarantine policy was necessary at first, when little was known about the virus and its spread.
+"But now it seems disproportionate to quarantine everyone," he said. "The government needs to make more realistic assessments of risk. Yes, risk will change over time, so we need to be vigilant, but we can't become a hermit nation for the next five years."
+The Queensland health department was unable to provide the requested data by deadline.

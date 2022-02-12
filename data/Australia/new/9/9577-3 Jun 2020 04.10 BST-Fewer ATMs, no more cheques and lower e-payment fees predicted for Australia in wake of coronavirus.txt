@@ -1,0 +1,18 @@
+Fewer ATMs, no more cheques and lower e-payment fees predicted for Australia in wake of coronavirus
+Reserve Bank says societal shifts around shopping amid pandemic likely to become 'permanent change in behaviour'
+A world without cheques, fewer ATMs and a regulatory push to lower electronic transaction fees as fewer people use cash are some of the likely impacts of Covid-19 on payments, the Reserve Bank has said.
+RBA assistant governor Michele Bullock told a Morgan Stanley disruption conference on Wednesday that cash was now the payment method for just 25% of transactions, or around 10% of their value.
+The long-term decline of cash has been accelerated by merchants and consumers concerned about hygiene during the Covid-19 pandemic, with many putting up signs asking for card payments or rejecting cash altogether, she said.
+As shoppers flocked instead to online shopping, where cash was not an option, ATM withdrawals in April were down 30% from the month before and more than 40% lower than the year before.
+Bullock said it was "likely that a large part of this will become a permanent change in behaviour" and add to pressure on banks to reduce the number of ATMs in their networks – a consolidation that will be "more urgent" and occur "more quickly" as a result.
+But Bullock said there was "still a significant minority of the population that continue to use cash for face-to-face payments".
+"While a third of survey respondents did not use cash for any payments, around 10% used cash for all their payments. Cash users tended to be older or people on lower incomes."
+Bullock said the reduction in ATMs would have to be managed to prevent disadvantaging those remaining cash users. It was now "more important than ever that we ensure competitive pressure remains on the costs of electronic payments to merchants".
+Merchants would likely grapple with payment providers by threatening to apply surcharges if they did not lower their fees, and would need "least-cost routing" such as access to Eftpos.
+Bullock said the RBA had so far "not mandated" providers offer least-cost routing to all merchants but it "remains an option" under consideration, as well as improving transparency of payment plans.
+"But ultimately, if banks or other stakeholders are acting in ways that prevent downward pressure on merchant fees, we may need to consider regulatory options for keeping the cost of electronic payments low."
+Bullock said banks were considering closing the cheque system because electronic conveyancing was now the norm and there were few remaining uses of cheques.
+Covid-19 had led to banks encouraging their remaining customers without internet banking to sign up, which "may bring the efficiency implications of maintaining the cheque system into even sharper focus".
+Bullock said that "the shift to electronic is perhaps not as difficult as many had thought", citing outages in banks' electronic payments system as one of the pitfalls.
+With so few shoppers carrying cash, disruptions forced people to "leave goods at the counter" and merchants had "to close until the systems were restored".
+Bullock said the sector must "identify and mitigate risks of reliance on supporting infrastructure that can be single points of failure, such as the telecommunications and energy sectors".

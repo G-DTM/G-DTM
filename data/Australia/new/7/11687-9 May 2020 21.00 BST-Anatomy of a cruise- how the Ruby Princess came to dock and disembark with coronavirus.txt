@@ -1,0 +1,64 @@
+Anatomy of a cruise: how the Ruby Princess came to dock and disembark with coronavirus
+The inquiry into the management of the ship's arrival in Sydney in March has revealed a detailed timeline of who knew what and when
+A special commission of inquiry has held five days of hearings into the Ruby Princess cruise ship, which has so far has been linked to 21 deaths and almost 700 cases of Covid-19 across Australia.
+The inquiry, overseen by Bret Walker SC, had two days of hearings on 22 and 23 April, and then three days of hearings this week.
+Here's what the inquiry has so far been told during interviews with 14 different witnesses.
+NSW Health developed draft guidelines on how to deal with cruise ships during the Covid-19 outbreak. They stated that if "a respiratory outbreak" affected 1% of a ship's passengers, that could prompt the ship to be labelled medium or high risk.
+For medium and high-risk ships, a New South Wales Health assessment team must board the ship prior to passenger disembarkation.
+Under a high-risk scenario passengers were not to be allowed to leave until Covid-19 test results had come in.
+Under a medium-risk scenario, passengers "assessed as well" were allowed to leave before test results came in.
+Under a low-risk scenario, all passengers were free to disembark the ship "regardless of any symptoms they might be suffering from".
+Dr Kerry Chant, the NSW chief health officer, published a letter to the cruise ship industry telling them NSW Health had adopted enhanced measures and now required them to provide "a full acute diseases log" 24 hours before a ship arrived in port.
+The Ruby Princess left Sydney Harbour on a 13-day cruise to New Zealand, returning on 8 March.
+NSW Health emailed the ship's doctor, Dr Ilse von Watzdorf, requesting the acute respiratory diseases log by 9am on 7 March.
+The NSW Health assessment team of four medical professionals conducted a risk assessment for the ship and "assessed it as medium risk".
+Less than 1% of passengers had an "influenza-like illness", but two passengers had been identified as having recently been in a foreign country of concern for Covid-19.
+At 8am, von Watzdorf sent the acute respiratory diseases log to NSW Health. She also told them that after the ship had made an announcement at 5pm on 7 March for people to report any respiratory symptoms or fever, the log number had increased from 30 to 170.
+The Ruby Princess docked in Sydney.
+The NSW Health assessment team boarded the Ruby Princess. Instead of 170 people with relevant symptoms, they discovered over 360 passengers and crew with "respiratory disease symptoms of some kind".
+Passengers who had no symptoms, as well as those examined and cleared by the assessment team, were allowed to leave
+Nine swabs were taken for Covid-19 testing. All later returned negative results.
+Kelly-Anne Ressler, a NSW senior epidemiologist, met von Watzdorf in person for the first time.
+Ressler said von Watzdorf told her "we just have to stop all cruise ships". Ressler said: "It was a passing comment, she just said we have to stop all cruises."
+Ressler said von Watzdorf sent her a Whatsapp message saying "thank you for your cooperation, hopefully they'll [the passengers] behave this cruise", which included an "emoji looking like an exasperated doctor". Ressler said that meant "hopefully they won't become unwell".
+2,700 passengers board the Ruby Princess and it leaves Sydney for another trip to New Zealand.
+The ship docked in Wellington and five Covid-19 swabs were taken from sick passengers. After they were tested, all were returned negative.
+The ship docked in Napier and passengers were allowed onshore. Counsel assisting the inquiry, Richard Bealsey SC, told the inquiry "there are reports [yet to be examined by the inquiry] of an outbreak of Covid-19 in that city said to be related to the ship."
+Von Watzdorf emailed Ressler at NSW Health and wrote: "It seems we are in the early phases of an influenza A outbreak on board".
+The ship's medical team on board took more influenza swabs than Covid-19 swabs, in an imbalance that Ressler said was "unsatisfactory". Ressler told the inquiry that patients could be swabbed for both influenza and Covid-19 at the same time, though it was "not ideal".
+The ship only had 25 Covid-19 swabs on board.
+At 4pm, NSW Health emailed von Watzdorf and requested the acute respiratory disease log by 9am on 18 March.
+At 9.30am, both von Watzdorf and a Sydney-based port agent for Carnival Australia, who operate the Ruby Princess, sent the acute respiratory disease log to NSW Health.
+It said 104 of 3,795 people on board presented to the ship's medical centre with acute respiratory disease (2.7%). Twenty-six people presented with influenza-like illness (0.94%). It also said 48 people had been tested for influenza A, but only 24 had tested positive.
+At 4.40pm, the NSW health assessment panel assessed the ship as low-risk.
+The inquiry heard that this log, upon which the assessment was based, "was not up to date".
+At 7pm, a Carnival Australia port agent, Dobrila Tokovic, called NSW Ambulance to book ambulance transfers for two sick passengers to take them to the Royal Prince Alfred hospital at 3am the next morning.
+The ambulance operator was told that both passengers had "febrile acute respiratory disease, they had both tested negative to flu, they had been swabbed for Covid-19" and that protective equipment should be worn by paramedics.
+Tokovic told the inquiry they usually "always select St Vincent's", but on this occasion she told paramedics that "New South Wales [sic]" had asked to take them to RPA.
+Beasley told the inquiry Royal Prince Alfred was "allocated as a 'Covid response hospital'" and asked if Tokovic if she recalled discussing that fact. Tokovic said she did not recall.
+Tokovic and von Watzdorf said that the ambulances were not called for Covid-19 reasons, but for the passengers' other health issues.
+An ambulance officer then called the NSW Port Authority's duty harbourmaster, Cameron Butchart, to raise concerns about the mention of Covid-19.
+Butchart told the inquiry he cancelled the booking for the Ruby Princess to dock due to the occupational health and safety risks to Port Authority staff.
+Emma Fensom, the acting CEO of the NSW Port Authority, said she emailed Butchart to tell him to "deny pilotage" for the ship – meaning they would not send an employee on board to help it dock.
+At an unclear time, Butchard also received an email from his NSW Port Authority supervisor which told him that policy was that if there were Covid-19 tests on board a cruise ship, with results to come, it should be "treated as if it has a positive result". The email also said that NSW Health had assessed it as "low risk".
+Butchart said he "did not understand" this email, and that the "low risk" label introduced "an unfortunate element" into his decision-making.
+At an unclear time, Butchart was also called by a person from the Department of Home Affairs, and an official from the Australian Border Force.
+He said the ABF representative "certainly had concerns with the situation" and Butchart offered to "turn it [the ship] around".
+The booking to berth and the pilot were later reinstated.
+In a call to an ambulance officer, Peter Dilonardo, Butchart said: "Can you guys just treat it as corona … We will put our pilot on, we will tell our pilot to wear all the PPE."
+Tokovic told the inquiry that the Ruby Princess was scheduled to arrive at 6am, but "hurried" back to Sydney because it had 13 Covid-19 swabs that needed urgent testing.
+At 3am, the Ruby Princess docked and ambulances arrived.
+Trainee paramedic Simeon Pridmore said the duty operations manager told him that both patients were "suspected Covid-19" positive.
+He wrote in his case description "Tx [transport] suspected Covid-19", and that "on board testing showed negative for influenza and [the patient was] suspected covid". Pridmore said this description was "an amalgamation" of information from von Watzdorf and his patient.
+Another paramedic, Mathew Symonds, said he boarded the ship and went to its medical centre and one of the passengers was receiving oxygen treatment using an "oxygen nasal cannula".
+Tokovic also told the inquiry that she heard the on-board doctor discuss one patient's "oxygen saturation" with paramedics. "She said that was what had changed throughout the night," Tokovic said.
+Pridmore said the ambulance he was in was taken "directly to a Covid-designated area" when it arrived at Royal Prince Alfred hospital.
+Tokovic said she took swabs off the ship and gave them to a driver who was a subcontractor hired by Carnival Australia to take them to the laboratory. The inquiry heard that swabs delivered to a lab by 10am would return results by 4pm.
+At 6am, Tokovic said she met with three ABF officers and one from the Department of Agriculture, Water and the Environment at the wharf.
+She said ABF officers were "aware" that 11 passengers were in isolation on board with influenza-like illnesses.
+All 2,700 passengers were allowed to disembark the Ruby Princess.
+At 4pm, Ressler called the laboratory and found the swabs had not been processed yet, because "the technician didn't realise they were cruise ship samples, and they were not tested as priority". The samples were then put on the next run.
+At 8am, the results from the tests were returned, 16 hours after they were expected to, and showed three people out of 13 had tested positive.
+NSW Health discovered that one person who tested positive was not listed on the ship's illness log.
+After that was discovered, they requested von Watzdorf send through an updated log that revealed more passengers had been sick.
+The inquiry continues.

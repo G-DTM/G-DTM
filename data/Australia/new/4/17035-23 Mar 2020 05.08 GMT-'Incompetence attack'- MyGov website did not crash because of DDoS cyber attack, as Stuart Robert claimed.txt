@@ -1,0 +1,16 @@
+'Incompetence attack': MyGov website did not crash because of DDoS cyber attack, as Stuart Robert claimed
+Robert backtracks only hours after saying the Australian government website had suffered a distributed denial of service as use surged amid the coronavirus outbreak
+The government services minister, Stuart Robert, has had to walk back a claim that the MyGov website suffered a distributed denial of service (DDoS) attack on Monday just as people were logging on to register for welfare services.
+As Australians suddenly out of work across the country attempted to log on to MyGov, the government's digital platform where Centrelink services are hosted, the website was slow and inaccessible for most of the morning.
+Robert claimed in a press conference on Monday shortly after 1pm that it was not due to the large number of people who are unemployed and trying to log into MyGov to register for Centrelink, but was due to a DDoS attack – where a service is targeted and attempted to be overwhelmed in traffic until it becomes inaccessible to regular users.
+"MyGov has not been offline, it's simply suffered from a distributed denial of service attack this morning," he told reporters, but refused to provide more detail on whether it was an attack from overseas or not.
+But by question time, at 2.55pm, Robert was forced to take back his statement, telling parliament that it wasn't an attack but just the alarms that are designed to detect and stop DDoS attacks triggering due to the large volume of people trying to log in.
+"The DDoS alarms showed no evidence of a specific attack today," he said.
+MyGov had last week been able to cope with about 6,000 users logging on at once, but Robert said this was upgraded to 55,000 over the weekend in expectation that many more Australians would have been logging on after the increase in business shutdowns as a result of the coronavirus pandemic forcing more people into unemployment.
+Robert told the parliament that about 95,000 people were trying to access MyGov at once, causing the DDoS alarms to trigger.
+The Labor leader, Anthony Albanese, said it wasn't a cyber attack, "it was an incompetence attack".
+The shadow minister for government services, Bill Shorten, went further and accused Robert on Twitter of lying about the attack, and suggested the minister should lose his job.
+Before Robert's reversal, Labor was already showing skepticism over his claim of a DDoS attack.
+"This is the most pathetic excuse imaginable for the failure of the Morrison government to plan for an entirely foreseeable surge in user demand," Labor MP Tim Watts tweeted.
+"Crying DDoS in this situation will rightly be laughed at by everyone with the most basic technical competence."
+Guardian Australia has sought comment from Services Australia and the Australian Cyber Security Centre.

@@ -1,0 +1,30 @@
+CEO of exam monitoring software Proctorio apologises for posting student's chat logs on Reddit
+Australian students who have raised privacy concerns describe the incident involving a Canadian student as 'freakishly disrespectful'
+The chief executive of an exam monitoring software firm that has raised privacy concerns in Australia has apologised for publicly posting a student's chat logs during an argument on the website Reddit.
+Mike Olsen, who is the CEO of the US-based Proctorio, has since deleted the posts and apologised, saying that he and Proctorio "take privacy very seriously".
+Proctorio is a browser extension-based software that can monitor students through webcams as they take exams from home, and is used by the Australian National University and the University of Canberra, among others. It potentially grants access to a student's webcam, microphone and keystrokes to detect and prevent cheating during an exam.
+Earlier this year, students from 13 faculty clubs and societies at the ANU wrote to the university to oppose Proctorio, as academics and privacy advocates said it could pose risks to student privacy.
+On Friday, an anonymous student at the University of British Columbia in Canada posted on Reddit that a Proctorio support person had gone "MIA [missing in action]" after they messaged with a technical issue during an exam.
+Olsen – posting under the Reddit username artfulhacker – then responded with sections of that student's chat log, saying they had "lied".
+"If you're gonna lie bro... don't do it when the company clearly has an entire transcript of your conversation," he wrote.
+"You even gave Roy [the support person] a positive emoji after he helped you.. shame on you."
+Olsen then posted a partial transcript of that student's conversation with the support person. He also commented: "I was furious we would leave a student hanging before an exam, but my team quickly pointed me to the transcript and I just had to jump in." The artfulhacker account has previously posted identifying itself as the CEO of Proctorio.
+The student's original post was later marked as "misleading" by a moderator.
+However, Ian Linkletter, an employee of the faculty of education at the University of British Columbia, said the posting of the student's support logs was a "privacy invasion" and " a contempt for students that I rarely, rarely see".
+Grace Hill, an ANU student and a leader of the group No Proctorio at ANU, told Guardian Australia that Olsen's posting of support logs was "really, freakishly disrespectful".
+She said it was hypocritical of Proctorio to say they valued student's privacy when the CEO of the company was posting student chat logs online. "I think it is very concerning and definitely a privacy issue," she said. "It undermines their claims."
+Previously, Proctorio has told students that the footage, keystrokes and other data taken during exams can never be accessed by Proctorio staff. The software uses an algorithm to detect movement or suspicious activity, and any data or footage can only be viewed by the university's own "approved administrators and instructors".
+A spokesman for the ANU said: "[Data is] only accessible to select ANU staff who have been trained in privacy and who are also subject to both the University's privacy policies and Australian privacy legislation. Proctorio staff cannot access this data. This data will be erased as soon as exams have been finalised."
+Olsen did not share any personal or identifying details of the student on Reddit, and did not share any exam information, or video or any information about the student obtained as they sat the exam.
+He later apologised for sharing the support logs, saying: "I removed the transcript, you [the student] don't need to prove anything, apologies for posting it."
+However, Hill said that the posting of support logs showed that "at every step of the way, students seem to be brushed aside and disrespected in the concerns that we have raised".
+Previously, Richard Prangell, a board member at Electronic Frontiers Australia, told Guardian Australia there were privacy concerns with Proctorio's monitoring during exams.
+"Students should not be expected to install monitoring software on their own computers for the benefit of their university," he said. "There should be a clear division between a student's academic and private life. Keystrokes, screenshots, audio and video can capture all kinds of private, and often unintended information about a student and perhaps even other members of their household."
+In April, Proctorio responded to privacy concerns, saying: "Unlike our competitors who collect biometric data, Proctorio never collects anything additional than what the institution has already collected from the student (via single sign-on)."
+The company said its software "complies with the strictest data privacy regulations, including Australian, German and European regulations".
+The ANU also previously completed a privacy impact assessment for Proctorio that concluded that "no personal information is sent to or held in the system" and "no third parties will have access to or be provided with the personal information."
+On Monday, the ANU spokesman did say that the university "would not accept" the company publishing support logs like those shared on Reddit.
+"The ANU would not accept any third party publishing support logs or other materials from students or staff that they feel breaches their privacy," he said.
+The university confirmed it had used Proctorio for "a small number of invigilated exams at the end of semester one".
+A spokesman for Proctorio did not comment in response to questions from Guardian Australia about whether Proctorio has any restrictions or policies on whether employees can publicly share a student's support logs online.
+The company told Guardian Australia: "Proctorio would never share any personally identifiable information, of any student, ever. Moreover, Proctorio cannot access any personally identifiable information from our servers, without student consent."

@@ -1,0 +1,30 @@
+Victoria contact tracers access Covidsafe data 99 times but no identified close contacts reported
+Downloads of coronavirus app data have more than tripled amid state's recent outbreak
+As Melbourne suburbs are locked down and the government tries to get a second spike in cases in Victoria under control, contact tracers in the state have more than tripled the number of downloads from the Covidsafe app.
+Last week it was reported that Victorian health officials had downloaded data 30 times from the app after 30 people tested positive for coronavirus, but the Department of Health and Human Services told Guardian Australia on Thursday that, with the recent increase in cases, the number of times contact tracers have been able to download data from the app is now at 99.
+"Victoria has accessed the data of 99 people who were using the Covidsafe app and had tested positive for coronavirus," a spokeswoman said.
+"We urge Victorians to download the app to augment our contact tracing tools to stop the spread of the virus. This will be increasingly important as restrictions are eased and people are more mobile."
+There were still no reported close contacts identified using the app. Guardian Australia asked the department if any close contacts had been identified but the department had not responded to multiple requests over the past two days.
+New South Wales has downloaded data from the app around 10 times, and has had zero close contacts identified, meaning in the more than two months since Covidsafe launched, no cases have yet been identified using the app, despite more than 6.5 million people in Australia downloading the app.
+The agencies responsible for the app, the Digital Transformation Agency (DTA) and the Department of Health, continue to insist there are no issues with the app, despite their own evidence to the Senate's Covid-19 inquiry revealing last month that locked iPhones can record as few as one in four contacts.
+The Guardian also revealed New South Wales had issues obtaining data from the app.
+The United Kingdom last month abandoned its plans to adopt a similar version of the app due to similar issues, instead opting to use the exposure notification system developed by Apple and Google.
+Australia appears reluctant to adopt the Apple and Google version, which would resolve the ongoing Bluetooth issues. Currently in Covidsafe, a user needs to register a phone number before it can be used in the event that user is a close contact and needs to be contacted by a state contact tracer.
+Under the Apple-Google framework, to maximise the privacy of its users, the companies will not allow health providers to force users to register a phone number in order to use the app.
+That means that if someone is identified in the app as being a close contact and hasn't left a phone number, there is no way for the contact tracer to contact them, however they will still be notified via the app that they've been identified as a close contact and can choose to then contact a health official.
+Deputy chief medical officer Dr Nick Coatsworth told Ten's The Project on Sunday that was not an option the government was willing to accept.
+"It fundamentally changes the locus of control, it takes out the middle person and the middle person is the contact tracer, the people who have kept us safe.
+"There is no way we're shifting to a platform that's going to take out the contact tracers."
+On Friday, an update to the app will be rolled out to make it available in Arabic, Cantonese, Mandarin, Korean and Vietnamese. It is the sixth update to the app since it launched.
+Over $2.5m has been spent by the government on the app, including $865,000 over two contracts to Amazon Web Services to host data consented to be uploaded in the event someone using the app tests positive, and $885,500 to Boston Consulting Group to support the development of the app.
+BCG was brought in to support the development of the Covidsafe contact tracing app, initially on a Home Affairs contract of $220,000, but then migrated to the Digital Transformation Agency when it was given the lead role on the app shortly after.
+The DTA then signed its own contract with Boston Consulting Group for $484,000 to continue its work on the app, and InnovationAus first reported this week that the company recently received an additional $181,500, meaning the organisation has so far received $885,500 for its work on the app.
+The DTA said in a statement the extra payment was for an extension on the original contract, which was due to run only until late May.
+"The Digital Transformation Agency and the Department of Health continue to work in partnership with BCG to deliver the Covidsafe app, hence the extension of the contract," it said.
+"As work continues to iteratively update, enhance and improve the Covidsafe app we will continue to work with all delivery partners as required."
+BCG had not responded to a request for comment by the time of publication, but Miguel Carrasco, the BCG partner leading the work the firm is doing with DTA on the app told a Salesforce webinar last month that the project was a good example of "genuine collaboration" between companies like BCG and the government.
+"I think that was a good example of when people have a high degree of trust, and are able to trust each other and be open and transparent and are working towards a common goal," he said.
+"And then I think we see terrific outcomes and collaboration between the public and private sector."
+He said an increase in cases would help demonstrate the usefulness of the app.
+"When we get an increase in coronavirus cases, and when people then upload their data and see that they have or haven't been in contact with someone who's tested positive, the government can then say 'this is how Covidsafe was helpful'.
+"They'll have identified someone who's positive in the community and had the opportunity to save others."

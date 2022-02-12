@@ -1,0 +1,16 @@
+NHS using drones to deliver coronavirus kit between hospitals
+Trials in Essex using GPS-enabled remote-controlled aircraft to carry blood tests and PPE
+An NHS drone is being used to courier Covid-19 samples, blood tests and personal protective equipment between hospitals in England.
+It is hoped that the trials, backed by a £1.3m grant from the UK Space Agency, can establish a network of air corridors for electric drones to navigate using GPS.
+The remote-controlled drone, which will be piloted by an ex-military fast jet or helicopter instructor, will initially fly between Essex's Broomfield hospital, Basildon hospital and the Pathology First laboratory in Basildon.
+The project is the idea of Apian, a healthcare drone startup founded by Christopher Law and Hammad Jeilani.
+"Covid-19 has highlighted challenges in NHS supply chain logistics," said Law. "We are confident that by setting up a medical drone delivery service, we'll be able to fly samples to labs more regularly, reliably and quickly, helping improve patient health outcomes."
+It is hoped the use of drones will reduce waiting times for couriers, free up NHS staff, reduce unnecessary physical contact and minimise the risk of secondary transmission of the virus.
+The drone is designed to fly at 90 metres (300ft) above ground and withstand harsh weather conditions. It marks the latest in a series of initiatives by the unmanned aircraft industry to help fight against Covid-19 in the UK and elsewhere.
+In May, the Guardian reported how vital medical supplies were being shipped four times a day to the Isle of Mull, in the Inner Hebrides, as part of a similar trial.
+Meanwhile, Solent Transport, Southampton University and Windracers embarked on a project to fly medical supplies to the Isle of Wight's St Mary's hospital on the island with a drone while ferry services were curtailed in April.
+The announcement of the drone trial in Essex comes amid reports that the UK would be able to carry out 1m tests a day by Christmas.
+The government adviser Sir John Bell, a regius professor of medicine at the University of Oxford, said it was possible but there would be significant logistical challenges.
+"Setting these targets is sometimes not that helpful, but I do think that it's possible with the technology that's coming online," he told BBC Radio 4's Today programme. "The problem is, how do you get the swabs out of people's mouths to the centres, the big labs, how do you get them out of the packaging, how do you get them into the workflow and how do you capture the data at the end?
+"As always, it's not the bit in the middle, it's the front end and the back end that's really the limiting factor and [that's what] people are working on – the logistics."
+This article was amended on 18 October 2020 because an earlier version misspelled the Isle of Wight as the Isle of White.

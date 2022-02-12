@@ -1,0 +1,13 @@
+Hackers accessed vaccine documents in cyber-attack on EMA
+Papers relating to Pfizer/BioNTech vaccine reportedly targeted in attack on European Medicines Agency
+German biotech firm BioNTech said on Wednesday that documents relating to the Covid-19 vaccine it has developed with Pfizer were "unlawfully accessed" after a cyber-attack on Europe's medicines regulator.
+Earlier, the European Medicines Agency (EMA) – which is responsible for assessing and approving vaccines for the European Union – said it had been targeted in a cyber-attack. It gave no further details.
+It was not immediately clear when or how the attack took place, who was responsible or what other information may have been compromised.
+Britain's National Cyber Security Centre said it was studying the situation and its impact on the UK, the first country where the Pfizer/BioNTech vaccine has been deployed.
+An NCSC spokesperson added: "We are working with international partners to understand the impact of this incident affecting the EU's medicine regulator, but there is currently no evidence to suggest that the UK's medicine regulator has been affected."
+The EMA was previously headquartered in London but moved its HQ to Amsterdam in 2019 following the Brexit vote.
+Following the disclosure, BioNTech said the EMA had informed it that "that the agency has been subject to a cyber-attack and that some documents relating to the regulatory submission for Pfizer and BioNTech's Covid-19 vaccine candidate … had been unlawfully accessed".
+But, it added, "No BioNTech or Pfizer systems have been breached in connection with this incident and we are unaware of any personal data of study participants being accessed."
+The EMA gave no further details about the attack, saying only that it was investigating the incident with help from law enforcement. "EMA cannot provide additional details whilst the investigation is ongoing. Further information will be made available in due course," it said in a statement.
+Hacking attempts against healthcare and medical organisations have intensified during the pandemic as attackers ranging from state-backed spies to cybercriminals scramble to obtain the latest information about the outbreak.
+On separate occasions, hackers linked to China, Iran, North Korea, Russia and Vietnam have been accused of trying to steal information about the virus and its potential treatments.

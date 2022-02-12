@@ -1,0 +1,16 @@
+Visually impaired Scots get sonic help with Covid graphs
+New website uses musical notes to create an audio map of infection rates or fatalities
+Blind and visually impaired people in Scotland can now learn about the latest data on Covid outbreaks near their home thanks to a website with a special sonic interface developed by volunteers.
+The site plays musical notes to create sonic graphs of Covid-19 cases that allow the visually impaired to keep track of infection rates and fatalities, using the latest official data for health boards and local councils.
+It borrows a technique used in high-energy astronomy where astronomers use audible tones to augment charts of complex information from parts of the electromagnetic spectrum invisible to the human eye.
+Its developers were drawn from a group of 1,000 volunteers called the Scottish Tech Army (STA), set up to help charities and public bodies use technology during the pandemic. They believe it is the first time this technique has been used in a public health project.
+Alistair Forbes, a tech entrepreneur who co-founded the STA, said the system, known as sonification, could be easily taken up across the UK and overseas.
+Developed with a charity for the blind called Seescape, it allows visually impaired people to make fully informed decisions about visiting or working in other areas, and following the news about the pandemic.
+"It's a generic technique," he said. "It is taking any time-series dataset and applying this technique to it."
+Eirini Komninou, a Glasgow-based computer scientist who lost her sight in 2016 and helped develop the prototype for the sonic graphs, said people with impaired vision were frequently unable to follow the evidence about the scale and significance of local outbreaks.
+"We want to be inclusive and make data as accessible as possible for those people who don't have functional eyesight," she said.
+The audio capability has been added to a data dashboard developed by the STA that allows users to track coronavirus outbreaks using heat maps, graphs and data bars that display infection rates across the country.
+Komninou said those charts would be easily read by fully sighted people, but the audio descriptors and screen readers used on computers and smartphones by the visually impaired were unable to cope with graphs and charts.
+The new system uses eight tones, or pitches, to create an audio map of charts that contain each day's infections or fatalities, either across Scotland or at health board or local council level, since 28 February.
+Adding this sonification technology has made the charts much more accessible to visually impaired people. The team's next task was to ensure blind users could select much shorter time periods from the graphs, choosing just to hear the last week or month of results.
+The website can be found at: https://covid19.scottishtecharmy.org

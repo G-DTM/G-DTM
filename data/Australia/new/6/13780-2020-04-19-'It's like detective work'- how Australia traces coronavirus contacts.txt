@@ -1,0 +1,72 @@
+'It's like detective work': how Australia traces coronavirus contacts
+Across the country, teams of doctors, nurses and public health officers work with Covid-19 patients to help them retrace their movements
+Can you remember everything that you did in a single day? What about for three days? Or every day for a two-week period?
+In a world before shutdowns and social distancing, could you set out the detail of your daily life; every workplace meeting, each gym session, every date and social event? Who did you meet and for how long?
+And could you confidently give that information to a stranger if it meant protecting the health of people you care about and the community at large?
+Welcome to the world of contact tracing. It's a term many Australians would have scarcely been familiar with even a month ago. But it's one of the key techniques in communicable disease control, used by health authorities to monitor and slow the spread of an infection in the community.
+In Australia, contact tracing is typically used to monitor the transmission of illnesses such as the measles. It is now at the forefront of the national response to the coronavirus crisis.
+Across the country, teams of doctors, nurses and public health officers talk to Covid-19 patients to help them retrace their movements. They're building a picture that they hope will locate the original source of the patient's infection as well as any people they might have exposed to the disease.
+In doing so, they hope to interrupt the transmission of Covid-19 in the community.
+"I've been doing this job for a long, long time and you do need to have a skillset," says Sue Reid, a public health nurse with the ACT's health protection service. "Detective is one of the terms I use.
+"By and large, most people are very cooperative. They know we are trying to help them and others out there."
+The profile of contact tracers and the work they do has risen as a result of the global coronavirus pandemic.
+Countries that have had more success in flattening the infection curve, such as South Korea, have used a combination of widespread testing, contact tracing and isolation to slow the spread of Covid-19.
+This week, the prime minister, Scott Morrison, said stronger contact tracing was one of three conditions that would need to be met before Australia's current social distancing restrictions could be eased.
+Improved contact tracing would likely include the use of an app that will trace every person who has been in contact with a mobile phone owner who has tested positive for coronavirus in the previous few weeks.
+Such technology is fraught with privacy issues and there is not yet enough information on how an Australian app would work to say what the implications will be.
+For now, the work of contact tracing is conducted by teams working within state public health units.
+Nicknamed "disease detectives", these teams can consist of case investigators, contact tracers and case liaison officers, each with clear roles and responsibilities once a case of Covid-19 is confirmed.
+The professional backgrounds of these teams are diverse, ranging from medicine and nursing to medical science, epidemiology and environmental health. They work not just in conjunction with public hospitals, but also GPs, private hospitals and other health facilities patients might have come into contact with.
+Since the arrival of Covid-19, their ranks have swelled to manage the increase in workload. In Brisbane's metro south public health unit, which serves a population of about 1.2 million south of the Brisbane river, the team doing this work has grown to 100 people, triple its size before the pandemic.
+"We're trying to get them to tell us a story," says Dr Shopna Bag. "Where did it all start?"
+Bag is the director of the public health unit for the western Sydney local health district, which covers areas including Cumberland, Parramatta and Blacktown.
+The unit is based on the Cumberland hospital campus but works with all hospitals in the district, including neighbouring Westmead, as well as local health centres and pharmacies.
+The team includes a communicable diseases manager, surveillance nurses, public health nurses and public health officers. Since the arrival of Covid-19, it has had responsibility for joining the dots in cases such as an outbreak at the Rose of Sharon childcare centre in Blacktown.
+Case investigation and contact tracing work begins at the point of diagnosis. The unit receives a notification from a laboratory or the health department of a newly confirmed case. That case is assigned to a team member, often a nurse, who then calls the patient.
+In many cases, this phone call is the moment the patient learns they have coronavirus. For the clinician on the other side of the call, their first priority is the patient's mental welfare and physical health.
+"Sometimes people are expecting the result, other times it's a surprise," says Dr Bhakti Vasant, a public health physician in Brisbane's metro south public health unit.
+"It's really important we gauge what people are feeling over the phone and try to build rapport."
+The clinician will run through a questionnaire to correctly identify the patient. That is followed by a symptom check. How is the patient feeling today? Are they experiencing any respiratory difficulties? Are they in a hospital or at home in isolation? Do they have any chronic illnesses that place them in a higher risk category of Covid-19 patients?
+Vasant says there have been some cases where staff have had to immediately call an ambulance based on that first phone call.
+"If they're short of breath or reporting chest pain we do not muck around," she says.
+Once the caller establishes the patient is in isolation and well enough to speak, more detailed questioning can begin.
+While its purpose is interrogatory, the interview is kept as relaxed as possible, Bag says. For this reason, clinicians doing this type of work need multiple qualities: an eye for detail, emotional intelligence, and the ability to listen and make people feel comfortable. Unsurprisingly, they are often natural conversationalists, but with the ability to tease out information and follow threads.
+"We're trying not to bombard them with questions, even though we need to tick a box," Bag says.
+"We're trying to do it in a way that says 'just tell us the story'."
+The caller asks the patient questions about when they first started to feel unwell. For some Covid-19 patients, the initial symptoms can be so mild they are mistaken for something else, such as hayfever.
+The caller talks to the patient about every cough, fever, ache, anything that felt a little off and together they identify the date the patient first began to show symptoms.
+This is done for two reasons. The first is to build a timeline back to the original source of the infection.
+The second is that the date of symptom onset determines the period in which the patient is considered contagious.
+Patients with Covid-19 are considered contagious 24 hours before they become symptomatic and this date is used as the starting point to identify close contacts who may have been exposed.
+The case investigator then works with the patient to build a timeline.
+This line of questioning can be a long process says Reid, who is the team investigations manager in the ACT's health protection service.
+It is about retracing the patient's steps, "day-by day, minute-by-minute", covering every moment of the 14 days up to the first day of symptoms.
+They'll use a range of tools, including the calendar on the patient's mobile phone, if they have one, to try to reconstruct those two weeks. Sometimes, they'll have the patient try to write a timeline for those 14 days.
+There are specific questions, such as has the patient travelled internationally or interstate? Where did they go, what mode of transport did they use? If they took a flight somewhere, did they then catch a taxi or Uber? Had they been at work, the gym, a wedding or birthday party?
+Sometimes it will take multiple calls as the patient starts to recall their movements.
+"We don't stop until we find a source," Reid says.
+In some instances, a public health unit might receive several cases at once for which there appears to be a common source, such as a cruise ship with a known outbreak or an institution such as a school or church with other confirmed cases.
+But Bag says it is important not to make assumptions even if the source might seem obvious. They will still piece together all of the information in case the real clues lie elsewhere.
+"This is where we need to be patient and let them tell their story but also explain why we're asking all these questions," she says.
+The other important step in the process is identifying people who could be considered close contacts of the confirmed case. This is anyone who has had 15 minutes of face-to-face contact with the patient in their infectious period, or who has spent two hours in an enclosed space with them.
+Case investigators will seek information such as flight numbers and seat rows for patients who have travelled. They can then request a flight manifest from the airline to begin the work of identifying people sitting nearby.
+In the interview, the patient will be asked to remember who they've spent time with, at work, at the gym, any parties, religious services or nights out. Who do they live with? The greatest risks of exposure are in the household setting, so identifying household members is a priority in contact tracing.
+A list is put together and then contact tracers get to work tracking down and notifying those people.
+In some cases, the patient will be able to supply names and numbers and those individuals might already be expecting a call. Or the public health unit might call a patient's workplace and ask a manager to check their roster for particular days.
+On average, most patients will have nine or 10 close contacts. Some only have one.
+"People might have come back from overseas and gone straight to a hotel. Those are ideal situations, they're very easy," Reid says.
+"But we've had other instances around Australia where people have had weddings or parties. That's when it becomes a lot more difficult."
+The implication of all of this for a close contact is that they will have to isolate for 14 days. For this reason, contact tracers will also conduct an interview to verify that person meets the criteria for close contact.
+They will only identify the Covid-19 patient by name if the patient has consented.
+If a contact is required to go into isolation, some health districts have set up support services such as a daily SMS or call to check on symptoms and advise a test if need be.
+A case liaison team will also establish whether a patient or close contact needs assistance with things such as accommodation, medication or groceries for their isolation period.
+Government-backed modelling suggests each individual infected with Covid-19 in Australia is passing it on to less than one person on average.
+Australia's chief medical officer, Brendan Murphy, said on Thursday Australia's high detection rate of Covid-19 cases showed the country's testing and surveillance regime was highly effective.
+The teams Guardian Australia spoke to said the majority of patients, and close contacts, were responsive and understood the reasons the contact tracing process was undertaken.
+"People are stressed, tired, not feeling well, you can hear that," Bag says. "Once they know why we're calling and that we're here to help them and their families, everyone has been really cooperative.
+"It's just that initial pressure. What does this mean for me, my work, my family?"
+Vasant says people have been "very understanding" as investigative and contact tracing teams cast their net as wide as necessary in a bid not to miss anyone who might have been exposed.
+She says the work these public health teams are doing to interrupt the chain of transmission is "really making a difference to the number of cases in Australia".
+Teams will run through timelines multiple times. As the patient interview and contact tracing work comes together, they might have gathered information from multiple people.
+"It's like detective work. You can't rely on a single source of information. You have to take information from multiple sources to piece the puzzle together," she says.
+"Sometimes one new piece of information can take the timeline back a few weeks and we go back to re-interview cases and contact more people."

@@ -1,0 +1,31 @@
+Covid vaccines: Scott Morrison announces two new deals but Australia 'at end of long queue'
+Pfizer has already agreed to supply the US, EU and Japan with hundreds of millions of doses
+Australia's efforts to secure the Pfizer Covid-19 vaccine candidate may be compromised by huge global demand and a lack of local manufacturing capability, experts say, as Labor warns that Australia may struggle to distribute it at the required temperatures.
+On Thursday, Scott Morrison announced Australia had reached two new deals for Covid-19 vaccines, one for 10m doses with pharmaceutical giant Pfizer and another with the US corporate Novavax, which would supply 40m vaccines.
+That adds to the two prior deals struck with AstraZeneca/Oxford and the University of Queensland and further diversifies the vaccine types available to Australia, as researchers race to find a safe and effective candidate.
+The Pfizer candidate is an mRNA-type vaccine, a new technology never before approved for clinical vaccine use, which works by giving cells the instructions they need to produce the viral proteins that trigger an immune response to Covid-19.
+Australia currently lacks any mRNA vaccine manufacturing capability, forcing it to rely on imports only.
+Its order of 10m doses, at two doses a person, would only be enough for 5 million Australians, and Pfizer has already struck deals to give hundreds of millions of doses to the United States, Japan and the EU.
+The Australian government says it has priority access and estimates the Pfizer vaccine supply would first begin to arrive in early 2021, ready for use if the candidate proves safe and effective.
+But Prof Thomas Preiss, a molecular biologist with the Australian National University who specialises in mRNA, said there is a significant possibility the manufacturing of the mRNA vaccine will be constrained.
+He has urged Australia to pursue a two-pronged approach to supplying the Pfizer vaccine, by importing what it needs for urgent vaccination and establishing a local manufacturing capability in parallel.
+"The key issue here is that there are potential global capacity constraints with manufacturing mRNA vaccine doses … for the entire world population," he said.
+"As this is a novel vaccine technology, no country or company had really contemplated making therapeutic mRNA at that sort of scale until recently."
+Assoc Prof Archa Fox, an expert on RNA with the University of Western Australia, said Australia will be "at the end of a long queue" to obtain the Pfizer vaccine if it passes clinical trials.
+Importing enough doses would also likely cost $1bn. Setting up local manufacturing would cost a fraction of that, Fox said, though it would take time to train staff and establish capability.
+"The lack of capacity to make mRNA is both a threat and an opportunity for the Australian biotechnology sector," Fox wrote for the Conversation. "Given the speed at which this technology has been applied to Covid-19, it would be useful to have this production capacity in Australia, so we can quickly respond to future pandemics."
+The vaccine must also be stored at temperatures below -70C at all times, complicating distribution significantly. It requires a network of suitable freezers, dry shippers, or liquid nitrogen tanks to supply the vaccine across the country.
+Labor says Australia currently has "no capacity to do this".
+"So even if it was ready tomorrow, we couldn't use it. That's a big problem," the shadow health minister, Chris Bowen, said.
+"We are keen to see further detail of the government's touted vaccine roadmap. Who is in, who is out, the pathway to secure more, and how we get it in the hands of Australians."
+Bowen's comments drew a sharp response from the health minister, Greg Hunt, who said distribution for the Pfizer mRNA vaccine within Australia had already been secured. He said the government was undertaking thorough planning to ensure vaccine distribution at the required temperatures, with tenders to be issued on Thursday to coordinate the process.
+"Indeed, the manufacturer has humiliatingly refuted Chris Bowen's statement. Sometimes, Chris, it is better to remain silent if you have no idea what you are talking about," Hunt said in a statement.
+Preiss said the distribution of mRNA vaccines would pose significant challenges in remote areas.
+"I believe Moderna [another mRNA vaccine] requires -20 degrees whereas Pfizer requires -70 degrees. Minus-20 freezers are available throughout Australia's medical infrastructure, whereas -70 freezers are more likely restricted to hospitals rather than at GP locations," he said.
+Other experts suggested distribution would not be a significant problem. Prof Colin Pouton, of Monash University, said ultra-low freezers are widely used and operate at -80C.
+"Lower temperatures can be obtained using storage in vapour phase above liquid nitrogen [at or below -140C]," he said. "Transporting vials can be done in granules of solid carbon dioxide [dry ice] in an esky. This is freely available and sublimes at a temperature of -78C."
+Pouton said the more difficult issue would be the volume of material needed to be transported.
+Australia is attempting to diversify the vaccine types it secures, according to health department secretary Prof Brendan Murphy, and now has two protein vaccines, one viral vector vaccine, and Pfizer's mRNA vaccine.
+"We have diversified our strategy and we have the capacity now to start vaccinating the Australian population in the first quarter of next year, which is a terrific outcome and gives us a very, very strong position internationally in access to vaccines," Murphy said on Thursday.
+Both Fox and Preiss say there are other benefits to establishing local RNA manufacturing. mRNA can also be used for other non-vaccine purposes, including promising therapies for cancer and other genetic diseases.
+"RNA therapeutics is potentially a disruptive technology and in this way Australia could become a leader in an expanding new hi-tech industry and export to the world," Preiss said.

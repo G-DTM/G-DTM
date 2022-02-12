@@ -1,0 +1,53 @@
+Manufacturing face shields within days: how Australian industry is pivoting to fight coronavirus
+Mat Bowtell's charitable prosthetics enterprise has swiftly moved to personal protective equipment, as the manufacturing sector responds to Covid-19
+A choice lay before engineer Mat Bowtell as he walked out the gates of Toyota's Altona factory for the last time. He could watch on, helpless, as the local car manufacturing industry fell apart around him, or he could put his skills to better use.
+Bowtell used his redundancy payout to set up a 3D printing facility in a small warehouse on Victoria's Bass coast, where he began manufacturing free prosthetic hands for children with a disability.
+Now, as Covid-19 fractures the economy and brings entire industries to their knees, Bowtell's skills have again found a new purpose.
+Fourteen of his 20 3D printers are now being used to manufacture thousands of face shields for healthcare workers, who are struggling to access personal protective equipment amid widespread shortages.
+"With 3D printing, we've been able to go from making hands to making face shields in a matter of, well, days," he told the Guardian. "To completely revamp our line, that's how agile this technology is and how flexible it is."
+"It's mind-blowing."
+Bowtell's story is not unique. All across the country, catastrophe has caused remarkable transformations. Industry in the pandemic age is finding strange ways to meet the strangest of demands. Local gin distilleries are making hand sanitiser. Carmakers are offering design expertise for hospital ventilators.
+Detmold, a food packaging company, is now producing surgical masks. Textor, a company that previously created materials for nappies, sanitary pads and baby wipes, has repurposed its business toward personal protective equipment (PPE) with the help of the CSIRO.
+The manufacturing industry's guide during this pandemic-induced transformation is the Advanced Manufacturing Growth Centre, a not-for-profit working with the federal government.
+It is trying to help the sector pivot into Covid-19-related work, setting up a central portal where businesses can register their skills, supplies, and capabilities.
+"Once we set up the portal, heaven broke loose," the AMGC managing director, Dr Jens Goennemann, told the Guardian.
+"Up to today, we had 1,000 registrations from companies who not only said 'I want to help', but they said how they could do that."
+"So that means we can make a heat map of different skills and capabilities, which we can then throw at the most targeted need."
+The speed of the pivot has been remarkable. But it has also raised a broader question.
+Before the crisis, only a single Australian factory, Med-Con's Shepparton plant, was producing surgical masks. Similarly, there was only one significant onshore producer of ventilators, a company named Resmed.
+Labor senator Kim Carr, a former industry minister, says this highlights a failing that extends well beyond just PPE and ventilators.
+How, he asks, has Australia allowed key strategic industries to disappear? And why has it taken a crisis for Australia's shortcomings to be so greatly exposed?
+"This is a profound problem now," Carr says. "For even the most simple-minded of our rightwing economists, understanding the implications of these matters surely now demonstrates the importance of us developing a more economically complex society and a more sovereign nation."
+The consequences of shortages in PPE, as one example, have been thrown into sharp relief in recent weeks.
+The paucity of supplies forced hospitals to stop elective surgeries and left aged care providers with serious threats to their ability to deliver services.
+Workers at dialysis units have been left to scrounge for their own masks, despite their patients being one of the most at-risk groups from Covid-19. A cancer treatment centre had to begin producing its own sanitiser using donated chemicals after vast quantities mysteriously went missing from its stores.
+Catholic Healthcare Australia, which represents members with 80 hospitals, warned the federal health minister, Greg Hunt, the situation was dire and that it held "grave concerns" about PPE access.
+Local manufacturing has now become a critical part of the pandemic response, both in Australia and across the world.
+The World Health Organization has urged every country to boost its domestic PPE production by 40%.
+"Without secure supply chains, the risk to healthcare workers around the world is real," WHO director-general Dr Tedros Adhanom Ghebreyesus said. "Industry and governments must act quickly to boost supply, ease export restrictions and put measures in place to stop speculation and hoarding. We can't stop Covid-19 without protecting health workers first."
+The Australian government has responded with a multifaceted strategy. It issued a callout to domestic industry to understand who may be able to pivot into PPE manufacturing, while releasing stocks from the reserves in the national medical stockpile. It has also sent the army in to help Med-Con, which is aiming to double or triple its production.
+Exports of PPE have also been banned.
+Some say Australia's current situation exposes a failing of crisis planning.
+The chair of the Australian Healthcare Reform Alliance, Jennifer Doggett, said the gradual offshoring of PPE production was "clearly extremely risky" in the event of a pandemic.
+"This situation should prompt a rethink of our approach over the past several decades to move away from domestic manufacturing towards a reliance on imports," she said. "This may save money in the short term but it is costing us now. In a wealthy country like Australia, it is unacceptable to risk the lives of health professionals because we do not have the facilities to manufacture simple materials such as masks and swabs."
+Unions take a similar view. The national secretary of the Australian Manufacturing Workers' Union, Paul Bastian, told the Guardian: "I think this crisis has certainly exposed the dangers of destroying Australian manufacturing and relying entirely on an import-based model.
+"Of course, as we move forward out of this crisis sometime in the future, we hope that government continues to invest in Australian manufacturing, as they have to do right now when they don't have an alternative."
+Adamm Ferrier, a lecturer in public health at La Trobe University who helped set up Health Purchasing Victoria, agrees that there has been a "movement offshore of many manufacturing processes to countries where labour costs are more competitive".
+But Ferrier also says the problem is partly explained by the way hospitals had changed their stocking of PPE in recent years.
+"Since the 1990s there has been a movement towards a 'just in time' supply practice that replaced a 'just in case' practice, where hospitals held vast quantities of supplies that often went out of date," he said.
+"The 'just in time' practice has served the system well, but was always predicated on the ability for the manufacture and medical supply chain to respond nimbly to changes in demand."
+Goennemann, a leader in the industry, disputes suggestions that manufacturing is in decline in Australia.
+He is careful to distinguish Australia's manufacturing sector from what people generally associate it with – producing things in factories. Production, he says, is just one part of the manufacturing process, along with research, development, design, logistics, distribution, sales and services.
+In fact, Goennemann said Australia may be uniquely placed to respond. He points to 3D printing, of which Australia has an "incredible onshore capability", as an example.
+"The 3D printing capability onshore is a massive distinguisher for Australia to step up to the crisis," he said.
+When asked how else 3D printing might be deployed in practice, Goennemann points to the supply of ventilators, which are needed to assist breathing in the most seriously ill Covid-19 patients.
+A lack of ventilators has been a critical issue in countries like Italy, where doctors in swamped intensive care units have been forced to make heart-wrenching decisions about who gets access to the life-saving machines.
+Australia has about 2,300 ventilators in intensive care units across the country. The government wants to increase the number of ICU beds dramatically to prepare for the peak of the pandemic, and is attempting to source more ventilators through a combination of domestic production, procurement from abroad, and the conversion of existing equipment, including from veterinarians.
+Goennemann says Resmed, the main ventilator manufacturer, could struggle to get parts due to the disruption of global supply chains.
+That's where 3D printing can help.
+"I don't want to speak on behalf of Resmed, but that's an area where we have critical supply, and parts can be 3D printed onshore rather than being procured offshore," he said.
+The industry minister, Karen Andrews, is heading up the government's efforts to ramp up domestic production of PPE and ventilators. A special unit has been convened within her department to specifically look at PPE supply.
+Andrews says the response of industry is a testament to the ingenuity that exists in Australia.
+"So many companies are putting up their hands to help – whether it's ramping up manufacturing, looking to switch up what they produce, or even just connecting with each other to make sure they have what they need," she said.
+For Bowtell, the decision to shift his production to face shields had nothing to do with profit. It was about doing what he could in the most extraordinary of times.
+"It's about survival at the moment," Bowtell said. "Just helping people to get through this together."

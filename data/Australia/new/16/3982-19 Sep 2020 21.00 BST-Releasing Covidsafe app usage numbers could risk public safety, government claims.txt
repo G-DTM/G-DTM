@@ -1,0 +1,21 @@
+Releasing Covidsafe app usage numbers could risk public safety, government claims
+Digital transformation agency says disclosing information would 'adversely affect' commonwealth-state relations
+The federal government has refused to release information on the number of Australians still using the Covidsafe contact tracing app, on the grounds it could risk public safety and harm commonwealth-state relations.
+Covidsafe relies on large numbers of the population running the app on their phones when out in the community to help identify close contacts in the event of an individual positive Covid-19 test.
+Since the app's launch in April, the government has used the number of downloads to sell the success of the app, and encourage more people to download it. Over 7 million people in Australia have downloaded the app, but that metric doesn't tell the full story of how and whether it is being used.
+The digital transformation agency – the developer and administrator of the app – is routinely given analytics and usage data reports, including information on the number of users running the app.
+The DTA has refused to provide information on active users since the launch, which would provide a clear picture of how many of those 7m downloads continue to use the app. The agency on Friday refused a freedom of information request from Guardian Australia for the report on active users.
+The agency's chief operating officer, George-Philip de Wet, said releasing information on how many active users the app has would "prejudice lawful methods of protecting public safety".
+"Covidsafe is a critical tool in the protection of public safety during the Covid-19 pandemic. I believe disclosure of the information at this time could prejudice the ability of the commonwealth, states and territories to maintain that lawful method designed to protect public safety."
+De Wet also said negotiations were ongoing with state governments over the use and potential release of Covidsafe data and it would "adversely affect" the trust between the commonwealth and the states.
+The justifications seemed like a "desperate [attempt] to hide the usage figures", according to Justin Warren, Electronic Frontiers Australia board member and founder and chief analyst at PivotNine.
+"If loads of people were using the app, we'd be hearing about it constantly," he told Guardian Australia.
+"Crowing about download numbers but not being transparent about the number of people actually using the app is a bit like being proud of buying a lot of test kits and then leaving them in a warehouse to go off."
+Warren said if there were issues with the app, the agency should own up and show it learns from failure in a trustworthy and transparent way.
+"That would at least earn people's respect and build trust for next time," he said.
+The app, heralded by Scott Morrison as "like sunscreen" to protect people from Covid-19 as restrictions ease, has had limited success in identifying previously unidentified close contacts.
+New South Wales has had the most success with the app, with its last report showing the data had been accessed 33 times, with 14 close contacts not previously identified by manual tracing found through the app.
+For one of the cases, NSW was able to find an unrecognised exposure date from the Mounties club in Sydney's west that resulted in the health department notifying 544 people at that venue at that time, and finding two more cases of Covid-19.
+The Victorian government has downloaded data from the app over 1,000 times, but says it has not identified close contacts not already found through traditional contact tracing methods.
+Victoria has put this down to lockdown restrictions, meaning people aren't in contact with people they do not know for 15 minutes or longer.
+The federal health department has indicated it is working with the states to get a more national view on how the app has been used, but as outlined in the FOI refusal, no agreement has yet been made.

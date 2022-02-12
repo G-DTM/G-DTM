@@ -1,0 +1,20 @@
+London hospital starts virtual ward rounds for medical students
+Imperial College doctors with AR glasses examine patients as trainees watch remotely
+A flock of students stumbling after a consultant on a ward round has long been a familiar sight in hospitals. Perhaps not for much longer though – a university has pioneered the use of augmented reality to allow students to take part from home.
+Imperial College has conducted what it said is the world's first virtual ward round for medical students, which means an entire class of 350 students can watch a consultant examining patients rather than the three or four who have been able to accompany them in person.
+The virtual ward round involves the physician wearing Microsoft's HoloLens glasses, which stream video to the students' computers. While the doctor talks to the patient, students can hear both of them through the use of two microphones.
+Teachers are able to pin virtual pictures to the display, such as X-rays, drug charts or radiographs, or draw lines to highlight something they want to emphasise.
+The first virtual teaching round was delivered at St Mary's hospital in London last week with just under a dozen students.
+Dr Amir Sam, head of the school of medicine at Imperial, said the innovation was sparked by the Covid-19 pandemic. Hospitals have tried to minimise the risk of infection by preventing anyone from entering who does not need to be there, including students.
+"The pandemic resulted in the first time in living memory that medical education has been truly limited by having no access at all to patients," Sam said.
+The virtual ward rounds can be recorded, allowing universities to create a library of cases. That means more students will get to see patients with rare conditions and have a better understanding of the symptoms and how the patient acts.
+Sam said: "Ensuring every student is rotated through a similar experience of clinical placements in their time at medical school – to ensure each of them has seen a comparable case mix – is challenging.
+"Teaching with the HoloLens allows us to guarantee a level of exposure for our students to a far greater range of patients and conditions than ever before."
+Sam acted as a guinea pig patient to test the technology before the first class took place, and said he felt some patients may prefer the experience to being confronted by a large group of students.
+Oliver Salazar, a fifth year medical student who was on the inaugural round, said it was "an invaluable clinical experience".
+"Despite the ward round being virtual, it felt far from it – we were expected to ask questions and think about clinical problems in real time," he said. "It was really helpful to be able to access investigations like X-rays and blood tests in an instant, and the way the information was projected felt natural."
+Imperial first started using the technology, which was introduced by Dr James Kinross, a consultant surgeon, in May to allow clinical staff to conduct ward rounds more safely during the pandemic.
+Medical students were originally taught how to conduct examinations in grand rounds, where a patient would be wheeled in to be prodded and examined in front of a hall of students.
+The ward round became popularised in the British public's imagination in the Doctor in the House comedies starring James Robertson Justice as Sir Lancelot Spratt, an imperious surgeon exasperated by the antics of his student, played by Dirk Bogarde.
+Sam said he hoped that the virtual ward rounds will allow students to take part, even if they are studying at other universities around the world.
+"We'll be able to offer education for a broader community," he said. "Medical educators and doctors globally can benefit."

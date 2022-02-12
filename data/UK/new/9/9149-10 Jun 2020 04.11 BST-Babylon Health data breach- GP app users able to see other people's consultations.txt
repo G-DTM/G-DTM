@@ -1,0 +1,16 @@
+Babylon Health data breach: GP app users able to see other people's consultations
+User alerted company after finding about 50 recordings of appointments that did not apply to him
+Babylon Health has suffered a data breach involving confidential patient information, with users of its GP video consultation app allowed to see other patients' appointments.
+The breach emerged when one of its users discovered they had access to video recordings of other patients' consultations.
+Babylon later said a small number of UK users could see each other's sessions and that the problem was a limited software error and not a "malicious attack".
+In a statement provided to the Guardian, Babylon Health said: "On the afternoon of Tuesday 9 June we identified and resolved an issue within two hours whereby one patient accessed the introduction of another patient's consultation recording."
+"Our investigation showed that three patients, who had booked and had appointments today, were incorrectly presented with, but did not view, recordings of other patients' consultations through a subsection of the user's profile within the Babylon app.
+"This was the result of a software error rather than a malicious attack. The problem was identified and resolved quickly.
+"Of course we take any security issue, however small, very seriously and have contacted the patients affected to update, apologise to and support where required."
+The company said it had notified the Information Commissioner's Office.
+Affected users were in the UK. No international users were affected.
+Babylon allows its members to speak to a doctor, therapist or other health specialist through a video call on a smartphone. It has more than 2.3 million registered users in the UK.
+Babylon user Rory Glover told the BBC when he logged onto the app there were about 50 videos in the consultation replays section of the app that did not belong to him.
+"You don't expect to see something like that when you're using a trusted application. It's shocking to see such a monumental mistake made," he said.
+Glover said he would not use the Babylon app again.
+"It's an issue of doctor-patient confidentiality," he said. "You expect anything you say to be private, not for it to be shared with a stranger."

@@ -1,0 +1,53 @@
+The race for a Covid vaccine: inside the Australian lab working round the clock to produce 100m doses
+The Guardian is given a unique insight into the operations of CSL, which is making vaccines that could help end the crisis
+Some call it the "happy soup".
+Take a dash of modified Covid-19 protein DNA, mix it with cells from a Chinese hamster's ovary, and place the combination in two state-of-the-art 2,000L bioreactors in a sprawling scientific facility on Melbourne's northern fringes.
+The result? A broth that, once purified and combined with an immune booster, could help end the Covid-19 crisis as we know it.
+For months, much hope has rested on the vaccine technology developed by the University of Queensland, which has produced a version of the virus unable to use its crown – or corona – of spikes to attach to target cells inside the human body.
+But if hopes are realised and the UQ vaccine is found to be safe and effective, what next? How will Australia manufacture it at the dizzying scale required to bring the nation out of crisis?
+The Guardian has been given a unique insight into the operations of CSL, the company tasked with manufacturing 100m doses of the UQ vaccine and tens of millions of doses of the AstraZeneca vaccine, one of the world's other great hopes.
+Production will take place in CSL's biotech manufacturing facility in Broadmeadows, a lab directed by a softly spoken, bespectacled scientist named Phil Elliott.
+Elliott and his team are already manufacturing the UQ vaccine to aid in the clinical trials and to ensure it is available to be distributed across Australia and New Zealand as soon as possible, once deemed safe.
+"If the trials continue to prove successful and deliver the outcomes that we are all hoping that they do, we will have manufactured sufficient material to enable the Australian and New Zealand population to have access to the vaccine candidates for administration ," Elliott says. "The team are very excited to be able to say they have been involved in what's a globally significant activity."
+The process of infection relies on the virus using the spike proteins on its outer surface to attach on to human ACE2 receptors – a protein on the surface of many cells, including in organs and on tongues.
+Once attached, the spike transforms and unfolds, hooking into the cell and crashing the virus particle and cell together, forming a channel through which a string of viral genetic material can pass into the human cell.
+When the body's immune system fires up to combat the virus, much of its effort goes toward that spike protein.
+UQ has effectively taken the Covid-19 genetic sequence, isolated the section that codes for the spike protein, and changed that sequence to include a clamp that locks three spike proteins together in the form they exist in before they try to bind with human cells.
+The upshot? The body gets all the immune response with none of the infection and is vaccinated against future Covid-19 infection.
+The process for manufacturing the UQ vaccine begins when CSL receives the DNA that codes for the modified spike proteins.
+The DNA is then introduced into mammalian cells – most often a cell line originally derived from the ovary of a single Chinese hamster – and placed into the bioreactors at CSL's facility.
+It starts off small.
+The mammalian cells making the spike protein are grown in small volumes of roughly 50ml. Then 100ml, and 200ml.
+And on, and on, until you start to get the kinds of quantities you need to produce a vaccine.
+"Ultimately you have to scale up the growth of those [Chinese hamster ovary] cells to a very large volume so you can produce sufficient quantities," CSL's chief scientist, Andrew Nash, explains.
+"So in our case you end up in a 2,000L bioreactor."
+The cells grow continuously for about 12 days, all the while producing the spike protein so crucial to the UQ vaccine.
+Once the 2,000L reactor is full, it is harvested and purified.
+The goal here is simple: separate out the spike protein from the mammalian cells and any other unwanted byproduct and debris to make the best possible vaccine.
+"The more purified you can make the protein antigen you want to use in the vaccine, the best chance that you have of getting an immune response that is directed towards that protein," Nash says. "And the less chance you've got of having side-effects being associated with debris from the cells or the unwanted byproducts of that bioreactive process."
+The process is completed by combining the purified spike proteins with an adjuvant, an agent that boosts the immune system, known formally as MF59.
+It's a critical step for people with weaker immune systems – the elderly, for example – to make sure they are protected from the viral infection. The same adjuvant has been used safely for many years in flu vaccines.
+The process is not unusual for CSL. The manufacturing of the UQ vaccine – a type of recombinant protein vaccine – is not anything CSL hasn't done before.
+The scale of production needed, while immense, is also well within CSL's capacity.
+CSL estimates it can produce 100m doses of a Covid-19 vaccine by the end of next year. About 51m will go to Australia and another 51m will go to developing nations in a deal with the Coalition for Epidemic Preparedness Innovations, a global body seeking to ensure equitable vaccine distribution.
+The challenge in all of this, though, is the urgency.
+The vaccine development process has been compressed by taking steps that would usually be linear, and conducting them in parallel.
+That means, for example, scaling up manufacturing while vaccines are still in trial phase.
+"The main issue for us was the facilities are used for our own R&amp;D processes and we have a very active portfolio and pipeline of projects," Nash says. "The challenge is finding a way to integrate the manufacture of vaccines in with what is our business as usual. Given the circumstances with the pandemic, we've set aside our business as usual and have found ways to manufacture the vaccine."
+Manufacturing a vaccine at trial stage is rare, simply because of the risks of making such a huge investment in an unproven vaccine.
+Prof Paul Griffin, the director of infectious diseases at Mater Health Services and an associate professor of medicine at the University of Queensland, says that vaccine manufacturing typically does not begin until phase-three clinical trials are complete.
+"This is a huge investment in that scaling up process that CSL would be involved in, because it does often take a lot of time, and a lot of money in terms of infrastructure and expertise and other things, so normally it's not contemplated until the phase three," he says. "And of course, not every vaccine that gets to phase three trials will be successful.
+"So you're spending potentially hundreds of millions of dollars to scale up manufacturing for something that you may find doesn't actually work.
+"It is a huge investment but you know one that is certainly worth it at the moment, given how important the vaccine will be."
+Peter Collignon, an infectious diseases expert at the Australian National University, says manufacturing vaccines requires a huge amount of infrastructure and expertise, the kind that only CSL has in Australia.
+The speed of the vaccine development process has caused some concern among the broader public.
+Vaccine hesitancy looms as a potentially significant barrier to the uptake of any Covid-19 vaccine, which the prime minister, Scott Morrison, wants distributed to 95% of the population.
+But both Nash and Griffin say there is no reason for concern about the speed of the process.
+"There's a huge amount of public focus on what's happening at the moment," Nash says. "While there's a lot of pressure to come up with something as fast as possible, I think everyone is resisting the temptation to cut any corners when it comes to safety, because ultimately, that's not where anybody wants to be."
+Griffin says many of the steps being accelerated sit between the clinical trials.
+"So what we've done to really hasten the process is basically cut out a lot of the steps in between the clinical trials that often take so long, and it is those steps that are often responsible for the very significant time delays that we often have developing these sorts of products," Griffin says. "But what is important is that we actually haven't shortened any of the key steps."
+It's still unclear when, and if, a Covid-19 vaccine might be available.
+If it does prove safe and effective, and CSL manufactures the millions of doses required, the next step is distribution, a process itself fraught with difficulty.
+That is a problem for the federal government to consider.
+In the meantime, Nash and his team are working round the clock to ensure the vaccine is in ready supply.
+"If you just take this as an individual episode, the pandemic, people within CSL realise this is really important and all the additional work that is required is very much worthwhile," he says. "Working for a company, CSL works a lot in rare disease, and we understand our patients and their issues very well, and I think that is often a very motivating factor for our scientists and product development people. This is just an urgent extension of that."

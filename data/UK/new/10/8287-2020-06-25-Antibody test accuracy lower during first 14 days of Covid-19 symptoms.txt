@@ -1,0 +1,26 @@
+Antibody test accuracy lower during first 14 days of Covid-19 symptoms
+Review reports 30% of people picked up by tests in first week against 90% in third week
+If you would like to share your stories about testing you can get in touch by filling in the form \nbelow. Only the Guardian can see your \ncontributions and one of our journalists may contact you to discuss \nfurther.
+Review reports 30% of people picked up by tests in first week against 90% in third week
+Timing is crucial when it comes to antibody tests, experts have said, after a review of studies found their accuracy is far lower if used within the first fortnight of coronavirus symptoms rather than a week or two later.
+The development of antibody tests is an important element in containing the pandemic. By picking up on immune proteins in the body, they can help shed light on who has had Covid-19, in contrast to PCR tests which tell if someone is currently infected.
+Experts say antibody tests could help to understand the proportion of the population that has had the disease. At present, however, it is not clear what a positive antibody test means in terms of immunity, a key issue for "immunity passports".
+Now a team of researchers has delved into the issue of antibody tests, releasing a Cochrane review, considered to be the gold standard when it comes to weighing up evidence.
+The team examined 54 studies of antibody tests carried out on about 16,000 samples, more than half of which were from Covid-19 cases. All the studies were reported before the end of April, and most were carried out in Asia.
+The review highlights the fact that such studies were often problematic, with many failing to give clear details about the actual number of patients involved, or the test used. Several only including participants who actually had Covid-19.
+What's more, 44 of the studies only trialled the antibody tests on people who had been admitted to hospital.
+"People who are hospitalised with Covid-19 infection have severe infection and they probably have high levels of antibodies as a result of this," said Jon Deeks, a member of the Cochrane review and a professor of biostatistics at the University of Birmingham. "This is going to lead to tests looking more sensitive than they would be if we used them in the general population."
+The team say the review makes it clear that timing is a crucial issue when it comes to antibody testing.
+"What our analysis has most clearly shown is that this [variations in the accuracy of tests from different studies] is largely driven by when the samples are taken from the patients," said Deeks.
+When carried out in the first week of a patient having symptoms only about 30% of people with Covid-19 were picked up by tests for two main types of antibodies, rising to about 70% between eight to 14 days after the onset of symptoms. From two weeks after symptoms began the figure was about 90%. Only 1% to 2% of people without Covid-19 received a positive result from antibody tests.
+-testing
+But there is another issue. "We don't really know very much about the accuracy of these antibody tests after the first five weeks of the disease," said Deeks.
+Deeks said antibody testing might prove beneficial in testing people with symptoms of suspected Covid-19, and in working out levels of infection in large populations – if the tests pick up antibodies several months after infection and errors can be adjusted for. But, he cautioned, they do not offer information about immunity.
+The review did not examine antibody tests from the companies Abbott or Roche, both of which Public Health England has approved for use among frontline health and care workers in the NHS, but Deeks said work to assess their accuracy at different time points after infection will be important.
+Eleanor Riley, a professor of immunology and infectious disease at the University of Edinburgh, who was not part of the review team, agreed that timing matters.
+"It is already very clear from this analysis that antibody testing early in the course of disease is unreliable and thus antibody tests cannot, and should not, replace virus detection for diagnosis of acute cases except where the time-course of disease is already well advanced," she said.
+"The data also make it very clear that most, if not all, commercially available tests are not sufficiently accurate to warrant their use outside of the healthcare setting."
+Superdrug and Babylon are among the companies that have already been told to stop selling antibody tests because of concerns over whether home blood samples are as accurate as samples taken in a clinic.
+The new review comes the day after a group of academics wrote a letter in the BMJ voicing concerns about the use of antibody tests,on the basis that they do not shed light on immunity and so offer no benefit to hospital and care staff.
+Deeks said the use of tests in hospitals might improve understanding of how Covid-19 spreads in such settings and inform appropriate action, but that it offers limited benefits on an individual basis.
+"Doing this in a coordinated way, with public health input, would be the critical way to make the most [of] this testing," he said.

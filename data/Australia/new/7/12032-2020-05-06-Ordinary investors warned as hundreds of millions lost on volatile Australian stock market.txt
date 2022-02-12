@@ -1,0 +1,22 @@
+Ordinary investors warned as hundreds of millions lost on volatile Australian stock market
+Corporate watchdog says retail traders have been spectacularly bad at correctly picking the huge stock price fluctuations during coronavirus
+The corporate watchdog has warned ordinary investors against trying to pick stock market winners after finding that day traders lured into action during the coronavirus lockdown lost hundreds of millions of dollars.
+In a new report released on Wednesday, the Australian Securities and Investments Commission also renewed its attack on contracts for difference, or spread betting, saying investors could easily lose more than they invested in the highly leveraged product.
+"The message is that in periods of volatility people need to be careful about investing in chasing quick profits by playing the market over the short term," the head of Asic's markets group, Greg Yanco, told Guardian Australia.
+"Retail investors, during the period we looked at, overall did fairly badly when trading the market."
+Asic said retail investors flooded into the market between 20 February and 3 April, the period covered in its report, opening new share trading accounts and reactivating dormant ones.
+Daily trade by brokers that cater to retail clients more than doubled, from $1.6bn in normal times to $3.3bn during the lockdown, as new retail investors rushed into the market by creating more than 4,600 trading accounts a day.
+And investors who had not traded for six months or more also waded back in, reopening 142,000 dormant accounts.
+The period covered by Asic's report coincides with an extraordinarily volatile period on the Australian stock exchange – a 30% tumble in share prices that was followed by weeks of wild daily swings in stocks as the effects of the coronavirus pandemic rippled through the economy.
+Asic's data reveals that retail traders have been spectacularly bad at correctly picking the gargantuan gyrations in stock prices seen during the pandemic.
+It found that on more than two-thirds of the days when retail investors bought shares, the price went down the next day, and on more than half of the days when they sold the price went up the next day.
+"If all retail investors held their positions for only one day, total losses would have amounted to over $230m," Asic said.
+Losses were even worse in CFDs, the use of which more than doubled from around 20m a week in January to a peak of more than 45m a week in mid-March.
+CFD providers currently offer leverage of as much as 500 to one, vastly amplifying both potential gains and losses to investors.
+"We've been very clear that we think care needs to be taken in using leverage as part of your trading strategy," Yanco said.
+"The evidence that we and other regulators have seen globally is that the higher the leverage the higher the losses can be."
+In August last year Asic proposed using new "product intervention powers" to limit the leverage CFD providers can offer on shares to 15 times, and impose lower ratios on exotic assets including cryptocurrencies.
+A consultation process ended in October but Asic has yet to make a decision amid heavy lobbying against the move by the industry.
+Asic said that in the week beginning 16 March, customers of Australia's top 12 CFD providers blew up $428m on losing bets, for total losses of $234m once winning trades were netted out.
+"The 12 providers account for around 84% market share, so the aggregate retail client losses across the industry for this single week may be higher," Asic said.
+Yanco said that his advice to investors was to "invest in products they understand, and if they want to invest but they feel that they don't necessarily understand the product or where the market may be heading that they seek professional advice".
